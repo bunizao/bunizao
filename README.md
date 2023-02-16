@@ -2,9 +2,9 @@
 
 ### My Programs:
 ❗️(ALL for Personal-use)
-▎Better Proxy Profiles: 🌐[TutuBetterRules](https://github.com/bunizao/TutuBetterRules)
-▎SubConverter:https://sub.tutu.asia
-▎URLShortener:https://tuu.cat
+▎Better Proxy Profiles: 🌐[TutuBetterRules](https://github.com/bunizao/TutuBetterRules)  
+▎SubConverter:https://sub.tutu.asia  
+▎URLShortener:https://tuu.cat  
 
 ### My Blog:
 🏃‍♂️ https://tutuis.me
