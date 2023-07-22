@@ -3,7 +3,7 @@
 ### My Programs:
 ❗️(ALL for Personal-use)  
  - ▎Better Proxy Profiles: 🌐[**TutuBetterRules**](https://github.com/bunizao/TutuBetterRules)  
- - ▎SubConverter: https://sub.tutu.asia  
+ - ▎SubConverter: https://sub.tuu.cat
  - ▎URLShortener: https://tuu.cat  
 
 ### My Blog:
