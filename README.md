@@ -1,8 +1,3 @@
-# `Hello World`
-<a href="https://github.com/bunizao#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunizao&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right" alt="Bunizao's GitHub stats" />
-</a>
-
-<a href="https://github.com/bunizao#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunizao&show_icons=true&hide_border=true&icon_color=60696f&title_color=8d939d&include_all_commits=true&hide_title=true&bg_color=21262d&text_color=8d939d" align="right" alt="Bunizao's GitHub stats" />
-</a>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FAFAFA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bunizao+%F0%9F%91%8B;Student+%2F+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</h3>
