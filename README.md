@@ -12,8 +12,8 @@
 <!-- Site Badge -->
 <a href="https://buxx.me" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/site-badge.svg?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/site-badge.svg?theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/site-badge.svg?theme=dark?ref=github.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/site-badge.svg?theme=light?ref=github.com">
     <img src="https://buxx.me/api/site-badge.svg?theme=dark" alt="Visit buxx.me" height="32" />
   </picture>
 </a>
