@@ -35,23 +35,25 @@
 
 <p><strong>10 active projects</strong> in the past 7 days.</p>
 
-<p><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — A personal bio and portfolio website</p>
+<ul>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — A personal bio and portfolio website</li>
 
-<p><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</p>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
-<p><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</p>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-<p><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</p>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-<p><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes. Now in Public Beta.</p>
+  <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes. Now in Public Beta.</li>
 
-<p><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</p>
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-<p><strong>bunizao/private-repo</strong> — Access denied. (For now.)</p>
+  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
-<p><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</p>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
-<p><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</p>
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
-<p><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</p>
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+</ul>
 <!-- RECENT_ACTIVITY:END -->

@@ -78,7 +78,7 @@ activity.sort((left, right) => {
 const privateRepoDescriptions = shuffle([...PRIVATE_REPO_DESCRIPTIONS]);
 let privateRepoDescriptionIndex = 0;
 
-const paragraphs = activity
+const items = activity
   .map((repo) => {
     const projectLabel = repo.isPrivate
       ? "bunizao/private-repo"
@@ -87,7 +87,7 @@ const paragraphs = activity
       ? nextPrivateRepoDescription()
       : formatDescription(repo.description);
 
-    return `<p><strong>${projectLabel}</strong> — ${escapeHtml(description)}</p>`;
+    return `  <li><strong>${projectLabel}</strong> — ${escapeHtml(description)}</li>`;
   })
   .join("\n\n");
 
@@ -97,7 +97,7 @@ const renderedSection = [
   "",
   `<p><strong>${activity.length} active ${activity.length === 1 ? "project" : "projects"}</strong> in the past ${WINDOW_DAYS} days.</p>`,
   "",
-  ...(paragraphs ? [paragraphs] : ["<p>No active projects in this window.</p>"]),
+  ...(items ? ["<ul>", items, "</ul>"] : ["<p>No active projects in this window.</p>"]),
   END_MARKER,
 ].join("\n");
 
