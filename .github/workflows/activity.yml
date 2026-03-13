@@ -1,0 +1,47 @@
+name: Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update README activity block
+        env:
+          PROFILE_SYNC_TOKEN: ${{ secrets.PROFILE_SYNC_TOKEN || github.token }}
+          README_PATH: README.md
+          WINDOW_DAYS: 7
+          MAX_REPOSITORIES: 100
+        run: node .github/scripts/sync-recent-activity.mjs
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync activity"
+          git push

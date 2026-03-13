@@ -29,3 +29,21 @@
 </picture>
 
 </div>
+
+<!-- RECENT_ACTIVITY:START -->
+### Recent Activity
+
+<table align="center">
+  <tr><td colspan="2" align="center">
+    <strong>7 active projects</strong><br/>
+    <sub>Past 7 days · 106 total commits</sub>
+  </td></tr>
+  <tr><td><a href="https://github.com/bunizao/site">bunizao/site</a></td><td align="right"><code>48 commits</code></td></tr>
+  <tr><td><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></td><td align="right"><code>22 commits</code></td></tr>
+  <tr><td><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></td><td align="right"><code>16 commits</code></td></tr>
+  <tr><td><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></td><td align="right"><code>8 commits</code></td></tr>
+  <tr><td><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></td><td align="right"><code>5 commits</code></td></tr>
+  <tr><td><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></td><td align="right"><code>4 commits</code></td></tr>
+  <tr><td><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></td><td align="right"><code>3 commits</code></td></tr>
+</table>
+<!-- RECENT_ACTIVITY:END -->
