@@ -33,17 +33,25 @@
 <!-- RECENT_ACTIVITY:START -->
 ### Recent Activity
 
-<table align="center">
-  <tr><td colspan="2" align="center">
-    <strong>7 active projects</strong><br/>
-    <sub>Past 7 days · 106 total commits</sub>
-  </td></tr>
-  <tr><td><a href="https://github.com/bunizao/site">bunizao/site</a></td><td align="right"><code>48 commits</code></td></tr>
-  <tr><td><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></td><td align="right"><code>22 commits</code></td></tr>
-  <tr><td><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></td><td align="right"><code>16 commits</code></td></tr>
-  <tr><td><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></td><td align="right"><code>8 commits</code></td></tr>
-  <tr><td><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></td><td align="right"><code>5 commits</code></td></tr>
-  <tr><td><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></td><td align="right"><code>4 commits</code></td></tr>
-  <tr><td><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></td><td align="right"><code>3 commits</code></td></tr>
-</table>
+<p><strong>10 active projects</strong> in the past 7 days.</p>
+
+<p><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — A personal bio and portfolio website</p>
+
+<p><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</p>
+
+<p><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</p>
+
+<p><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</p>
+
+<p><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes. Now in Public Beta.</p>
+
+<p><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</p>
+
+<p><strong>bunizao/private-repo</strong> — Access denied. (For now.)</p>
+
+<p><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</p>
+
+<p><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</p>
+
+<p><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</p>
 <!-- RECENT_ACTIVITY:END -->

@@ -27,7 +27,7 @@ jobs:
 
       - name: Update README activity block
         env:
-          PROFILE_SYNC_TOKEN: ${{ secrets.PROFILE_SYNC_TOKEN || github.token }}
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
           README_PATH: README.md
           WINDOW_DAYS: 7
           MAX_REPOSITORIES: 100
