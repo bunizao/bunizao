@@ -75,6 +75,7 @@ activity.sort((left, right) => {
   return left.nameWithOwner.localeCompare(right.nameWithOwner);
 });
 
+const totalCommits = activity.reduce((sum, repo) => sum + repo.commits, 0);
 const privateRepoDescriptions = shuffle([...PRIVATE_REPO_DESCRIPTIONS]);
 let privateRepoDescriptionIndex = 0;
 
@@ -95,7 +96,7 @@ const renderedSection = [
   START_MARKER,
   "### Recent Activity",
   "",
-  `<p><strong>${activity.length} active ${activity.length === 1 ? "project" : "projects"}</strong> in the past ${WINDOW_DAYS} days.</p>`,
+  `<p><strong>${activity.length} active ${activity.length === 1 ? "project" : "projects"}</strong> in the past ${WINDOW_DAYS} days, with ${totalCommits} total ${totalCommits === 1 ? "commit" : "commits"}.</p>`,
   "",
   ...(items ? ["<ul>", items, "</ul>"] : ["<p>No active projects in this window.</p>"]),
   END_MARKER,
