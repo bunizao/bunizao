@@ -33,7 +33,7 @@
 <!-- RECENT_ACTIVITY:START -->
 ### Recent Activity
 
-<p><strong>10 active projects</strong> in the past 7 days, with 168 total commits.</p>
+<p><strong>10 active projects</strong> in the past 7 days, with 175 total commits.</p>
 
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — A personal bio and portfolio website</li>
@@ -50,7 +50,7 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
