@@ -3,7 +3,7 @@ name: Activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 1 * * *"
+    - cron: "0 0,5,10,15,20 * * *"
 
 permissions:
   contents: write
@@ -18,10 +18,10 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 20
 
