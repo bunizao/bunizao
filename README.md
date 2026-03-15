@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Header Section -->
+<!-- Header: Typing Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&height=60&lines=Bunizao;Student+%2F+Developer;Open+Source+Enthusiast">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=171717&center=true&vCenter=true&width=600&height=60&lines=Bunizao;Student+%2F+Developer;Open+Source+Enthusiast">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&height=60&lines=Bunizao;Student+%2F+Developer;Open+Source+Enthusiast" alt="Typing Animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&height=70&lines=Bunizao;Student+%2F+Developer;Open+Source+Enthusiast">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=171717&center=true&vCenter=true&width=600&height=70&lines=Bunizao;Student+%2F+Developer;Open+Source+Enthusiast">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&height=70&lines=Bunizao;Student+%2F+Developer;Open+Source+Enthusiast" alt="Typing Animation" />
 </picture>
-
-<br/>
 
 <!-- Site Badge -->
 <a href="https://buxx.me" target="_blank">
@@ -21,16 +19,31 @@
 <br/>
 <br/>
 
-<!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3">
-  <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=171717&text_color=737373&icon_color=737373">
-  <img src="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3" alt="GitHub Stats" />
-</picture>
+<!-- Two-column: Stats + Streak side by side -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3">
+        <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=171717&text_color=737373&icon_color=737373">
+        <img src="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3" alt="GitHub Stats" />
+      </picture>
+    </td>
+    <td align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=default&hide_border=true&background=ffffff&stroke=e5e5e5&ring=171717&fire=171717&currStreakNum=171717&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=a3a3a3">
+        <img src="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252" alt="GitHub Streak" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+<div align="center">
+
 ### Recent Activity
 
 <pre>
@@ -42,27 +55,19 @@
 +-----------------------------------------------+
 </pre>
 
-<ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
+</div>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
-
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
-
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
-
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
-
-  <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes. Now in Public Beta.</li>
-
-  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
-
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
-
-  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
-
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-</ul>
+| Repository | Description |
+|---|---|
+| [bunizao/site](https://github.com/bunizao/site) | My personal bio and portfolio website. |
+| **bunizao/private-repo** | Classified. Eyes only. |
+| **bunizao/private-repo** | This looked like a good idea at 2am. |
+| [bunizao/moodle-cli](https://github.com/bunizao/moodle-cli) | Terminal-first CLI for Moodle LMS |
+| [bunizao/edstem-cli](https://github.com/bunizao/edstem-cli) | A CLI for Ed Discussion — browse courses, threads, and comments in terminal |
+| [bunizao/okta-auth](https://github.com/bunizao/okta-auth) | CLI and MCP server for Okta SSO authentication with persistent session management |
+| [bunizao/always-attend](https://github.com/bunizao/always-attend) | An automation helper to submit weekly attendance codes. Now in Public Beta. |
+| [bunizao/bunizao](https://github.com/bunizao/bunizao) | No public description. |
+| [bunizao/ontrack-cli](https://github.com/bunizao/ontrack-cli) | Terminal-first CLI for OnTrack that reuses your authenticated browser session. |
+| [bunizao/Sink](https://github.com/bunizao/Sink) | ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare. |
+| [bunizao/Attegi](https://github.com/bunizao/Attegi) | Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. |
 <!-- RECENT_ACTIVITY:END -->
