@@ -18,24 +18,24 @@
   </picture>
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- GitHub Stats + Streak side by side, fixed width to prevent stretching -->
+<!-- GitHub Stats + Streak: both inside center div, same height, will sit inline -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3&card_width=400">
-  <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=171717&text_color=737373&icon_color=737373&card_width=400">
-  <img height="160" src="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3&card_width=400" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3">
+  <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=171717&text_color=737373&icon_color=737373">
+  <img height="155" src="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252&card_width=400">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=default&hide_border=true&background=ffffff&stroke=e5e5e5&ring=171717&fire=171717&currStreakNum=171717&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=a3a3a3&card_width=400">
-  <img height="160" src="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252&card_width=400" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=default&hide_border=true&background=ffffff&stroke=e5e5e5&ring=171717&fire=171717&currStreakNum=171717&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=a3a3a3">
+  <img height="155" src="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252" alt="GitHub Streak" />
 </picture>
 
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
+<div align="center">
 
 ### Recent Activity
 
@@ -47,6 +47,8 @@
 | code delta :: +48,820 / -16,240 / net +32,580 |
 +-----------------------------------------------+
 </pre>
+
+</div>
 
 - [**bunizao/site**](https://github.com/bunizao/site) — My personal bio and portfolio website.
 - **bunizao/private-repo** — Classified. Eyes only.
