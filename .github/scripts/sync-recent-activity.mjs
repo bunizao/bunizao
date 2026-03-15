@@ -95,11 +95,15 @@ const totals = activity.reduce(
 const totalNet = totals.additions - totals.deletions;
 const privateRepoDescriptions = shuffle([...PRIVATE_REPO_DESCRIPTIONS]);
 let privateRepoDescriptionIndex = 0;
+const hoursInWindow = WINDOW_DAYS * 24;
+const linesPerHour = Math.round(totalNet / hoursInWindow);
+
 const statsPanel = renderStatsPanel([
   `activity scan :: last ${WINDOW_DAYS} days`,
   `active projects :: ${formatNumber(totals.activeProjects)}`,
   `total commits :: ${formatNumber(totals.commits)}`,
   `code delta :: ${formatSigned(totals.additions)} / ${formatSigned(-totals.deletions)} / net ${formatSigned(totalNet)}`,
+  `avg output   :: ${formatSigned(linesPerHour)} lines/hr`,
 ]);
 const items = activity
   .map((repository) => {
