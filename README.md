@@ -35,31 +35,39 @@
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
-<div align="center">
-
 ### Recent Activity
 
 <pre>
 +-----------------------------------------------+
 | activity scan :: last 7 days                  |
 | active projects :: 11                         |
-| total commits :: 184                          |
-| code delta :: +48,820 / -16,240 / net +32,580 |
+| total commits :: 175                          |
+| code delta :: +45,983 / -12,850 / net +33,133 |
+| avg output   :: +197 lines/hr                 |
 +-----------------------------------------------+
 </pre>
 
-</div>
+<ul>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
-- [**bunizao/site**](https://github.com/bunizao/site) — My personal bio and portfolio website.
-- **bunizao/private-repo** — Classified. Eyes only.
-- **bunizao/private-repo** — This looked like a good idea at 2am.
-- [**bunizao/moodle-cli**](https://github.com/bunizao/moodle-cli) — Terminal-first CLI for Moodle LMS
-- [**bunizao/edstem-cli**](https://github.com/bunizao/edstem-cli) — A CLI for Ed Discussion — browse courses, threads, and comments in terminal
-- [**bunizao/okta-auth**](https://github.com/bunizao/okta-auth) — CLI and MCP server for Okta SSO authentication with persistent session management
-- [**bunizao/always-attend**](https://github.com/bunizao/always-attend) — An automation helper to submit weekly attendance codes. Now in Public Beta.
-- [**bunizao/bunizao**](https://github.com/bunizao/bunizao) — No public description.
-- [**bunizao/ontrack-cli**](https://github.com/bunizao/ontrack-cli) — Terminal-first CLI for OnTrack that reuses your authenticated browser session.
-- [**bunizao/Sink**](https://github.com/bunizao/Sink) — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-- [**bunizao/Attegi**](https://github.com/bunizao/Attegi) — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
+
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
+
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+
+  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
+
+  <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes. Now in Public Beta.</li>
+
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
+
+  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
+
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+</ul>
 <!-- RECENT_ACTIVITY:END -->
