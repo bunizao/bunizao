@@ -33,7 +33,14 @@
 <!-- RECENT_ACTIVITY:START -->
 ### Recent Activity
 
-<p><strong>11 active projects</strong> in the past 7 days, with 192 total commits.</p>
+<pre>
++-----------------------------------------------+
+| activity scan :: last 7 days                  |
+| active projects :: 11                         |
+| total commits :: 184                          |
+| code delta :: +48,820 / -16,240 / net +32,580 |
++-----------------------------------------------+
+</pre>
 
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>

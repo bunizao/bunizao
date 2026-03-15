@@ -5,8 +5,11 @@ import process from "node:process";
 const README_PATH = process.env.README_PATH || "README.md";
 const WINDOW_DAYS = Number(process.env.WINDOW_DAYS || 7);
 const MAX_REPOSITORIES = Number(process.env.MAX_REPOSITORIES || 100);
+const REPOSITORY_CONCURRENCY = Number(process.env.REPOSITORY_CONCURRENCY || 4);
+const COMMIT_DETAIL_CONCURRENCY = Number(process.env.COMMIT_DETAIL_CONCURRENCY || 8);
 const START_MARKER = "<!-- RECENT_ACTIVITY:START -->";
 const END_MARKER = "<!-- RECENT_ACTIVITY:END -->";
+const GITHUB_API_URL = "https://api.github.com";
 const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
 const PRIVATE_REPO_DESCRIPTIONS = [
   "What lies hidden here? Just wait and see.",
@@ -28,65 +31,84 @@ const PRIVATE_REPO_DESCRIPTIONS = [
 const token = process.env.SYNC_TOKEN;
 
 if (!token) {
-  throw new Error("Missing SYNC_TOKEN. A token with private repo access is required.");
+  throw new Error("Missing SYNC_TOKEN. A token with repository read access is required.");
 }
 
 const now = new Date();
 const from = new Date(now);
 from.setUTCDate(from.getUTCDate() - WINDOW_DAYS);
-const fromIso = from.toISOString();
 
+const fromIso = from.toISOString();
+const toIso = now.toISOString();
 const viewer = await fetchViewer();
 const repositories = await fetchCandidateRepositories(fromIso, MAX_REPOSITORIES);
+const activity = (
+  await mapConcurrent(repositories, REPOSITORY_CONCURRENCY, async (repository) => {
+    const stats = await fetchRepositoryStats({
+      authorLogin: viewer.login,
+      defaultBranch: repository.defaultBranch,
+      fromIso,
+      name: repository.name,
+      owner: repository.owner,
+      toIso,
+    });
 
-const activity = [];
+    if (!stats || stats.commits <= 0) {
+      return null;
+    }
 
-for (const repository of repositories) {
-  const stats = await fetchRepositoryStats({
-    authorId: viewer.id,
-    fromIso,
-    name: repository.name,
-    owner: repository.owner,
-  });
-
-  if (!stats || stats.commits <= 0) {
-    continue;
-  }
-
-  activity.push({
-    commits: stats.commits,
-    description: repository.description,
-    isPrivate: repository.isPrivate,
-    lastCommitAt: stats.lastCommitAt,
-    nameWithOwner: repository.nameWithOwner,
-    url: repository.url,
-  });
-}
+    return {
+      additions: stats.additions,
+      commits: stats.commits,
+      deletions: stats.deletions,
+      description: repository.description,
+      isPrivate: repository.isPrivate,
+      nameWithOwner: repository.nameWithOwner,
+      url: repository.url,
+    };
+  })
+).filter(Boolean);
 
 activity.sort((left, right) => {
   if (right.commits !== left.commits) {
     return right.commits - left.commits;
   }
 
-  if (right.lastCommitAt !== left.lastCommitAt) {
-    return right.lastCommitAt.localeCompare(left.lastCommitAt);
-  }
-
   return left.nameWithOwner.localeCompare(right.nameWithOwner);
 });
 
-const totalCommits = activity.reduce((sum, repo) => sum + repo.commits, 0);
+const totals = activity.reduce(
+  (summary, repository) => ({
+    activeProjects: summary.activeProjects + 1,
+    additions: summary.additions + repository.additions,
+    commits: summary.commits + repository.commits,
+    deletions: summary.deletions + repository.deletions,
+  }),
+  {
+    activeProjects: 0,
+    additions: 0,
+    commits: 0,
+    deletions: 0,
+  },
+);
+
+const totalNet = totals.additions - totals.deletions;
 const privateRepoDescriptions = shuffle([...PRIVATE_REPO_DESCRIPTIONS]);
 let privateRepoDescriptionIndex = 0;
-
+const statsPanel = renderStatsPanel([
+  `activity scan :: last ${WINDOW_DAYS} days`,
+  `active projects :: ${formatNumber(totals.activeProjects)}`,
+  `total commits :: ${formatNumber(totals.commits)}`,
+  `code delta :: ${formatSigned(totals.additions)} / ${formatSigned(-totals.deletions)} / net ${formatSigned(totalNet)}`,
+]);
 const items = activity
-  .map((repo) => {
-    const projectLabel = repo.isPrivate
-      ? "bunizao/private-repo"
-      : `<a href="${repo.url}">${escapeHtml(repo.nameWithOwner)}</a>`;
-    const description = repo.isPrivate
+  .map((repository) => {
+    const projectLabel = repository.isPrivate
+      ? `${viewer.login}/private-repo`
+      : `<a href="${repository.url}">${escapeHtml(repository.nameWithOwner)}</a>`;
+    const description = repository.isPrivate
       ? nextPrivateRepoDescription()
-      : formatDescription(repo.description);
+      : formatDescription(repository.description);
 
     return `  <li><strong>${projectLabel}</strong> — ${escapeHtml(description)}</li>`;
   })
@@ -96,7 +118,9 @@ const renderedSection = [
   START_MARKER,
   "### Recent Activity",
   "",
-  `<p><strong>${activity.length} active ${activity.length === 1 ? "project" : "projects"}</strong> in the past ${WINDOW_DAYS} days, with ${totalCommits} total ${totalCommits === 1 ? "commit" : "commits"}.</p>`,
+  "<pre>",
+  statsPanel,
+  "</pre>",
   "",
   ...(items ? ["<ul>", items, "</ul>"] : ["<p>No active projects in this window.</p>"]),
   END_MARKER,
@@ -121,6 +145,17 @@ if (nextReadme !== readme) {
   console.log(`No README changes for ${README_PATH}.`);
 }
 
+function renderStatsPanel(lines) {
+  const width = lines.reduce((max, line) => Math.max(max, line.length), 0);
+  const border = `+${"-".repeat(width + 2)}+`;
+
+  return [
+    border,
+    ...lines.map((line) => `| ${line.padEnd(width, " ")} |`),
+    border,
+  ].join("\n");
+}
+
 function escapeHtml(value) {
   return value
     .replaceAll("&", "&amp;")
@@ -141,6 +176,14 @@ function formatDescription(value) {
   }
 
   return `${normalized.slice(0, 137).trimEnd()}...`;
+}
+
+function formatNumber(value) {
+  return new Intl.NumberFormat("en-US").format(value);
+}
+
+function formatSigned(value) {
+  return `${value > 0 ? "+" : ""}${formatNumber(value)}`;
 }
 
 function nextPrivateRepoDescription() {
@@ -164,7 +207,6 @@ async function fetchViewer() {
   const payload = await githubGraphql(`
     query Viewer {
       viewer {
-        id
         login
       }
     }
@@ -205,6 +247,7 @@ async function fetchCandidateRepositories(fromIso, maxRepositories) {
                   login
                 }
                 defaultBranchRef {
+                  name
                   target {
                     __typename
                   }
@@ -231,6 +274,7 @@ async function fetchCandidateRepositories(fromIso, maxRepositories) {
       .filter((repository) => repository.pushedAt && repository.pushedAt >= fromIso)
       .filter((repository) => repository.defaultBranchRef?.target?.__typename === "Commit")
       .map((repository) => ({
+        defaultBranch: repository.defaultBranchRef.name,
         description: repository.description,
         isPrivate: repository.isPrivate,
         name: repository.name,
@@ -254,64 +298,112 @@ async function fetchCandidateRepositories(fromIso, maxRepositories) {
   return repositories.slice(0, maxRepositories);
 }
 
-async function fetchRepositoryStats({ authorId, fromIso, name, owner }) {
-  let payload;
+async function fetchRepositoryStats({ authorLogin, defaultBranch, fromIso, name, owner, toIso }) {
+  const commits = await fetchRepositoryCommits({
+    authorLogin,
+    defaultBranch,
+    fromIso,
+    name,
+    owner,
+    toIso,
+  });
+
+  if (commits.length === 0) {
+    return null;
+  }
+
+  let additions = 0;
+  let deletions = 0;
+  const stats = await mapConcurrent(commits, COMMIT_DETAIL_CONCURRENCY, async (commit) => {
+    const details = await githubRest(`/repos/${owner}/${name}/commits/${commit.sha}`);
+    return {
+      additions: details.stats?.additions || 0,
+      deletions: details.stats?.deletions || 0,
+    };
+  });
+
+  for (const summary of stats) {
+    additions += summary.additions;
+    deletions += summary.deletions;
+  }
+
+  return {
+    additions,
+    commits: commits.length,
+    deletions,
+  };
+}
+
+async function fetchRepositoryCommits({ authorLogin, defaultBranch, fromIso, name, owner, toIso }) {
+  const commits = [];
+  let page = 1;
 
   try {
-    payload = await githubGraphql(
-      `
-        query RepositoryStats($authorId: ID!, $from: GitTimestamp!, $name: String!, $owner: String!) {
-          repository(owner: $owner, name: $name) {
-            defaultBranchRef {
-              target {
-                __typename
-                ... on Commit {
-                  history(first: 1, since: $from, author: { id: $authorId }) {
-                    totalCount
-                    nodes {
-                      committedDate
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      `,
-      {
-        authorId,
-        from: fromIso,
-        name,
-        owner,
-      },
-    );
+    while (true) {
+      const payload = await githubRest(
+        `/repos/${owner}/${name}/commits`,
+        new URLSearchParams({
+          author: authorLogin,
+          page: String(page),
+          per_page: "100",
+          sha: defaultBranch,
+          since: fromIso,
+          until: toIso,
+        }),
+      );
+
+      if (!Array.isArray(payload) || payload.length === 0) {
+        break;
+      }
+
+      commits.push(...payload);
+
+      if (payload.length < 100) {
+        break;
+      }
+
+      page += 1;
+    }
   } catch (error) {
-    if (error instanceof Error && error.message.includes("Could not resolve to a Repository")) {
+    if (error instanceof Error && "status" in error && (error.status === 404 || error.status === 409)) {
       console.warn(`Skipping unavailable repository: ${owner}/${name}`);
-      return null;
+      return [];
     }
 
     throw error;
   }
 
-  const history = payload.data?.repository?.defaultBranchRef?.target?.history;
+  return commits;
+}
 
-  if (!history) {
-    return null;
+async function mapConcurrent(items, limit, iteratee) {
+  const results = new Array(items.length);
+  let index = 0;
+
+  async function worker() {
+    while (true) {
+      const currentIndex = index;
+
+      if (currentIndex >= items.length) {
+        return;
+      }
+
+      index += 1;
+      results[currentIndex] = await iteratee(items[currentIndex], currentIndex);
+    }
   }
 
-  return {
-    commits: history.totalCount,
-    lastCommitAt: history.nodes[0]?.committedDate || "",
-  };
+  const workerCount = Math.min(Math.max(limit, 1), items.length || 1);
+  await Promise.all(Array.from({ length: workerCount }, () => worker()));
+  return results;
 }
 
 async function githubGraphql(query, variables = {}) {
   const response = await fetch(GITHUB_GRAPHQL_URL, {
     method: "POST",
     headers: {
-      "content-type": "application/json",
       authorization: `Bearer ${token}`,
+      "content-type": "application/json",
     },
     body: JSON.stringify({
       query,
@@ -330,4 +422,26 @@ async function githubGraphql(query, variables = {}) {
   }
 
   return payload;
+}
+
+async function githubRest(endpoint, searchParams = new URLSearchParams()) {
+  const query = searchParams.toString();
+  const url = `${GITHUB_API_URL}${endpoint}${query ? `?${query}` : ""}`;
+  const response = await fetch(url, {
+    headers: {
+      accept: "application/vnd.github+json",
+      authorization: `Bearer ${token}`,
+      "x-github-api-version": "2022-11-28",
+    },
+  });
+
+  if (!response.ok) {
+    const error = new Error(
+      `GitHub REST request failed for ${endpoint}: ${response.status} ${response.statusText}`,
+    );
+    error.status = response.status;
+    throw error;
+  }
+
+  return response.json();
 }
