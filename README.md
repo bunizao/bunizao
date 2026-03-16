@@ -41,18 +41,18 @@
 +-----------------------------------------------+
 | activity scan :: last 7 days                  |
 | active projects :: 11                         |
-| total commits :: 169                          |
-| code delta :: +38,508 / -12,397 / net +26,111 |
+| total commits :: 167                          |
+| code delta :: +38,501 / -12,388 / net +26,113 |
 | avg output   :: +155 lines/hr                 |
 +-----------------------------------------------+
 </pre>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
-
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
+
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
