@@ -48,7 +48,7 @@
 </pre>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
