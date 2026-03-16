@@ -98,13 +98,17 @@ let privateRepoDescriptionIndex = 0;
 const hoursInWindow = WINDOW_DAYS * 24;
 const linesPerHour = Math.round(totalNet / hoursInWindow);
 
-const statsPanel = renderStatsPanel([
-  `activity scan :: last ${WINDOW_DAYS} days`,
-  `active projects :: ${formatNumber(totals.activeProjects)}`,
-  `total commits :: ${formatNumber(totals.commits)}`,
-  `code delta :: ${formatSigned(totals.additions)} / ${formatSigned(-totals.deletions)} / net ${formatSigned(totalNet)}`,
-  `avg output   :: ${formatSigned(linesPerHour)} lines/hr`,
-]);
+const panelParams = new URLSearchParams({
+  days: String(WINDOW_DAYS),
+  projects: formatNumber(totals.activeProjects),
+  commits: formatNumber(totals.commits),
+  added: formatSigned(totals.additions),
+  removed: formatSigned(-totals.deletions),
+  net: formatSigned(totalNet),
+  lph: formatSigned(linesPerHour),
+});
+const panelDark = `https://buxx.me/api/activity-panel.svg?theme=dark&${panelParams}`;
+const panelLight = `https://buxx.me/api/activity-panel.svg?theme=light&${panelParams}`;
 const items = activity
   .map((repository) => {
     const projectLabel = repository.isPrivate
@@ -120,11 +124,17 @@ const items = activity
 
 const renderedSection = [
   START_MARKER,
+  '<div align="center">',
+  "",
   "### Recent Activity",
   "",
-  "<pre>",
-  statsPanel,
-  "</pre>",
+  "<picture>",
+  `  <source media="(prefers-color-scheme: dark)" srcset="${panelDark}">`,
+  `  <source media="(prefers-color-scheme: light)" srcset="${panelLight}">`,
+  `  <img src="${panelDark}" alt="Recent Activity Stats" />`,
+  "</picture>",
+  "",
+  "</div>",
   "",
   ...(items ? ["<ul>", items, "</ul>"] : ["<p>No active projects in this window.</p>"]),
   END_MARKER,
@@ -149,16 +159,6 @@ if (nextReadme !== readme) {
   console.log(`No README changes for ${README_PATH}.`);
 }
 
-function renderStatsPanel(lines) {
-  const width = lines.reduce((max, line) => Math.max(max, line.length), 0);
-  const border = `+${"-".repeat(width + 2)}+`;
-
-  return [
-    border,
-    ...lines.map((line) => `| ${line.padEnd(width, " ")} |`),
-    border,
-  ].join("\n");
-}
 
 function escapeHtml(value) {
   return value

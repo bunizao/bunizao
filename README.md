@@ -20,12 +20,21 @@
 
 <br/><br/>
 
-<!-- GitHub Stats + Streak: both inside center div, same height, will sit inline -->
+<!-- GitHub Stats + Activity Panel: side by side -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3">
   <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=171717&text_color=737373&icon_color=737373">
   <img height="155" src="https://gh-stats.buxx.me/api?username=bunizao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=fafafa&text_color=a3a3a3&icon_color=a3a3a3" alt="GitHub Stats" />
 </picture>
+<!-- RECENT_ACTIVITY:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?theme=light&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155" alt="Recent Activity Stats" />
+</picture>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=default&hide_border=true&background=ffffff&stroke=e5e5e5&ring=171717&fire=171717&currStreakNum=171717&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=a3a3a3">
@@ -33,19 +42,6 @@
 </picture>
 
 </div>
-
-<!-- RECENT_ACTIVITY:START -->
-### Recent Activity
-
-<pre>
-+-----------------------------------------------+
-| activity scan :: last 7 days                  |
-| active projects :: 11                         |
-| total commits :: 167                          |
-| code delta :: +38,501 / -12,388 / net +26,113 |
-| avg output   :: +155 lines/hr                 |
-+-----------------------------------------------+
-</pre>
 
 <ul>
   <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
