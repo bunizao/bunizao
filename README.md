@@ -28,25 +28,25 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?theme=light&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=171&added=%2B39%2C139&removed=-12%2C553&net=%2B26%2C586&lph=%2B158">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?theme=light&days=7&projects=11&commits=171&added=%2B39%2C139&removed=-12%2C553&net=%2B26%2C586&lph=%2B158">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=171&added=%2B39%2C139&removed=-12%2C553&net=%2B26%2C586&lph=%2B158" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
-
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
-
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
