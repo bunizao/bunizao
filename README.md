@@ -41,16 +41,16 @@
 +-----------------------------------------------+
 | activity scan :: last 7 days                  |
 | active projects :: 11                         |
-| total commits :: 175                          |
-| code delta :: +45,983 / -12,850 / net +33,133 |
-| avg output   :: +197 lines/hr                 |
+| total commits :: 169                          |
+| code delta :: +38,508 / -12,397 / net +26,111 |
+| avg output   :: +155 lines/hr                 |
 +-----------------------------------------------+
 </pre>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
