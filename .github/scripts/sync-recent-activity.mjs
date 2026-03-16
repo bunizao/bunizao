@@ -122,23 +122,12 @@ const items = activity
   })
   .join("\n\n");
 
-const streakDark = "https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252";
-const streakLight = "https://streak-stats.demolab.com?user=bunizao&theme=default&hide_border=true&background=ffffff&stroke=e5e5e5&ring=171717&fire=171717&currStreakNum=171717&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=a3a3a3";
-
 const renderedSection = [
   START_MARKER,
   "<picture>",
   `  <source media="(prefers-color-scheme: dark)" srcset="${panelDark}">`,
   `  <source media="(prefers-color-scheme: light)" srcset="${panelLight}">`,
   `  <img height="155" src="${panelDark}" alt="Recent Activity Stats" />`,
-  "</picture>",
-  "",
-  "<br/>",
-  "",
-  "<picture>",
-  `  <source media="(prefers-color-scheme: dark)" srcset="${streakDark}">`,
-  `  <source media="(prefers-color-scheme: light)" srcset="${streakLight}">`,
-  `  <img height="155" src="${streakDark}" alt="GitHub Streak" />`,
   "</picture>",
   "",
   "</div>",

@@ -33,14 +33,6 @@
   <img height="155" src="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=167&added=%2B38%2C501&removed=-12%2C388&net=%2B26%2C113&lph=%2B155" alt="Recent Activity Stats" />
 </picture>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bunizao&theme=default&hide_border=true&background=ffffff&stroke=e5e5e5&ring=171717&fire=171717&currStreakNum=171717&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=a3a3a3">
-  <img height="155" src="https://streak-stats.demolab.com?user=bunizao&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252" alt="GitHub Streak" />
-</picture>
-
 </div>
 
 <ul>
