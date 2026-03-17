@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=159&added=%2B37%2C154&removed=-12%2C321&net=%2B24%2C833&lph=%2B148">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?theme=light&days=7&projects=11&commits=159&added=%2B37%2C154&removed=-12%2C321&net=%2B24%2C833&lph=%2B148">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?theme=dark&days=7&projects=11&commits=159&added=%2B37%2C154&removed=-12%2C321&net=%2B24%2C833&lph=%2B148" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=159&added=%2B36%2C543&removed=-12%2C249&net=%2B24%2C294&lph=%2B145&theme=dark&exp=1773773354&sig=BLmdFlugOrU3_TH-o-aSDTd4-EtB5YsLAA5BosG54go">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=159&added=%2B36%2C543&removed=-12%2C249&net=%2B24%2C294&lph=%2B145&theme=light&exp=1773773354&sig=d38yiq1sDTTSN8a06KaBL8pf0mILU5D8VGSwPU1L2og">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=159&added=%2B36%2C543&removed=-12%2C249&net=%2B24%2C294&lph=%2B145&theme=dark&exp=1773773354&sig=BLmdFlugOrU3_TH-o-aSDTd4-EtB5YsLAA5BosG54go" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,21 +38,21 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
-
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes. Now in Public Beta.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
-
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
+
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
