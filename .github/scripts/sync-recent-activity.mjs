@@ -1,3 +1,4 @@
+import { createHmac } from "node:crypto";
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
@@ -7,6 +8,7 @@ const WINDOW_DAYS = Number(process.env.WINDOW_DAYS || 7);
 const MAX_REPOSITORIES = Number(process.env.MAX_REPOSITORIES || 100);
 const REPOSITORY_CONCURRENCY = Number(process.env.REPOSITORY_CONCURRENCY || 4);
 const COMMIT_DETAIL_CONCURRENCY = Number(process.env.COMMIT_DETAIL_CONCURRENCY || 8);
+const ACTIVITY_PANEL_TTL_SECONDS = Number(process.env.ACTIVITY_PANEL_TTL_SECONDS || 28800);
 const START_MARKER = "<!-- RECENT_ACTIVITY:START -->";
 const END_MARKER = "<!-- RECENT_ACTIVITY:END -->";
 const GITHUB_API_URL = "https://api.github.com";
@@ -29,9 +31,14 @@ const PRIVATE_REPO_DESCRIPTIONS = [
 ];
 
 const token = process.env.SYNC_TOKEN;
+const activityPanelSigningSecret = process.env.ACTIVITY_PANEL_SIGNING_SECRET;
 
 if (!token) {
   throw new Error("Missing SYNC_TOKEN. A token with repository read access is required.");
+}
+
+if (!activityPanelSigningSecret) {
+  throw new Error("Missing ACTIVITY_PANEL_SIGNING_SECRET.");
 }
 
 const now = new Date();
@@ -107,8 +114,8 @@ const panelParams = new URLSearchParams({
   net: formatSigned(totalNet),
   lph: formatSigned(linesPerHour),
 });
-const panelDark = `https://buxx.me/api/activity-panel.svg?theme=dark&${panelParams}`;
-const panelLight = `https://buxx.me/api/activity-panel.svg?theme=light&${panelParams}`;
+const panelDark = createSignedActivityPanelUrl("dark", panelParams);
+const panelLight = createSignedActivityPanelUrl("light", panelParams);
 const items = activity
   .map((repository) => {
     const projectLabel = repository.isPrivate
@@ -201,6 +208,30 @@ function shuffle(items) {
   }
 
   return items;
+}
+
+function createSignedActivityPanelUrl(theme, baseParams) {
+  const expiresAt = Math.floor(Date.now() / 1000) + ACTIVITY_PANEL_TTL_SECONDS;
+  const signedParams = new URLSearchParams(baseParams);
+  signedParams.set("theme", theme);
+  signedParams.set("exp", String(expiresAt));
+
+  const normalizedSearch = new URLSearchParams(
+    Array.from(signedParams.entries()).sort(([leftKey, leftValue], [rightKey, rightValue]) => {
+      if (leftKey === rightKey) {
+        return leftValue.localeCompare(rightValue);
+      }
+
+      return leftKey.localeCompare(rightKey);
+    })
+  ).toString();
+  const payload = `/api/activity-panel.svg?${normalizedSearch}`;
+  const signature = createHmac("sha256", activityPanelSigningSecret)
+    .update(payload)
+    .digest("base64url");
+
+  signedParams.set("sig", signature);
+  return `https://buxx.me/api/activity-panel.svg?${signedParams.toString()}`;
 }
 
 async function fetchViewer() {
