@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=196&added=%2B42%2C948&removed=-7%2C824&net=%2B35%2C124&lph=%2B209&theme=dark&exp=1773792740&sig=EmjS_AXqoVuS87tLjr4nT4uwudLFWOPAw7o_CrLWjGU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=196&added=%2B42%2C948&removed=-7%2C824&net=%2B35%2C124&lph=%2B209&theme=light&exp=1773792740&sig=E-WWnEEJp-L2ZQOeJh5KrqARVnixGZrwve88Iy9Rb4A">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=196&added=%2B42%2C948&removed=-7%2C824&net=%2B35%2C124&lph=%2B209&theme=dark&exp=1773792740&sig=EmjS_AXqoVuS87tLjr4nT4uwudLFWOPAw7o_CrLWjGU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=181&added=%2B39%2C999&removed=-7%2C652&net=%2B32%2C347&lph=%2B193&theme=dark&exp=1773809487&sig=5EWM7eI7G8X9KXrwBHtsmYg5GMagwj9u0f3855xnmTA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=181&added=%2B39%2C999&removed=-7%2C652&net=%2B32%2C347&lph=%2B193&theme=light&exp=1773809487&sig=9V41w_UxeHf4l02p0bgV0Jbk3keel-X-FPFYr42J06Y">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=181&added=%2B39%2C999&removed=-7%2C652&net=%2B32%2C347&lph=%2B193&theme=dark&exp=1773809487&sig=5EWM7eI7G8X9KXrwBHtsmYg5GMagwj9u0f3855xnmTA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
-
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
+
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -50,12 +50,10 @@
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
-
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
