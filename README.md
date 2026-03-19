@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=152&added=%2B32%2C855&removed=-6%2C592&net=%2B26%2C263&lph=%2B156&theme=dark&exp=1773946407&sig=KMUTagcLQ286DQUt04Rzizj_hU6PUsjuizOUcbi49Gs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=152&added=%2B32%2C855&removed=-6%2C592&net=%2B26%2C263&lph=%2B156&theme=light&exp=1773946407&sig=jOxtZNhCr-5xAu0WM9RJb14Z5WcU0SbZMSbX9auIouc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=152&added=%2B32%2C855&removed=-6%2C592&net=%2B26%2C263&lph=%2B156&theme=dark&exp=1773946407&sig=KMUTagcLQ286DQUt04Rzizj_hU6PUsjuizOUcbi49Gs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B33%2C457&removed=-6%2C983&net=%2B26%2C474&lph=%2B158&theme=dark&exp=1773964913&sig=aQQaxYOpCpMSs_LnoH9EpLwy4FGpGdLjwXq_346q2Qs">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B33%2C457&removed=-6%2C983&net=%2B26%2C474&lph=%2B158&theme=light&exp=1773964913&sig=i3Q2af4zxVbk0k0EXlEUeDqdq6Eg6xOvZ8bt_K8bzC0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B33%2C457&removed=-6%2C983&net=%2B26%2C474&lph=%2B158&theme=dark&exp=1773964913&sig=aQQaxYOpCpMSs_LnoH9EpLwy4FGpGdLjwXq_346q2Qs" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
-
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
