@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1773982234&sig=QcYBIbzDvLEqY33xMVHteiGt3yM7fin8hb-M3u3QrKI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=light&exp=1773982234&sig=R-pyTLN4FkuFBpPrYewC8a7i6I6VSn1LhOWDrTEK5Qg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1773982234&sig=QcYBIbzDvLEqY33xMVHteiGt3yM7fin8hb-M3u3QrKI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1774003690&sig=f6uerygVMRiNGh991ZjNFPcIYDBm-zVh6xPMPZwN0a4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=light&exp=1774003690&sig=9nR7YojbjlLPYBcooJd_cYP5EaBWCZnj0THogL0KEFE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1774003690&sig=f6uerygVMRiNGh991ZjNFPcIYDBm-zVh6xPMPZwN0a4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
