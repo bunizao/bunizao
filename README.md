@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1774015167&sig=Wdhv7RqXvHg3NhOqoqJRQCHuKLd3ENZkjTLbgfKKMLg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=light&exp=1774015167&sig=nG_I491xubob3wsTbbQHoTTF29WZSORUBdWI4ZUUQXM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1774015167&sig=Wdhv7RqXvHg3NhOqoqJRQCHuKLd3ENZkjTLbgfKKMLg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1774032621&sig=vSEmdbxCID5qwKX2WKMlNFXEorOtfUpTzGzeAbqc6ho">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=light&exp=1774032621&sig=0Ke6LmRF0ZfAXZ_5KztLFIfHIR-_bDZlKP9oPKa6ySU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B32%2C989&removed=-7%2C072&net=%2B25%2C917&lph=%2B154&theme=dark&exp=1774032621&sig=vSEmdbxCID5qwKX2WKMlNFXEorOtfUpTzGzeAbqc6ho" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
