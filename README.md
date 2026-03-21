@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=147&added=%2B32%2C095&removed=-6%2C999&net=%2B25%2C096&lph=%2B149&theme=dark&exp=1774118236&sig=TmKJzMMPVD9nVxIwx9lZ8_s97wVpovBiX-YbjIFAUiw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=147&added=%2B32%2C095&removed=-6%2C999&net=%2B25%2C096&lph=%2B149&theme=light&exp=1774118236&sig=lAArwo7Dqy4mjXaLaugSX9-yrVQvPL5PJsG-C7Hg8Cs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=147&added=%2B32%2C095&removed=-6%2C999&net=%2B25%2C096&lph=%2B149&theme=dark&exp=1774118236&sig=TmKJzMMPVD9nVxIwx9lZ8_s97wVpovBiX-YbjIFAUiw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=145&added=%2B31%2C835&removed=-6%2C798&net=%2B25%2C037&lph=%2B149&theme=dark&exp=1774136082&sig=Q2K5jU_UpGsC2PRMYxvOuTdC3Z2CvG1Nsx9jlg9ptUQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=145&added=%2B31%2C835&removed=-6%2C798&net=%2B25%2C037&lph=%2B149&theme=light&exp=1774136082&sig=JzXUw0mu1Xjn3ctY2t4zqzHPdz_d3afbH_xBPQLOBhk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=145&added=%2B31%2C835&removed=-6%2C798&net=%2B25%2C037&lph=%2B149&theme=dark&exp=1774136082&sig=Q2K5jU_UpGsC2PRMYxvOuTdC3Z2CvG1Nsx9jlg9ptUQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
   <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
