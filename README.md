@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=94&added=%2B16%2C954&removed=-3%2C219&net=%2B13%2C735&lph=%2B82&theme=dark&exp=1774222481&sig=j-bapDEWQ6ZUfnDtg8Ghg4SE0bJUFsdV4PHlVMTfLk8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=94&added=%2B16%2C954&removed=-3%2C219&net=%2B13%2C735&lph=%2B82&theme=light&exp=1774222481&sig=ibuJG5UusMnHjKvT0N-psK9wkDhA0OIXgeCCV2nqDXg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=94&added=%2B16%2C954&removed=-3%2C219&net=%2B13%2C735&lph=%2B82&theme=dark&exp=1774222481&sig=j-bapDEWQ6ZUfnDtg8Ghg4SE0bJUFsdV4PHlVMTfLk8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=dark&exp=1774240694&sig=a--F9oYJlY1yM5aI9e3GfNwCsldgVAy3fuS9xXo6j7Q">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=light&exp=1774240694&sig=twYUp_2NuKxxDe5NQzH3fxbQ0z2KrKj71NszSp7DpwM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=dark&exp=1774240694&sig=a--F9oYJlY1yM5aI9e3GfNwCsldgVAy3fuS9xXo6j7Q" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,13 +38,13 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
