@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=dark&exp=1774264599&sig=XhKP3H7ih6KEObW5PGflf42SjLgpR8a7aSN32CiegvU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=light&exp=1774264599&sig=-jgKacmBm5OCS7x_-FFsZSesa2fR7ASclAUDQNe4Tcs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=dark&exp=1774264599&sig=XhKP3H7ih6KEObW5PGflf42SjLgpR8a7aSN32CiegvU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=dark&exp=1774275214&sig=v1sX1z1AGgselDaZHThUrIShLSuU0Vg0yvIaptgvWPo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=light&exp=1774275214&sig=S-m5BVZUEfEfabZ-r9GXKuTXebqZm4B8XzalW4O4YQY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=90&added=%2B17%2C193&removed=-3%2C207&net=%2B13%2C986&lph=%2B83&theme=dark&exp=1774275214&sig=v1sX1z1AGgselDaZHThUrIShLSuU0Vg0yvIaptgvWPo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,11 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
