@@ -28,26 +28,26 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=75&added=%2B15%2C032&removed=-2%2C420&net=%2B12%2C612&lph=%2B75&theme=dark&exp=1774310737&sig=NKagGUSohA2fjALZP7V0fQJCexZSKSzJ4ls_du4Nbxc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=75&added=%2B15%2C032&removed=-2%2C420&net=%2B12%2C612&lph=%2B75&theme=light&exp=1774310737&sig=0T5b3U91ZoxR0Fua_JcirDhA8onb7HzbpW8aGeIhoFo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=75&added=%2B15%2C032&removed=-2%2C420&net=%2B12%2C612&lph=%2B75&theme=dark&exp=1774310737&sig=NKagGUSohA2fjALZP7V0fQJCexZSKSzJ4ls_du4Nbxc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=dark&exp=1774327748&sig=SKB2PBHmS9owdJDA77MHmtpg3dg0sTFEuqj7LUWBYvw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=light&exp=1774327748&sig=SAIoUh8-Sqc3s8EE2BOJyfcwNqgN-9Gsla8yxedsioc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=dark&exp=1774327748&sig=SKB2PBHmS9owdJDA77MHmtpg3dg0sTFEuqj7LUWBYvw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
-
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
