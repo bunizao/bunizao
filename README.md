@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=dark&exp=1774349388&sig=T_EwRICiqAREAKd7UFWnaXWNCuOUsA6Ww8H8M3t5y44">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=light&exp=1774349388&sig=g1mODvrWtbtMjv2q0KwT9rCC5L_lTM37xP1CR5eIqiA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=dark&exp=1774349388&sig=T_EwRICiqAREAKd7UFWnaXWNCuOUsA6Ww8H8M3t5y44" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=dark&exp=1774361074&sig=eJWkPj7Pv7xHYiYjhATLQkpI-wi3WNvbheyqUJZEcw0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=light&exp=1774361074&sig=tnESi-7tTuumJfpB2pbX5uw1mwcay7BQjt2i7NQ1APw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=76&added=%2B14%2C493&removed=-2%2C415&net=%2B12%2C078&lph=%2B72&theme=dark&exp=1774361074&sig=eJWkPj7Pv7xHYiYjhATLQkpI-wi3WNvbheyqUJZEcw0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,7 +42,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
