@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=27&added=%2B5%2C471&removed=-1%2C198&net=%2B4%2C273&lph=%2B25&theme=dark&exp=1774436079&sig=7nMUN8Bir1tHY2eRM0Y-qFcVE_wzS2lEGIIn1jnrII4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=27&added=%2B5%2C471&removed=-1%2C198&net=%2B4%2C273&lph=%2B25&theme=light&exp=1774436079&sig=8MA_iVDcYSDKOAKcSFXS4IHH0-7VigeUs50CcYSBw9M">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=27&added=%2B5%2C471&removed=-1%2C198&net=%2B4%2C273&lph=%2B25&theme=dark&exp=1774436079&sig=7nMUN8Bir1tHY2eRM0Y-qFcVE_wzS2lEGIIn1jnrII4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=26&added=%2B5%2C415&removed=-1%2C187&net=%2B4%2C228&lph=%2B25&theme=dark&exp=1774447546&sig=C5u10gwaQZ1g_reRbqDR_gKj2QR2_-FxJGr5CSCADFo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=26&added=%2B5%2C415&removed=-1%2C187&net=%2B4%2C228&lph=%2B25&theme=light&exp=1774447546&sig=8TeHs2Oj0YFlJmQG8eiGsMaFiulWoKp72FG1FgyGyvk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=26&added=%2B5%2C415&removed=-1%2C187&net=%2B4%2C228&lph=%2B25&theme=dark&exp=1774447546&sig=C5u10gwaQZ1g_reRbqDR_gKj2QR2_-FxJGr5CSCADFo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
