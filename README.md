@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=24&added=%2B4%2C197&removed=-1%2C127&net=%2B3%2C070&lph=%2B18&theme=dark&exp=1774465071&sig=csaF2pMC3sgGji6krRQ-WN0vZ8CsLGC0wYpP2VDaHJw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=24&added=%2B4%2C197&removed=-1%2C127&net=%2B3%2C070&lph=%2B18&theme=light&exp=1774465071&sig=FcJec_KsV0dsn1mZakTNSYXwxu-gJfy-gRWEAkVCEmE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=24&added=%2B4%2C197&removed=-1%2C127&net=%2B3%2C070&lph=%2B18&theme=dark&exp=1774465071&sig=csaF2pMC3sgGji6krRQ-WN0vZ8CsLGC0wYpP2VDaHJw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=dark&exp=1774500646&sig=TjlcOMDK3HD9ULe7lK2pYoSXaK0fRgvgwzg9dVhYCeU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=light&exp=1774500646&sig=3wiQn3Mu05vuAKk6CZqFjLJKahXEWjkhVbfzy-8Uro4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=dark&exp=1774500646&sig=TjlcOMDK3HD9ULe7lK2pYoSXaK0fRgvgwzg9dVhYCeU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
