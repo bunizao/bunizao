@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=21&added=%2B4%2C152&removed=-1%2C099&net=%2B3%2C053&lph=%2B18&theme=dark&exp=1774551794&sig=ZcruxcPOi29MiADYSRk4xln9daCC3MOIw-Z05t0Yl3o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=21&added=%2B4%2C152&removed=-1%2C099&net=%2B3%2C053&lph=%2B18&theme=light&exp=1774551794&sig=BVwz1cPHW9IpLrIj62F0KsD8ENxWLAC79c2rLSCvML8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=21&added=%2B4%2C152&removed=-1%2C099&net=%2B3%2C053&lph=%2B18&theme=dark&exp=1774551794&sig=ZcruxcPOi29MiADYSRk4xln9daCC3MOIw-Z05t0Yl3o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=13&added=%2B3%2C550&removed=-708&net=%2B2%2C842&lph=%2B17&theme=dark&exp=1774570682&sig=_TEY8tDmwbzZdy4OqkruU8NZKabC3K-XfCsSD0jmiO4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=13&added=%2B3%2C550&removed=-708&net=%2B2%2C842&lph=%2B17&theme=light&exp=1774570682&sig=LiD_QI4OWSCueCpiKWP7CR_B5HFFQcSCs5R1F2itaCY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=13&added=%2B3%2C550&removed=-708&net=%2B2%2C842&lph=%2B17&theme=dark&exp=1774570682&sig=_TEY8tDmwbzZdy4OqkruU8NZKabC3K-XfCsSD0jmiO4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/TutuBetterRules">bunizao/TutuBetterRules</a></strong> — Cross-platform proxy rules, modules &amp; configs—Surge-first, also for Clash / Shadowrocket / QX.</li>
 </ul>
