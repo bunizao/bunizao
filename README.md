@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=dark&exp=1774523971&sig=H0_qQBnBkXUqLv_fmrkQpwXbjdJLEBvmp5ar8ebNDI4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=light&exp=1774523971&sig=-WVosGTa3v29sZjJYIDTGe2nDFYijFkxAqL_eycaB4M">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=dark&exp=1774523971&sig=H0_qQBnBkXUqLv_fmrkQpwXbjdJLEBvmp5ar8ebNDI4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=dark&exp=1774534516&sig=EvrWbB4mg3IjxoJH5xvhAXDKC2yzv5j3P65YuGrPtDg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=light&exp=1774534516&sig=-WvuZ7nAmLdWvvByknrYXSnG5w4kIlMwki9QzNu0sZA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=23&added=%2B4%2C161&removed=-1%2C113&net=%2B3%2C048&lph=%2B18&theme=dark&exp=1774534516&sig=EvrWbB4mg3IjxoJH5xvhAXDKC2yzv5j3P65YuGrPtDg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
