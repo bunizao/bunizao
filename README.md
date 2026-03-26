@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=13&added=%2B3%2C550&removed=-708&net=%2B2%2C842&lph=%2B17&theme=dark&exp=1774570682&sig=_TEY8tDmwbzZdy4OqkruU8NZKabC3K-XfCsSD0jmiO4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=13&added=%2B3%2C550&removed=-708&net=%2B2%2C842&lph=%2B17&theme=light&exp=1774570682&sig=LiD_QI4OWSCueCpiKWP7CR_B5HFFQcSCs5R1F2itaCY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=13&added=%2B3%2C550&removed=-708&net=%2B2%2C842&lph=%2B17&theme=dark&exp=1774570682&sig=_TEY8tDmwbzZdy4OqkruU8NZKabC3K-XfCsSD0jmiO4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B2%2C213&removed=-604&net=%2B1%2C609&lph=%2B10&theme=dark&exp=1774586645&sig=2EgsTiWAVM290Cl0PSwrtp2hg7kfcCYdqrkXUz2tJ_8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B2%2C213&removed=-604&net=%2B1%2C609&lph=%2B10&theme=light&exp=1774586645&sig=q3NHaHYBMb-FaQXljU8jXmWGnEstwFBbcGp1w0AOb4o">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B2%2C213&removed=-604&net=%2B1%2C609&lph=%2B10&theme=dark&exp=1774586645&sig=2EgsTiWAVM290Cl0PSwrtp2hg7kfcCYdqrkXUz2tJ_8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
-
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
   <li><strong><a href="https://github.com/bunizao/TutuBetterRules">bunizao/TutuBetterRules</a></strong> — Cross-platform proxy rules, modules &amp; configs—Surge-first, also for Clash / Shadowrocket / QX.</li>
 </ul>
