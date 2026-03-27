@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B2%2C213&removed=-604&net=%2B1%2C609&lph=%2B10&theme=dark&exp=1774637856&sig=jZ6TbCHmBm-UKtgu-xtvB_N1_mxOI6Br8mBllhhiRqs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B2%2C213&removed=-604&net=%2B1%2C609&lph=%2B10&theme=light&exp=1774637856&sig=UO4ND7h68y5elAhkQXlGy4eKP2Y7x3zov8pZJe3RaJA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B2%2C213&removed=-604&net=%2B1%2C609&lph=%2B10&theme=dark&exp=1774637856&sig=jZ6TbCHmBm-UKtgu-xtvB_N1_mxOI6Br8mBllhhiRqs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=8&added=%2B1%2C978&removed=-369&net=%2B1%2C609&lph=%2B10&theme=dark&exp=1774655959&sig=qpkoRgpwQhkYhdfRkJ2F-WNujsJpcnB-bPy8mrGa3aE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=8&added=%2B1%2C978&removed=-369&net=%2B1%2C609&lph=%2B10&theme=light&exp=1774655959&sig=c58RkyUYepIc9ZbMraMRngw1s8Tuq0dw89vOiFkil_w">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=8&added=%2B1%2C978&removed=-369&net=%2B1%2C609&lph=%2B10&theme=dark&exp=1774655959&sig=qpkoRgpwQhkYhdfRkJ2F-WNujsJpcnB-bPy8mrGa3aE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
