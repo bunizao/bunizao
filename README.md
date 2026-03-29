@@ -28,17 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=5&added=%2B188&removed=-10&net=%2B178&lph=%2B1&theme=dark&exp=1774827630&sig=HMWd_pQitQCLdRigyjnDZX-YcGXDvmkmqfrbPmxchk0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=5&added=%2B188&removed=-10&net=%2B178&lph=%2B1&theme=light&exp=1774827630&sig=H8q7oA9V3lSqVG69XI9c15GAEu6c8Lg5DttIuxCHgQY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=5&added=%2B188&removed=-10&net=%2B178&lph=%2B1&theme=dark&exp=1774827630&sig=HMWd_pQitQCLdRigyjnDZX-YcGXDvmkmqfrbPmxchk0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=4&added=%2B137&removed=-7&net=%2B130&lph=%2B1&theme=dark&exp=1774845812&sig=7OL9AgR96AD6mCKm1yeMoT1qatkBr_Puh27H4AGwVYM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=4&added=%2B137&removed=-7&net=%2B130&lph=%2B1&theme=light&exp=1774845812&sig=2g09NU9p7x-DV-4cXy8nJGhX4Pgeyw0N_PqvSBdUL6Y">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=4&added=%2B137&removed=-7&net=%2B130&lph=%2B1&theme=dark&exp=1774845812&sig=7OL9AgR96AD6mCKm1yeMoT1qatkBr_Puh27H4AGwVYM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
-
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/TutuBetterRules">bunizao/TutuBetterRules</a></strong> — Cross-platform proxy rules, modules &amp; configs—Surge-first, also for Clash / Shadowrocket / QX.</li>
 </ul>
