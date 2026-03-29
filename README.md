@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=dark&exp=1774759265&sig=dfZfJ7DSfic86QOOVsd8UcJxOUXAs_nPZMNmCSAs0l0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=light&exp=1774759265&sig=1Wd2CENU-pgVEi9_QxxM-mF2I2r_vgBAZmW6XnDL6rU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=dark&exp=1774759265&sig=dfZfJ7DSfic86QOOVsd8UcJxOUXAs_nPZMNmCSAs0l0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=dark&exp=1774783686&sig=M_hC7FByqGuD0iJf1pfdsj5tzH6ykyxNMxZFEeIfHzg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=light&exp=1774783686&sig=qHro8Q2ZSK0I_6v26KbMfpx8wBe115YvuaHpfcXgulE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=dark&exp=1774783686&sig=M_hC7FByqGuD0iJf1pfdsj5tzH6ykyxNMxZFEeIfHzg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/TutuBetterRules">bunizao/TutuBetterRules</a></strong> — Cross-platform proxy rules, modules &amp; configs—Surge-first, also for Clash / Shadowrocket / QX.</li>
 </ul>
