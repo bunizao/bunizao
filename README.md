@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=dark&exp=1774793658&sig=VuxEPiNsLh8Q0aflFWtlgnJxkV1yrVBsquf0n9bU1PA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=light&exp=1774793658&sig=TUmAwMvwWTnG3vv7hZf7TskZz65fJk3_MvOLE0oiEKs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B658&removed=-155&net=%2B503&lph=%2B3&theme=dark&exp=1774793658&sig=VuxEPiNsLh8Q0aflFWtlgnJxkV1yrVBsquf0n9bU1PA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=5&added=%2B188&removed=-10&net=%2B178&lph=%2B1&theme=dark&exp=1774809937&sig=xsALGzCdOOhgBSPjQlj42G_jHbTWCkNHHGqTnbrmdhM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=5&added=%2B188&removed=-10&net=%2B178&lph=%2B1&theme=light&exp=1774809937&sig=l7KDZDPgnAZvSqEtNoz7nCB0jf0izYWCVtxxOdM2rdc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=5&added=%2B188&removed=-10&net=%2B178&lph=%2B1&theme=dark&exp=1774809937&sig=xsALGzCdOOhgBSPjQlj42G_jHbTWCkNHHGqTnbrmdhM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — Terminal-first CLI for Moodle LMS</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/TutuBetterRules">bunizao/TutuBetterRules</a></strong> — Cross-platform proxy rules, modules &amp; configs—Surge-first, also for Clash / Shadowrocket / QX.</li>
 </ul>
