@@ -28,14 +28,12 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=1&added=0&removed=-3&net=-3&lph=-0&theme=dark&exp=1775054960&sig=Y6qVD62eKblpiXj2hwwtoDgChSZBv6jqVZvkKJoCnpM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=1&added=0&removed=-3&net=-3&lph=-0&theme=light&exp=1775054960&sig=13PzKA_jpGqYIQMXH3VIAsGY9ABEh70xIjggwbR6LK8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=1&added=0&removed=-3&net=-3&lph=-0&theme=dark&exp=1775054960&sig=Y6qVD62eKblpiXj2hwwtoDgChSZBv6jqVZvkKJoCnpM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=0&commits=0&added=0&removed=-0&net=0&lph=0&theme=dark&exp=1775088613&sig=fqktGbTHNV5BBq8XTeM5HfQbFH_tMtrMFG0dODR-tVw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=0&commits=0&added=0&removed=-0&net=0&lph=0&theme=light&exp=1775088613&sig=Q1nGIPFw8ihKfFa_i2DukBeXoG4IXGuYOy9a77a-XqQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=0&commits=0&added=0&removed=-0&net=0&lph=0&theme=dark&exp=1775088613&sig=fqktGbTHNV5BBq8XTeM5HfQbFH_tMtrMFG0dODR-tVw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
-<ul>
-  <li><strong><a href="https://github.com/bunizao/TutuBetterRules">bunizao/TutuBetterRules</a></strong> — Cross-platform proxy rules, modules &amp; configs—Surge-first, also for Clash / Shadowrocket / QX.</li>
-</ul>
+<p>No active projects in this window.</p>
 <!-- RECENT_ACTIVITY:END -->
