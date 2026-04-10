@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=37&added=%2B30%2C554&removed=-557&net=%2B29%2C997&lph=%2B179&theme=dark&exp=1775820802&sig=LxICn9zq-65dD1osJJ6tAdfA2OpASzr8PBZStj9CGco">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=37&added=%2B30%2C554&removed=-557&net=%2B29%2C997&lph=%2B179&theme=light&exp=1775820802&sig=7reNXfjLqnLiAmo8vxnKQt9oHJfbhYOaptkCGauW-3g">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=37&added=%2B30%2C554&removed=-557&net=%2B29%2C997&lph=%2B179&theme=dark&exp=1775820802&sig=LxICn9zq-65dD1osJJ6tAdfA2OpASzr8PBZStj9CGco" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=41&added=%2B36%2C184&removed=-9%2C950&net=%2B26%2C234&lph=%2B156&theme=dark&exp=1775832953&sig=V1tf4k7dOSIaDuCky8SqcXbLsHXZ84_zmCcEmiIEn_s">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=41&added=%2B36%2C184&removed=-9%2C950&net=%2B26%2C234&lph=%2B156&theme=light&exp=1775832953&sig=VU_kC_ul6M1CaxLwuIRkiM4GKWfW-mwuOJCT2JkGMZ4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=41&added=%2B36%2C184&removed=-9%2C950&net=%2B26%2C234&lph=%2B156&theme=dark&exp=1775832953&sig=V1tf4k7dOSIaDuCky8SqcXbLsHXZ84_zmCcEmiIEn_s" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
