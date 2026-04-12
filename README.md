@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=59&added=%2B38%2C423&removed=-10%2C475&net=%2B27%2C948&lph=%2B166&theme=dark&exp=1776019828&sig=dI9ZDsVvudDlqVzq7nO7Ga6UKnZaErLytrWxYQJhBwg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=59&added=%2B38%2C423&removed=-10%2C475&net=%2B27%2C948&lph=%2B166&theme=light&exp=1776019828&sig=rhoXNAwfW7bBYn-QiFshguUPaOG7N568tt6k8o7jgWM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=59&added=%2B38%2C423&removed=-10%2C475&net=%2B27%2C948&lph=%2B166&theme=dark&exp=1776019828&sig=dI9ZDsVvudDlqVzq7nO7Ga6UKnZaErLytrWxYQJhBwg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=59&added=%2B38%2C423&removed=-10%2C475&net=%2B27%2C948&lph=%2B166&theme=dark&exp=1776037473&sig=1J1d83t_NUlaKFCIMw6CUWr5v0IgbQpaPqQE-Zv9uns">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=59&added=%2B38%2C423&removed=-10%2C475&net=%2B27%2C948&lph=%2B166&theme=light&exp=1776037473&sig=LyU19HMcz6cj_wYhtiFt1oZ_s9zNojP4b-oeJiCvTTo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=59&added=%2B38%2C423&removed=-10%2C475&net=%2B27%2C948&lph=%2B166&theme=dark&exp=1776037473&sig=1J1d83t_NUlaKFCIMw6CUWr5v0IgbQpaPqQE-Zv9uns" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
