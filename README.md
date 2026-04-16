@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=24&added=%2B34%2C524&removed=-10%2C014&net=%2B24%2C510&lph=%2B146&theme=dark&exp=1776351558&sig=RdfIJvmQj2_pHBDL69i7V1DaYRnjpAF7sU8_Up0oPRo">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=24&added=%2B34%2C524&removed=-10%2C014&net=%2B24%2C510&lph=%2B146&theme=light&exp=1776351558&sig=I5eBR1PW8VruykMr8TmcngV0TQctOMTq9mtRws35FVE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=24&added=%2B34%2C524&removed=-10%2C014&net=%2B24%2C510&lph=%2B146&theme=dark&exp=1776351558&sig=RdfIJvmQj2_pHBDL69i7V1DaYRnjpAF7sU8_Up0oPRo" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=31&added=%2B36%2C237&removed=-10%2C270&net=%2B25%2C967&lph=%2B155&theme=dark&exp=1776366753&sig=Y2ktYC47ME-nMGW1-savzIbew-W2EPdI7M2LcuqaB5Y">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=31&added=%2B36%2C237&removed=-10%2C270&net=%2B25%2C967&lph=%2B155&theme=light&exp=1776366753&sig=jGX1keKC6YY_7pCsD3q3Tx-cFUR7mI3svixnBIN9WDI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=31&added=%2B36%2C237&removed=-10%2C270&net=%2B25%2C967&lph=%2B155&theme=dark&exp=1776366753&sig=Y2ktYC47ME-nMGW1-savzIbew-W2EPdI7M2LcuqaB5Y" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,8 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
