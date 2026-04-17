@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=dark&exp=1776401947&sig=VY8L7LNaaJI0c5QRKXj7n2FLabT0bhZY-DKKvUQqCvw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=light&exp=1776401947&sig=v97iMQcSR--HCsWD617p1eHpmCJYliyq5zBS6YhZ6mQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=dark&exp=1776401947&sig=VY8L7LNaaJI0c5QRKXj7n2FLabT0bhZY-DKKvUQqCvw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=dark&exp=1776425711&sig=irqQR_uTAvCva2iHTtSGmeMUvuG0fMZB4RBNV2TyYwE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=light&exp=1776425711&sig=NQt31upTIJO5wWZWqOW6CtFgp9bU8Rq6kWVmcda7e-4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=dark&exp=1776425711&sig=irqQR_uTAvCva2iHTtSGmeMUvuG0fMZB4RBNV2TyYwE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,8 +40,8 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
-
   <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
