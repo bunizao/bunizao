@@ -28,18 +28,16 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B3%2C355&removed=-267&net=%2B3%2C088&lph=%2B18&theme=dark&exp=1776438009&sig=m2_vEdDMcoQIjXH5DVSMxXUqzv4kbOoJtW4YhF2zi4o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B3%2C355&removed=-267&net=%2B3%2C088&lph=%2B18&theme=light&exp=1776438009&sig=4E-Hmq6TrpFQ4APoKJNQk2n9bUCRlsbEFhQq1Jx_VLA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B3%2C355&removed=-267&net=%2B3%2C088&lph=%2B18&theme=dark&exp=1776438009&sig=m2_vEdDMcoQIjXH5DVSMxXUqzv4kbOoJtW4YhF2zi4o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=22&added=%2B3%2C888&removed=-356&net=%2B3%2C532&lph=%2B21&theme=dark&exp=1776452707&sig=YeHJWCVQY7PB1CLXejW-xGVYzfiVKX5MGYLzphLi07c">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=22&added=%2B3%2C888&removed=-356&net=%2B3%2C532&lph=%2B21&theme=light&exp=1776452707&sig=7rbbQrUjXfDyAAYBRpACJnXu2xcTBwEv0FphYlFxgb0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=22&added=%2B3%2C888&removed=-356&net=%2B3%2C532&lph=%2B21&theme=dark&exp=1776452707&sig=YeHJWCVQY7PB1CLXejW-xGVYzfiVKX5MGYLzphLi07c" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
-
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
-
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
