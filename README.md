@@ -28,20 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=dark&exp=1776425711&sig=irqQR_uTAvCva2iHTtSGmeMUvuG0fMZB4RBNV2TyYwE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=light&exp=1776425711&sig=NQt31upTIJO5wWZWqOW6CtFgp9bU8Rq6kWVmcda7e-4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=23&added=%2B9%2C643&removed=-10%2C026&net=-383&lph=-2&theme=dark&exp=1776425711&sig=irqQR_uTAvCva2iHTtSGmeMUvuG0fMZB4RBNV2TyYwE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B3%2C355&removed=-267&net=%2B3%2C088&lph=%2B18&theme=dark&exp=1776438009&sig=m2_vEdDMcoQIjXH5DVSMxXUqzv4kbOoJtW4YhF2zi4o">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B3%2C355&removed=-267&net=%2B3%2C088&lph=%2B18&theme=light&exp=1776438009&sig=4E-Hmq6TrpFQ4APoKJNQk2n9bUCRlsbEFhQq1Jx_VLA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B3%2C355&removed=-267&net=%2B3%2C088&lph=%2B18&theme=dark&exp=1776438009&sig=m2_vEdDMcoQIjXH5DVSMxXUqzv4kbOoJtW4YhF2zi4o" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
-
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
