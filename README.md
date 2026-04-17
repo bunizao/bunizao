@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776470787&sig=6zU1x4DNLxUMZ80KRvBVppF7o7zr-7lnw2nrFMguNDE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=light&exp=1776470787&sig=rnet1CZ5qYe2mltq_ZDY6HWQ7PY5PTO2a1DPS3xY2yM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776470787&sig=6zU1x4DNLxUMZ80KRvBVppF7o7zr-7lnw2nrFMguNDE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776488204&sig=-O4lA1K9-G0KNjKfmLjv9ziEzCL8B8BQWP_cl0txNyc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=light&exp=1776488204&sig=k_fMMv5XdKJtRcJgo-D_MLj42Gh5G-91j4iAsyHQ2u0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776488204&sig=-O4lA1K9-G0KNjKfmLjv9ziEzCL8B8BQWP_cl0txNyc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 </ul>
