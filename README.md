@@ -28,16 +28,22 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776538308&sig=cu_-2qij570c0leVPOKKHkG3QLVODH5RlKzTeH6IS0I">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=light&exp=1776538308&sig=pT_PZwbBvO9Q2CxI4bb9BxtwmLJiON3s4m_zifhA3tk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776538308&sig=cu_-2qij570c0leVPOKKHkG3QLVODH5RlKzTeH6IS0I" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=45&added=%2B19%2C205&removed=-2%2C082&net=%2B17%2C123&lph=%2B102&theme=dark&exp=1776556042&sig=ujcmZVtJCTZ-tDz3zgDTqOVYMNybIJDr4fhOfF0nc0w">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=45&added=%2B19%2C205&removed=-2%2C082&net=%2B17%2C123&lph=%2B102&theme=light&exp=1776556042&sig=wpk8Gqtkhexq2iyEmKWgI1zYEKIu1rdwlK1Rr7i5EjA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=45&added=%2B19%2C205&removed=-2%2C082&net=%2B17%2C123&lph=%2B102&theme=dark&exp=1776556042&sig=ujcmZVtJCTZ-tDz3zgDTqOVYMNybIJDr4fhOfF0nc0w" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
+
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
