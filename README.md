@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776521748&sig=xeWfr6VLh0taYoYnpqnQXOFyo9zqF0qx6xbrSFhDg6A">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=light&exp=1776521748&sig=gjaQPG2p95wJ-I4pi2eZdWSAVF22Y_s1dhK6w-Qo6rg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776521748&sig=xeWfr6VLh0taYoYnpqnQXOFyo9zqF0qx6xbrSFhDg6A" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776538308&sig=cu_-2qij570c0leVPOKKHkG3QLVODH5RlKzTeH6IS0I">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=light&exp=1776538308&sig=pT_PZwbBvO9Q2CxI4bb9BxtwmLJiON3s4m_zifhA3tk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=28&added=%2B4%2C081&removed=-383&net=%2B3%2C698&lph=%2B22&theme=dark&exp=1776538308&sig=cu_-2qij570c0leVPOKKHkG3QLVODH5RlKzTeH6IS0I" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 </ul>
