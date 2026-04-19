@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B41%2C956&removed=-26%2C583&net=%2B15%2C373&lph=%2B92&theme=dark&exp=1776624720&sig=RHxfRPw1kJihEwiCVNwjEhT-LgR5LH7g4J0S8qgPfNQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B41%2C956&removed=-26%2C583&net=%2B15%2C373&lph=%2B92&theme=light&exp=1776624720&sig=sQVgAZORj-7snTCnSOWAgyOPZ5j5VkULPwCN8dyiQHI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B41%2C956&removed=-26%2C583&net=%2B15%2C373&lph=%2B92&theme=dark&exp=1776624720&sig=RHxfRPw1kJihEwiCVNwjEhT-LgR5LH7g4J0S8qgPfNQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=89&added=%2B41%2C964&removed=-26%2C600&net=%2B15%2C364&lph=%2B91&theme=dark&exp=1776642487&sig=38uwlv5Mjia4c09rA9o6ezIDsktXo2sSLrChcesqeig">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=89&added=%2B41%2C964&removed=-26%2C600&net=%2B15%2C364&lph=%2B91&theme=light&exp=1776642487&sig=EaDPxWBT6iSp9sMhN0PLO0ZWEgBvR_g--eynw0fEnmc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=89&added=%2B41%2C964&removed=-26%2C600&net=%2B15%2C364&lph=%2B91&theme=dark&exp=1776642487&sig=38uwlv5Mjia4c09rA9o6ezIDsktXo2sSLrChcesqeig" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,14 +38,14 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
-
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
