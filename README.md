@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=105&added=%2B44%2C469&removed=-30%2C633&net=%2B13%2C836&lph=%2B82&theme=dark&exp=1776698437&sig=Mkanh8-zrksXA1AhBwM__BhQ4PcdT2yCcAaYL3oQtWY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=105&added=%2B44%2C469&removed=-30%2C633&net=%2B13%2C836&lph=%2B82&theme=light&exp=1776698437&sig=ld9LHP2cuL-iSKJ9nmYA0iz8zJDmdkeLQE2VxkfVeJ4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=105&added=%2B44%2C469&removed=-30%2C633&net=%2B13%2C836&lph=%2B82&theme=dark&exp=1776698437&sig=Mkanh8-zrksXA1AhBwM__BhQ4PcdT2yCcAaYL3oQtWY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=115&added=%2B53%2C914&removed=-38%2C291&net=%2B15%2C623&lph=%2B93&theme=dark&exp=1776713134&sig=QeNSPfCoTCD6gA3x2KA2zXmsMPduJBlhcQNS05MGI18">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=115&added=%2B53%2C914&removed=-38%2C291&net=%2B15%2C623&lph=%2B93&theme=light&exp=1776713134&sig=siPz1XSHW_eAlXQubwovmGrHl3QrGLKihOYng7Y2E1A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=115&added=%2B53%2C914&removed=-38%2C291&net=%2B15%2C623&lph=%2B93&theme=dark&exp=1776713134&sig=QeNSPfCoTCD6gA3x2KA2zXmsMPduJBlhcQNS05MGI18" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,16 +38,18 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+
+  <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
