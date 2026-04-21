@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=120&added=%2B54%2C001&removed=-38%2C508&net=%2B15%2C493&lph=%2B92&theme=dark&exp=1776817052&sig=NBmbFdw5Io3d0MC7M6_oxAjkT0SyXQeGeDVwoIL0w68">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=120&added=%2B54%2C001&removed=-38%2C508&net=%2B15%2C493&lph=%2B92&theme=light&exp=1776817052&sig=tCgk5zFB3c2Hftl2-CHROaJ8MOBAalvBzFd3qozCm7Q">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=120&added=%2B54%2C001&removed=-38%2C508&net=%2B15%2C493&lph=%2B92&theme=dark&exp=1776817052&sig=NBmbFdw5Io3d0MC7M6_oxAjkT0SyXQeGeDVwoIL0w68" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=120&added=%2B54%2C001&removed=-38%2C508&net=%2B15%2C493&lph=%2B92&theme=dark&exp=1776834056&sig=ASBEum-bfkOigp5xl-mFFRos0-VClLd9EkEfqeQ7c5Q">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=120&added=%2B54%2C001&removed=-38%2C508&net=%2B15%2C493&lph=%2B92&theme=light&exp=1776834056&sig=PWIX_ZwgRuiLhzEGD4CqOfmpYozKf_42D-1GcdlkIzg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=120&added=%2B54%2C001&removed=-38%2C508&net=%2B15%2C493&lph=%2B92&theme=dark&exp=1776834056&sig=ASBEum-bfkOigp5xl-mFFRos0-VClLd9EkEfqeQ7c5Q" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
