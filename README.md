@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=124&added=%2B54%2C244&removed=-38%2C524&net=%2B15%2C720&lph=%2B94&theme=dark&exp=1776885307&sig=WWzTiYIGiNTqP2RgDGuMeNKEwGeMOHXfTL2RSU9tQYQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=124&added=%2B54%2C244&removed=-38%2C524&net=%2B15%2C720&lph=%2B94&theme=light&exp=1776885307&sig=V4ENi6VrlmldkQvQu-UV2bwCt6UaKvXk3bK3kx_9GBI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=124&added=%2B54%2C244&removed=-38%2C524&net=%2B15%2C720&lph=%2B94&theme=dark&exp=1776885307&sig=WWzTiYIGiNTqP2RgDGuMeNKEwGeMOHXfTL2RSU9tQYQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=124&added=%2B54%2C244&removed=-38%2C524&net=%2B15%2C720&lph=%2B94&theme=dark&exp=1776903358&sig=EAn-JolpYnWR3e6N9MdzX5KLriBxy1ECEc20W-Q8QIM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=124&added=%2B54%2C244&removed=-38%2C524&net=%2B15%2C720&lph=%2B94&theme=light&exp=1776903358&sig=HURK68KIYjihJ3J90feodUufvy68MGSlZG3oczkUP40">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=124&added=%2B54%2C244&removed=-38%2C524&net=%2B15%2C720&lph=%2B94&theme=dark&exp=1776903358&sig=EAn-JolpYnWR3e6N9MdzX5KLriBxy1ECEc20W-Q8QIM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
