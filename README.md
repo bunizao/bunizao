@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B46%2C147&removed=-38%2C268&net=%2B7%2C879&lph=%2B47&theme=dark&exp=1776991678&sig=7oKmWAFuaE5oWKN2WHaPUfpX6hKyWlLZXpaPoOQsynU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B46%2C147&removed=-38%2C268&net=%2B7%2C879&lph=%2B47&theme=light&exp=1776991678&sig=Oxyd5bTTIfzHOHDMXtUumLWKbearMrdCBoSBoP9mMsA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B46%2C147&removed=-38%2C268&net=%2B7%2C879&lph=%2B47&theme=dark&exp=1776991678&sig=7oKmWAFuaE5oWKN2WHaPUfpX6hKyWlLZXpaPoOQsynU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B46%2C147&removed=-38%2C268&net=%2B7%2C879&lph=%2B47&theme=dark&exp=1777006845&sig=9Uw-vwcbM3C3OavqhW1xZ-3r6MPPWzBRVxdEAL30Wfg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B46%2C147&removed=-38%2C268&net=%2B7%2C879&lph=%2B47&theme=light&exp=1777006845&sig=L2d_S9TPPpTMuJnPjiFCkxQRMAr3F1CRUycXd-7Tasg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B46%2C147&removed=-38%2C268&net=%2B7%2C879&lph=%2B47&theme=dark&exp=1777006845&sig=9Uw-vwcbM3C3OavqhW1xZ-3r6MPPWzBRVxdEAL30Wfg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
