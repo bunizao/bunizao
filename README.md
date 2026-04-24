@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=100&added=%2B45%2C584&removed=-38%2C161&net=%2B7%2C423&lph=%2B44&theme=dark&exp=1777058083&sig=glWWi-zRqR2MRcZ2bqNvScw4yhgBCoS32t02D9kA5rI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=100&added=%2B45%2C584&removed=-38%2C161&net=%2B7%2C423&lph=%2B44&theme=light&exp=1777058083&sig=6kF0IyfOppJ16-asD4IzBCp8yXVm0lTazUjoA3IPxzo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=100&added=%2B45%2C584&removed=-38%2C161&net=%2B7%2C423&lph=%2B44&theme=dark&exp=1777058083&sig=glWWi-zRqR2MRcZ2bqNvScw4yhgBCoS32t02D9kA5rI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=95&added=%2B45%2C414&removed=-38%2C141&net=%2B7%2C273&lph=%2B43&theme=dark&exp=1777075791&sig=UPgfrt9rM3OaDY6vrpr6uDRDiEOX-5Egk8OL9hFe5GI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=95&added=%2B45%2C414&removed=-38%2C141&net=%2B7%2C273&lph=%2B43&theme=light&exp=1777075791&sig=RomACfrekuHTs7-qBmZ09VwbxU3ZKwb9SMgSZuQW-eg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=95&added=%2B45%2C414&removed=-38%2C141&net=%2B7%2C273&lph=%2B43&theme=dark&exp=1777075791&sig=UPgfrt9rM3OaDY6vrpr6uDRDiEOX-5Egk8OL9hFe5GI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,12 +44,10 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
-
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
