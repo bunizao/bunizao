@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=110&added=%2B46%2C097&removed=-38%2C247&net=%2B7%2C850&lph=%2B47&theme=dark&exp=1777043195&sig=TZqs-AfPJq2OtRPG1kQnpeYC5qkBnbFlcuToRdYT694">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=110&added=%2B46%2C097&removed=-38%2C247&net=%2B7%2C850&lph=%2B47&theme=light&exp=1777043195&sig=Hpt_JxDudECEQ_9thyOU36cTa_p7JxnNAWD6IkLC_YA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=110&added=%2B46%2C097&removed=-38%2C247&net=%2B7%2C850&lph=%2B47&theme=dark&exp=1777043195&sig=TZqs-AfPJq2OtRPG1kQnpeYC5qkBnbFlcuToRdYT694" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=100&added=%2B45%2C584&removed=-38%2C161&net=%2B7%2C423&lph=%2B44&theme=dark&exp=1777058083&sig=glWWi-zRqR2MRcZ2bqNvScw4yhgBCoS32t02D9kA5rI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=100&added=%2B45%2C584&removed=-38%2C161&net=%2B7%2C423&lph=%2B44&theme=light&exp=1777058083&sig=6kF0IyfOppJ16-asD4IzBCp8yXVm0lTazUjoA3IPxzo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=100&added=%2B45%2C584&removed=-38%2C161&net=%2B7%2C423&lph=%2B44&theme=dark&exp=1777058083&sig=glWWi-zRqR2MRcZ2bqNvScw4yhgBCoS32t02D9kA5rI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,16 +40,16 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
-
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
