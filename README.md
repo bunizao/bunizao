@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777116255&sig=zKLm_jOZisx-1uwzhcjkgjyAhXSq1GOwjiqavBNrY34">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=light&exp=1777116255&sig=wnCxOY2HrMNDEUVLWTYA6Eut1baO16UuIRdky11tzr8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777116255&sig=zKLm_jOZisx-1uwzhcjkgjyAhXSq1GOwjiqavBNrY34" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777126961&sig=wa9kxLYVQ3nRgDXtz3C38RSd0l-Q4cne9h8dLrfRy1g">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=light&exp=1777126961&sig=wI-OyG6X4_prvO66zl0KCxMcledWwFAchtpJ0oOevSY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777126961&sig=wa9kxLYVQ3nRgDXtz3C38RSd0l-Q4cne9h8dLrfRy1g" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -48,6 +48,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
