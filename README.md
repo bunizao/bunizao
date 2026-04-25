@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777093173&sig=d_ZoeXFTc0Wt5V5Zsiju3UHojF-08xuHN7NuDAFFB9U">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=light&exp=1777093173&sig=iXNMuO2Uoq67YRPXcW69Nmg5uY6dR_MmaxiRJtNceEI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777093173&sig=d_ZoeXFTc0Wt5V5Zsiju3UHojF-08xuHN7NuDAFFB9U" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777116255&sig=zKLm_jOZisx-1uwzhcjkgjyAhXSq1GOwjiqavBNrY34">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=light&exp=1777116255&sig=wnCxOY2HrMNDEUVLWTYA6Eut1baO16UuIRdky11tzr8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B45%2C560&removed=-38%2C148&net=%2B7%2C412&lph=%2B44&theme=dark&exp=1777116255&sig=zKLm_jOZisx-1uwzhcjkgjyAhXSq1GOwjiqavBNrY34" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -48,6 +48,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
