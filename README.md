@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=67&added=%2B36%2C892&removed=-29%2C103&net=%2B7%2C789&lph=%2B46&theme=dark&exp=1777143222&sig=SisF_OHSBuKulFp2OOU5lXEFrSL9CXP4OJEQR-iv5Yo">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=67&added=%2B36%2C892&removed=-29%2C103&net=%2B7%2C789&lph=%2B46&theme=light&exp=1777143222&sig=IY4G7_S0E_BYA_Wsxw3fEqeqWE4hnUpD1P6hLx4XqOY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=67&added=%2B36%2C892&removed=-29%2C103&net=%2B7%2C789&lph=%2B46&theme=dark&exp=1777143222&sig=SisF_OHSBuKulFp2OOU5lXEFrSL9CXP4OJEQR-iv5Yo" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=46&added=%2B24%2C804&removed=-25%2C880&net=-1%2C076&lph=-6&theme=dark&exp=1777161013&sig=Ew-xebX8E7U2pR887VQR6f4hdBFllZl2Fj9cDfkup0o">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=46&added=%2B24%2C804&removed=-25%2C880&net=-1%2C076&lph=-6&theme=light&exp=1777161013&sig=H7eGrx41jR8Obo4rKyM1tSJ6btLhecOFUQvugNfoARE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=46&added=%2B24%2C804&removed=-25%2C880&net=-1%2C076&lph=-6&theme=dark&exp=1777161013&sig=Ew-xebX8E7U2pR887VQR6f4hdBFllZl2Fj9cDfkup0o" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,14 +40,8 @@
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
-
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
-
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
