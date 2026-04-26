@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=46&added=%2B24%2C804&removed=-25%2C880&net=-1%2C076&lph=-6&theme=dark&exp=1777215674&sig=DDVz-rFlkKP3t4I7Pqvg1pHjRECjFjcTixQLhIRNGbQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=46&added=%2B24%2C804&removed=-25%2C880&net=-1%2C076&lph=-6&theme=light&exp=1777215674&sig=hudjT-qUlsFW-8bj-pOCiFX6tj7tovy8-RZ3u6YJzug">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=46&added=%2B24%2C804&removed=-25%2C880&net=-1%2C076&lph=-6&theme=dark&exp=1777215674&sig=DDVz-rFlkKP3t4I7Pqvg1pHjRECjFjcTixQLhIRNGbQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=36&added=%2B11%2C474&removed=-11%2C849&net=-375&lph=-2&theme=dark&exp=1777229640&sig=le7oegmDFtdCxyBMtW6-N5-JZUfyBIm_CqfegSb0P_s">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=36&added=%2B11%2C474&removed=-11%2C849&net=-375&lph=-2&theme=light&exp=1777229640&sig=SP_QY3iDJeWEsg7crioXp23knUVhGIdX2MX75dvuO3Y">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=36&added=%2B11%2C474&removed=-11%2C849&net=-375&lph=-2&theme=dark&exp=1777229640&sig=le7oegmDFtdCxyBMtW6-N5-JZUfyBIm_CqfegSb0P_s" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -41,7 +41,5 @@
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
