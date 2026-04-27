@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=62&added=%2B13%2C517&removed=-8%2C863&net=%2B4%2C654&lph=%2B28&theme=dark&exp=1777304293&sig=lI2MW_sgDCY6kL6kuVMfPaOiUWotLIimmLAmsJBlQuk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=62&added=%2B13%2C517&removed=-8%2C863&net=%2B4%2C654&lph=%2B28&theme=light&exp=1777304293&sig=WQt9F0MaeTnUO2FY6Q_S3v1sV0waf_qkvHzKPfnhFKc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=62&added=%2B13%2C517&removed=-8%2C863&net=%2B4%2C654&lph=%2B28&theme=dark&exp=1777304293&sig=lI2MW_sgDCY6kL6kuVMfPaOiUWotLIimmLAmsJBlQuk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=dark&exp=1777319551&sig=1DZFFSqFW32nx8jHV5VlOyF8uLsg6PenWHByDEMZ4d0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=light&exp=1777319551&sig=D68he2uMZGHyyyMFFJlnGT2TM6EXXXpFTeYpqZnszzA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=dark&exp=1777319551&sig=1DZFFSqFW32nx8jHV5VlOyF8uLsg6PenWHByDEMZ4d0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,8 +40,10 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
