@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=dark&exp=1777353112&sig=GboSui0a_ADMFyVxL6Pt2S56Ab6EY7lH1mugKa9NtrI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=light&exp=1777353112&sig=6w7XnlITqyjsy9Awx7Wr4oF3g1SyOa1JnRNL4fkFbnk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=dark&exp=1777353112&sig=GboSui0a_ADMFyVxL6Pt2S56Ab6EY7lH1mugKa9NtrI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=dark&exp=1777377392&sig=kjsQIgPqyrflWSBRJY0vrHGN50VrzABuuYObaermE9g">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=light&exp=1777377392&sig=UFxqDwAxcJM5F00qrsJuYpoRVJ9U4l13E1eGTRADQ54">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=66&added=%2B5%2C980&removed=-1%2C886&net=%2B4%2C094&lph=%2B24&theme=dark&exp=1777377392&sig=kjsQIgPqyrflWSBRJY0vrHGN50VrzABuuYObaermE9g" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,6 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
