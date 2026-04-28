@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=68&added=%2B6%2C027&removed=-1%2C896&net=%2B4%2C131&lph=%2B25&theme=dark&exp=1777390478&sig=DOIZLZke9yvQIzuiAng1UVSrbxgzjqi9HInARTD9yC0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=68&added=%2B6%2C027&removed=-1%2C896&net=%2B4%2C131&lph=%2B25&theme=light&exp=1777390478&sig=IyIzFhFFyP2ll_E1R6w2KWIvJStZddHtASbmHVnwezc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=68&added=%2B6%2C027&removed=-1%2C896&net=%2B4%2C131&lph=%2B25&theme=dark&exp=1777390478&sig=DOIZLZke9yvQIzuiAng1UVSrbxgzjqi9HInARTD9yC0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=68&added=%2B6%2C027&removed=-1%2C896&net=%2B4%2C131&lph=%2B25&theme=dark&exp=1777406007&sig=XUYkGxOWiv9nXncdD6k3baTs86n9IKSi-IIbCOvamow">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=68&added=%2B6%2C027&removed=-1%2C896&net=%2B4%2C131&lph=%2B25&theme=light&exp=1777406007&sig=7-9ZeSzT92bMmwe8dFeUvyO-3DGHzHHBT9afOCwmvZc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=68&added=%2B6%2C027&removed=-1%2C896&net=%2B4%2C131&lph=%2B25&theme=dark&exp=1777406007&sig=XUYkGxOWiv9nXncdD6k3baTs86n9IKSi-IIbCOvamow" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,6 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
