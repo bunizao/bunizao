@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=63&added=%2B5%2C979&removed=-1%2C889&net=%2B4%2C090&lph=%2B24&theme=dark&exp=1777476535&sig=-FqtJUKq9XJrvXbXTZZyTQvkwRaY75O4RAtJZ_K9rOw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=63&added=%2B5%2C979&removed=-1%2C889&net=%2B4%2C090&lph=%2B24&theme=light&exp=1777476535&sig=AnfIQ7mCi91ZSz7h5nzM1O2RRklltOv29h_eUgRtac0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=63&added=%2B5%2C979&removed=-1%2C889&net=%2B4%2C090&lph=%2B24&theme=dark&exp=1777476535&sig=-FqtJUKq9XJrvXbXTZZyTQvkwRaY75O4RAtJZ_K9rOw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=63&added=%2B6%2C638&removed=-2%2C222&net=%2B4%2C416&lph=%2B26&theme=dark&exp=1777491961&sig=HDtwrTimOJzQYUayhIYcqCWmTCOXvBdPQwpDEHgfttc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=63&added=%2B6%2C638&removed=-2%2C222&net=%2B4%2C416&lph=%2B26&theme=light&exp=1777491961&sig=2Ed3DCnFs5H0etZ5f0KRVNPW_gqeqNeQEOWLM-EYEZw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=63&added=%2B6%2C638&removed=-2%2C222&net=%2B4%2C416&lph=%2B26&theme=dark&exp=1777491961&sig=HDtwrTimOJzQYUayhIYcqCWmTCOXvBdPQwpDEHgfttc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,10 +40,8 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
-
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
