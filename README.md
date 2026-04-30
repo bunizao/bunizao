@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=78&added=%2B7%2C315&removed=-2%2C470&net=%2B4%2C845&lph=%2B29&theme=dark&exp=1777563155&sig=93v_uqEWiGI97ve6Ee0r0O-xZedYKiLV-Qlb2livw5k">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=78&added=%2B7%2C315&removed=-2%2C470&net=%2B4%2C845&lph=%2B29&theme=light&exp=1777563155&sig=YdK5IUwtZgCjptJDpW8hE7alFJhlQsXJbwNOAi86Ggc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=78&added=%2B7%2C315&removed=-2%2C470&net=%2B4%2C845&lph=%2B29&theme=dark&exp=1777563155&sig=93v_uqEWiGI97ve6Ee0r0O-xZedYKiLV-Qlb2livw5k" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777578333&sig=0JgEzbPtClMKuMOBICEoTIt4ZHv69h024lHRe-G2rwQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=light&exp=1777578333&sig=u7BS2frsXTWwI16DnFFR2_cdSQwjBnp6tOS58moN96E">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777578333&sig=0JgEzbPtClMKuMOBICEoTIt4ZHv69h024lHRe-G2rwQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,6 +42,6 @@
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
