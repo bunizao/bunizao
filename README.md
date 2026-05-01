@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777649413&sig=yay2vD9PVSvDzNAk84Rw1PPqo2H243uBxYFdsy33pPk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=light&exp=1777649413&sig=dAQ5LuLBCL9fEkcVQYeWwiMns1wehiMXD0buxImS_Ks">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777649413&sig=yay2vD9PVSvDzNAk84Rw1PPqo2H243uBxYFdsy33pPk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=dark&exp=1777662924&sig=JR2ZFpCCVBlZytpoMKaDdbjnyO6Zl-y4PU05g9kSz6o">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=light&exp=1777662924&sig=NcWs7DPCxfg1Uvwqfa_3UF0yo-5W5HOP4pkcOc67kZo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=dark&exp=1777662924&sig=JR2ZFpCCVBlZytpoMKaDdbjnyO6Zl-y4PU05g9kSz6o" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,8 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
-
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
