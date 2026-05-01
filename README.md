@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=dark&exp=1777662924&sig=JR2ZFpCCVBlZytpoMKaDdbjnyO6Zl-y4PU05g9kSz6o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=light&exp=1777662924&sig=NcWs7DPCxfg1Uvwqfa_3UF0yo-5W5HOP4pkcOc67kZo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=dark&exp=1777662924&sig=JR2ZFpCCVBlZytpoMKaDdbjnyO6Zl-y4PU05g9kSz6o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=dark&exp=1777680158&sig=31tEdIvfLORZYkmUr2a6cIiseQpE_3S1k2EMPmqE3cE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=light&exp=1777680158&sig=JeHUaV-xn0NG2pzmTbEN19QTCGjxQc7LFwu0tUQUdkE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=81&added=%2B7%2C664&removed=-2%2C470&net=%2B5%2C194&lph=%2B31&theme=dark&exp=1777680158&sig=31tEdIvfLORZYkmUr2a6cIiseQpE_3S1k2EMPmqE3cE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
