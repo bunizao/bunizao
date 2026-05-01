@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777637186&sig=EXzqDAAyrMhrCqcPQ2934nv2J9-C9fotEcVqD2UmXLc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=light&exp=1777637186&sig=SO1X2eTYtfMEcZtDf6hlV4ziCpeWk7SwCEGlcTNMTyQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777637186&sig=EXzqDAAyrMhrCqcPQ2934nv2J9-C9fotEcVqD2UmXLc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777649413&sig=yay2vD9PVSvDzNAk84Rw1PPqo2H243uBxYFdsy33pPk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=light&exp=1777649413&sig=dAQ5LuLBCL9fEkcVQYeWwiMns1wehiMXD0buxImS_Ks">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=82&added=%2B7%2C810&removed=-2%2C477&net=%2B5%2C333&lph=%2B32&theme=dark&exp=1777649413&sig=yay2vD9PVSvDzNAk84Rw1PPqo2H243uBxYFdsy33pPk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,6 +42,6 @@
 
   <li><strong><a href="https://github.com/bunizao/always-attend">bunizao/always-attend</a></strong> — An automation helper to submit weekly attendance codes.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
