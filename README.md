@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=98&added=%2B10%2C669&removed=-4%2C609&net=%2B6%2C060&lph=%2B36&theme=dark&exp=1777698149&sig=cr0hINQ1Us4oysWV_h7blgWdEFSQpbqq70I5vOfs9lI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=98&added=%2B10%2C669&removed=-4%2C609&net=%2B6%2C060&lph=%2B36&theme=light&exp=1777698149&sig=CS-Id2LW0j4QNbAOI_054St31_JwB2WBUF-4CzejOTY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=98&added=%2B10%2C669&removed=-4%2C609&net=%2B6%2C060&lph=%2B36&theme=dark&exp=1777698149&sig=cr0hINQ1Us4oysWV_h7blgWdEFSQpbqq70I5vOfs9lI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=98&added=%2B10%2C669&removed=-4%2C609&net=%2B6%2C060&lph=%2B36&theme=dark&exp=1777721943&sig=UpcYQeoMO9pFrKSZco_pAcqNy8imLTZSKRPNCu104UI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=98&added=%2B10%2C669&removed=-4%2C609&net=%2B6%2C060&lph=%2B36&theme=light&exp=1777721943&sig=4yd5doq-rYcyvp6C5245qa2sYmTYdPRJNO9idLgvXMY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=98&added=%2B10%2C669&removed=-4%2C609&net=%2B6%2C060&lph=%2B36&theme=dark&exp=1777721943&sig=UpcYQeoMO9pFrKSZco_pAcqNy8imLTZSKRPNCu104UI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
