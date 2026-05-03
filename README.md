@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B11%2C048&removed=-4%2C581&net=%2B6%2C467&lph=%2B38&theme=dark&exp=1777809720&sig=Kyw0TufjLhtQ4pRszySfjI0DJJ2mWYOxVG9tIQWO3IY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B11%2C048&removed=-4%2C581&net=%2B6%2C467&lph=%2B38&theme=light&exp=1777809720&sig=N3u9CmmXXQGtlSvIH-pQuhKZuVsYGCgCk9zbuPG7Lqw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B11%2C048&removed=-4%2C581&net=%2B6%2C467&lph=%2B38&theme=dark&exp=1777809720&sig=Kyw0TufjLhtQ4pRszySfjI0DJJ2mWYOxVG9tIQWO3IY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B11%2C048&removed=-4%2C581&net=%2B6%2C467&lph=%2B38&theme=dark&exp=1777821721&sig=aDjTnSKpyx3jRDlA5qZuEfUrEoCwobKrafnHZrYcSOo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B11%2C048&removed=-4%2C581&net=%2B6%2C467&lph=%2B38&theme=light&exp=1777821721&sig=xQr62K_jGKt5FI4OFOqqlpdsFhX2UALfwTvGhuSc25A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B11%2C048&removed=-4%2C581&net=%2B6%2C467&lph=%2B38&theme=dark&exp=1777821721&sig=aDjTnSKpyx3jRDlA5qZuEfUrEoCwobKrafnHZrYcSOo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 </ul>
