@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=71&added=%2B12%2C704&removed=-13%2C918&net=-1%2C214&lph=-7&theme=dark&exp=1777852534&sig=N2uuLHzBSJ5OeB_9LorXPpJ6gIPCt0AKZuFwby1Ygmg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=71&added=%2B12%2C704&removed=-13%2C918&net=-1%2C214&lph=-7&theme=light&exp=1777852534&sig=GFyqHGlw8ZvsdslPmFgtKJWCVhHAAcCaz2T2SiY4zKk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=71&added=%2B12%2C704&removed=-13%2C918&net=-1%2C214&lph=-7&theme=dark&exp=1777852534&sig=N2uuLHzBSJ5OeB_9LorXPpJ6gIPCt0AKZuFwby1Ygmg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=75&added=%2B13%2C406&removed=-13%2C923&net=-517&lph=-3&theme=dark&exp=1777870535&sig=quJRb0TfxeyieXomi-Htm1Qmds7G0TRHCdAQWRxN-nY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=75&added=%2B13%2C406&removed=-13%2C923&net=-517&lph=-3&theme=light&exp=1777870535&sig=eN7XAofBwO_EnArA7c0_PWLRHSJL8PW82lrc4BAiJWw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=75&added=%2B13%2C406&removed=-13%2C923&net=-517&lph=-3&theme=dark&exp=1777870535&sig=quJRb0TfxeyieXomi-Htm1Qmds7G0TRHCdAQWRxN-nY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,8 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
