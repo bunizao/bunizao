@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=71&added=%2B8%2C906&removed=-3%2C109&net=%2B5%2C797&lph=%2B35&theme=dark&exp=1777834809&sig=HnnSJNoDLI9iebLJQe6zr7vDyFn6uFDYMUBzEew1CIg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=71&added=%2B8%2C906&removed=-3%2C109&net=%2B5%2C797&lph=%2B35&theme=light&exp=1777834809&sig=YgcsxY95hZpf_WsFrJ7k8fvR8zoqctwID7gE99I3Hjc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=71&added=%2B8%2C906&removed=-3%2C109&net=%2B5%2C797&lph=%2B35&theme=dark&exp=1777834809&sig=HnnSJNoDLI9iebLJQe6zr7vDyFn6uFDYMUBzEew1CIg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=71&added=%2B12%2C704&removed=-13%2C918&net=-1%2C214&lph=-7&theme=dark&exp=1777852534&sig=N2uuLHzBSJ5OeB_9LorXPpJ6gIPCt0AKZuFwby1Ygmg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=71&added=%2B12%2C704&removed=-13%2C918&net=-1%2C214&lph=-7&theme=light&exp=1777852534&sig=GFyqHGlw8ZvsdslPmFgtKJWCVhHAAcCaz2T2SiY4zKk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=71&added=%2B12%2C704&removed=-13%2C918&net=-1%2C214&lph=-7&theme=dark&exp=1777852534&sig=N2uuLHzBSJ5OeB_9LorXPpJ6gIPCt0AKZuFwby1Ygmg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,13 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
+
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 </ul>
