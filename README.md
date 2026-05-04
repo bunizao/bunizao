@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=75&added=%2B13%2C406&removed=-13%2C923&net=-517&lph=-3&theme=dark&exp=1777895904&sig=LAX-APccnansxZexM1TR_1ejki1d3sKjtDgNOF5rP2o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=75&added=%2B13%2C406&removed=-13%2C923&net=-517&lph=-3&theme=light&exp=1777895904&sig=ezW_c1YfOk2d1_YU8kntiicvD5xccmYH-pLI6n_9hiw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=75&added=%2B13%2C406&removed=-13%2C923&net=-517&lph=-3&theme=dark&exp=1777895904&sig=LAX-APccnansxZexM1TR_1ejki1d3sKjtDgNOF5rP2o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=77&added=%2B13%2C472&removed=-13%2C939&net=-467&lph=-3&theme=dark&exp=1777909850&sig=fhgSaKt_jo-MlxUkwfvh0IVr_cuMI0bbfPmDXk8Q9MQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=77&added=%2B13%2C472&removed=-13%2C939&net=-467&lph=-3&theme=light&exp=1777909850&sig=FVtXInMpoJQhfsuZsK4viTpArpbkCPapwnk0USfnPgI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=77&added=%2B13%2C472&removed=-13%2C939&net=-467&lph=-3&theme=dark&exp=1777909850&sig=fhgSaKt_jo-MlxUkwfvh0IVr_cuMI0bbfPmDXk8Q9MQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,6 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
