@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=77&added=%2B13%2C472&removed=-13%2C939&net=-467&lph=-3&theme=dark&exp=1777909850&sig=fhgSaKt_jo-MlxUkwfvh0IVr_cuMI0bbfPmDXk8Q9MQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=77&added=%2B13%2C472&removed=-13%2C939&net=-467&lph=-3&theme=light&exp=1777909850&sig=FVtXInMpoJQhfsuZsK4viTpArpbkCPapwnk0USfnPgI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=77&added=%2B13%2C472&removed=-13%2C939&net=-467&lph=-3&theme=dark&exp=1777909850&sig=fhgSaKt_jo-MlxUkwfvh0IVr_cuMI0bbfPmDXk8Q9MQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=68&added=%2B12%2C948&removed=-13%2C883&net=-935&lph=-6&theme=dark&exp=1777924672&sig=2IfpF5UMH1zIOsl9nScbOMaKA1BcwN1sFjjVYaUCTxk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=68&added=%2B12%2C948&removed=-13%2C883&net=-935&lph=-6&theme=light&exp=1777924672&sig=VvSZsyYZgcMofZkovd8neGhjTjjLv31LFfrHEIYW3Do">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=68&added=%2B12%2C948&removed=-13%2C883&net=-935&lph=-6&theme=dark&exp=1777924672&sig=2IfpF5UMH1zIOsl9nScbOMaKA1BcwN1sFjjVYaUCTxk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -43,7 +43,5 @@
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
   <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
-
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
