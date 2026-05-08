@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=47&added=%2B6%2C380&removed=-6%2C569&net=-189&lph=-1&theme=dark&exp=1778268303&sig=UYz9jbuQhoiBLTsyO18DJhg_er50ijFzsyQDUjJ2N-8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=47&added=%2B6%2C380&removed=-6%2C569&net=-189&lph=-1&theme=light&exp=1778268303&sig=GFhQTUhWIl4MlTMvT1w1jKc6OcgVm2ZeUfjWqEaBbhA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=47&added=%2B6%2C380&removed=-6%2C569&net=-189&lph=-1&theme=dark&exp=1778268303&sig=UYz9jbuQhoiBLTsyO18DJhg_er50ijFzsyQDUjJ2N-8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=39&added=%2B5%2C860&removed=-6%2C173&net=-313&lph=-2&theme=dark&exp=1778286097&sig=DL_GQ7Dm3pqx70BpDbOZhJkzLLvatUZumJP3nhGqt-I">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=39&added=%2B5%2C860&removed=-6%2C173&net=-313&lph=-2&theme=light&exp=1778286097&sig=HKC6DwDhC2n7kW4wC3nBCEpWrp3jclsypffmr9ub0mY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=39&added=%2B5%2C860&removed=-6%2C173&net=-313&lph=-2&theme=dark&exp=1778286097&sig=DL_GQ7Dm3pqx70BpDbOZhJkzLLvatUZumJP3nhGqt-I" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
-
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
