@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=42&added=%2B9%2C023&removed=-6%2C264&net=%2B2%2C759&lph=%2B16&theme=dark&exp=1778303463&sig=dOIKGloN55YHnzQ-kark0p44V1QvWkCE7KiPdq0Id4w">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=42&added=%2B9%2C023&removed=-6%2C264&net=%2B2%2C759&lph=%2B16&theme=light&exp=1778303463&sig=wSQ5K_CmfPkdoi0xdUU6JJJivNurOYKrROna0jJ19LU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=42&added=%2B9%2C023&removed=-6%2C264&net=%2B2%2C759&lph=%2B16&theme=dark&exp=1778303463&sig=dOIKGloN55YHnzQ-kark0p44V1QvWkCE7KiPdq0Id4w" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=42&added=%2B9%2C023&removed=-6%2C264&net=%2B2%2C759&lph=%2B16&theme=dark&exp=1778327238&sig=3GjLZx0ruJ-VHpjoSZ_bmaZdJQ8Mg0OKl0kuxHIcAgI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=42&added=%2B9%2C023&removed=-6%2C264&net=%2B2%2C759&lph=%2B16&theme=light&exp=1778327238&sig=534EBZZnKTVhRtonQVvalQ45SMVeQia93o1kKu5xjq0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=42&added=%2B9%2C023&removed=-6%2C264&net=%2B2%2C759&lph=%2B16&theme=dark&exp=1778327238&sig=3GjLZx0ruJ-VHpjoSZ_bmaZdJQ8Mg0OKl0kuxHIcAgI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,6 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
