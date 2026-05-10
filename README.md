@@ -28,20 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778439938&sig=9Uescw3nFxWVFAqrGd4QN6muBwrztpCeRPEF2Z1i-cE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=light&exp=1778439938&sig=3KlUmBpaJzi0HxMlEtY3P5KhI9yt6ORboha1nsw2LWc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778439938&sig=9Uescw3nFxWVFAqrGd4QN6muBwrztpCeRPEF2Z1i-cE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=26&added=%2B4%2C905&removed=-427&net=%2B4%2C478&lph=%2B27&theme=dark&exp=1778457630&sig=HDHCSu0wOOTA0wWNPpqlSca9rII8BPSXaD5OqJd8iiE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=26&added=%2B4%2C905&removed=-427&net=%2B4%2C478&lph=%2B27&theme=light&exp=1778457630&sig=QIzFHhE0ezUz7dUKcp9OSRXO0L5wsQIGmp_Axvgsczw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=26&added=%2B4%2C905&removed=-427&net=%2B4%2C478&lph=%2B27&theme=dark&exp=1778457630&sig=HDHCSu0wOOTA0wWNPpqlSca9rII8BPSXaD5OqJd8iiE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
