@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778426967&sig=70XaQfLHoCzHpN248F2lunjASiWp6C6qMoMlMtraFOk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=light&exp=1778426967&sig=joWoGAArtfQn71_oOGf6iYzokDSo4Ik3mlu6Aqz1nMQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778426967&sig=70XaQfLHoCzHpN248F2lunjASiWp6C6qMoMlMtraFOk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778439938&sig=9Uescw3nFxWVFAqrGd4QN6muBwrztpCeRPEF2Z1i-cE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=light&exp=1778439938&sig=3KlUmBpaJzi0HxMlEtY3P5KhI9yt6ORboha1nsw2LWc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778439938&sig=9Uescw3nFxWVFAqrGd4QN6muBwrztpCeRPEF2Z1i-cE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,6 +42,6 @@
 
   <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
