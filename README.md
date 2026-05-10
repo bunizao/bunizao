@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=26&added=%2B4%2C905&removed=-427&net=%2B4%2C478&lph=%2B27&theme=dark&exp=1778457630&sig=HDHCSu0wOOTA0wWNPpqlSca9rII8BPSXaD5OqJd8iiE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=26&added=%2B4%2C905&removed=-427&net=%2B4%2C478&lph=%2B27&theme=light&exp=1778457630&sig=QIzFHhE0ezUz7dUKcp9OSRXO0L5wsQIGmp_Axvgsczw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=26&added=%2B4%2C905&removed=-427&net=%2B4%2C478&lph=%2B27&theme=dark&exp=1778457630&sig=HDHCSu0wOOTA0wWNPpqlSca9rII8BPSXaD5OqJd8iiE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=dark&exp=1778475515&sig=T2Ri9k5MzwvEvKXQbugGGvqh0PLWI0zoX8JZvvLeoVk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=light&exp=1778475515&sig=ZqXEwmikRiDxvPvWyJpaukMynuxxmnsv5iCYwZRwsdc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=dark&exp=1778475515&sig=T2Ri9k5MzwvEvKXQbugGGvqh0PLWI0zoX8JZvvLeoVk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
