@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778388901&sig=0H5TUAb6B5zsOyRYxwFjp-1IrTYt-Zhg3YRtrPHMTTY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=light&exp=1778388901&sig=CeOgFY-eBafcrsQgo9Eluzvp6CsXI-0fHugH9g0TPBQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778388901&sig=0H5TUAb6B5zsOyRYxwFjp-1IrTYt-Zhg3YRtrPHMTTY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778414601&sig=gNmEPOryBMWWqzgbuaWioGnILs1iJDfsv2fq5tOP9ks">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=light&exp=1778414601&sig=NbLXmXmzt7D-DfPOMSp4xTBQDOFtGV_y30q-vOCjFJk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=38&added=%2B8%2C051&removed=-6%2C258&net=%2B1%2C793&lph=%2B11&theme=dark&exp=1778414601&sig=gNmEPOryBMWWqzgbuaWioGnILs1iJDfsv2fq5tOP9ks" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,6 +42,6 @@
 
   <li><strong><a href="https://github.com/bunizao/ghost-cloudflare-r2">bunizao/ghost-cloudflare-r2</a></strong> — Cloudflare R2 storage adapter for Ghost</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
