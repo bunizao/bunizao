@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=dark&exp=1778475515&sig=T2Ri9k5MzwvEvKXQbugGGvqh0PLWI0zoX8JZvvLeoVk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=light&exp=1778475515&sig=ZqXEwmikRiDxvPvWyJpaukMynuxxmnsv5iCYwZRwsdc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=dark&exp=1778475515&sig=T2Ri9k5MzwvEvKXQbugGGvqh0PLWI0zoX8JZvvLeoVk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=dark&exp=1778501688&sig=EX0LszdFJeAhr7Ywv1AA7OBlmArv2iaMR_xUNeEj1SU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=light&exp=1778501688&sig=D5HFHCz0hizlbtB_AxokeVGpKOMNiQEzx1Hs40pkq68">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=22&added=%2B4%2C059&removed=-611&net=%2B3%2C448&lph=%2B21&theme=dark&exp=1778501688&sig=EX0LszdFJeAhr7Ywv1AA7OBlmArv2iaMR_xUNeEj1SU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
