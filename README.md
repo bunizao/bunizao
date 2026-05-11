@@ -28,18 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=20&added=%2B3%2C993&removed=-595&net=%2B3%2C398&lph=%2B20&theme=dark&exp=1778549297&sig=Ng2VEgvo9UrgWxNLEeiSXDIiiXsJ82-heHmIZ6P4RPU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=20&added=%2B3%2C993&removed=-595&net=%2B3%2C398&lph=%2B20&theme=light&exp=1778549297&sig=N1sOvFoF9-lVJuZyINRnN19EbQ6a_-jYbfJzmWZJgXs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=20&added=%2B3%2C993&removed=-595&net=%2B3%2C398&lph=%2B20&theme=dark&exp=1778549297&sig=Ng2VEgvo9UrgWxNLEeiSXDIiiXsJ82-heHmIZ6P4RPU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778563453&sig=k0lz3Dd-wgcK_QIiml3CQvoDcXJRqBpvTJBcypb9Zi0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=light&exp=1778563453&sig=D73J2wp33Bjyo6qkldj1MGykMbvqJ6whDngb_h0_nyM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778563453&sig=k0lz3Dd-wgcK_QIiml3CQvoDcXJRqBpvTJBcypb9Zi0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
