@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778616183&sig=5l3CVgbnpnHv64Y5liBIk76dxZYNCEbfBYvOUKwB7q0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=light&exp=1778616183&sig=Sh5PNf8iEkWnwkHTfUYIGotraHeR7Kzy4oDllcY6JcY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778616183&sig=5l3CVgbnpnHv64Y5liBIk76dxZYNCEbfBYvOUKwB7q0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778635158&sig=WkhI4X95QQWkIyR10o-HESytFkqYodPTvSche_dj5kM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=light&exp=1778635158&sig=_ZGgOU4A7HaCfYSLMkQvTb1foWu86Ek3-bCqu1uUOqY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778635158&sig=WkhI4X95QQWkIyR10o-HESytFkqYodPTvSche_dj5kM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
