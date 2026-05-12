@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778587083&sig=2K1M05O7jbCSXIJp3aYgsXnzAHTCXhx173jHQ9lChE8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=light&exp=1778587083&sig=uTsDxHxzhYwKbGQylr2rUxiTN0A37NhUOrE3gD1SZhE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778587083&sig=2K1M05O7jbCSXIJp3aYgsXnzAHTCXhx173jHQ9lChE8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778600909&sig=zgONVdSChZuh9gksGEKb0Ucs_KLVknS9mLmN9ls5ESw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=light&exp=1778600909&sig=4U_OxtBn_LyCM6fMg-Jf_BFn_EhWNM0w9rBvKH0-x3A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=106&added=%2B31%2C482&removed=-8%2C223&net=%2B23%2C259&lph=%2B138&theme=dark&exp=1778600909&sig=zgONVdSChZuh9gksGEKb0Ucs_KLVknS9mLmN9ls5ESw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
