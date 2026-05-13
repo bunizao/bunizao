@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=dark&exp=1778721678&sig=ub-YxwFfDO9laltLlfLbhFrV8aS_upxc_ZE4VU7kLYM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=light&exp=1778721678&sig=j3MlJSBlw6GO3KzPq-ydeX-u9tKe7Gwf7qGCmh7_jlI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=dark&exp=1778721678&sig=ub-YxwFfDO9laltLlfLbhFrV8aS_upxc_ZE4VU7kLYM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=dark&exp=1778737266&sig=GtLm9B_YqiQmjtyfz3veV4XN__0m2FgMBB4tdEOIWGM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=light&exp=1778737266&sig=MTJzBLhtjm86uDVGrb2l8565ebtGIqrjy7O3tA_zP4w">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=dark&exp=1778737266&sig=GtLm9B_YqiQmjtyfz3veV4XN__0m2FgMBB4tdEOIWGM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
