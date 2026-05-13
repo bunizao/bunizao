@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=105&added=%2B31%2C481&removed=-8%2C223&net=%2B23%2C258&lph=%2B138&theme=dark&exp=1778673998&sig=r_kyf9Ih1I8EzE1jXJLhDnz7bR984Otzc_7PkDFzRAU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=105&added=%2B31%2C481&removed=-8%2C223&net=%2B23%2C258&lph=%2B138&theme=light&exp=1778673998&sig=PHS7wYIVzJ8hH-rm8MPRa86COFoVO9_OafP5n9quo7E">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=105&added=%2B31%2C481&removed=-8%2C223&net=%2B23%2C258&lph=%2B138&theme=dark&exp=1778673998&sig=r_kyf9Ih1I8EzE1jXJLhDnz7bR984Otzc_7PkDFzRAU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=105&added=%2B31%2C481&removed=-8%2C223&net=%2B23%2C258&lph=%2B138&theme=dark&exp=1778687746&sig=DyhdO546MEDVx7BNpNAiREaaYQki6ZedOHeqUERl6YQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=105&added=%2B31%2C481&removed=-8%2C223&net=%2B23%2C258&lph=%2B138&theme=light&exp=1778687746&sig=vINpUFp7bBZTRNAtmxd-_X_m2-hMImy3MFSRIRglbA4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=105&added=%2B31%2C481&removed=-8%2C223&net=%2B23%2C258&lph=%2B138&theme=dark&exp=1778687746&sig=DyhdO546MEDVx7BNpNAiREaaYQki6ZedOHeqUERl6YQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
