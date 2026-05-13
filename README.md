@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=96&added=%2B31%2C283&removed=-8%2C048&net=%2B23%2C235&lph=%2B138&theme=dark&exp=1778703052&sig=7r4OM9BeLVkixMmedM7s0BCWtrhPsvCLHKNYRQIQbOc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=96&added=%2B31%2C283&removed=-8%2C048&net=%2B23%2C235&lph=%2B138&theme=light&exp=1778703052&sig=BhibAEthIu3Wkt-RE8S4F3s-0l80TOv--odRZcCF9zU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=96&added=%2B31%2C283&removed=-8%2C048&net=%2B23%2C235&lph=%2B138&theme=dark&exp=1778703052&sig=7r4OM9BeLVkixMmedM7s0BCWtrhPsvCLHKNYRQIQbOc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=dark&exp=1778721678&sig=ub-YxwFfDO9laltLlfLbhFrV8aS_upxc_ZE4VU7kLYM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=light&exp=1778721678&sig=j3MlJSBlw6GO3KzPq-ydeX-u9tKe7Gwf7qGCmh7_jlI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=95&added=%2B31%2C254&removed=-8%2C043&net=%2B23%2C211&lph=%2B138&theme=dark&exp=1778721678&sig=ub-YxwFfDO9laltLlfLbhFrV8aS_upxc_ZE4VU7kLYM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,8 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
