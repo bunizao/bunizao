@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=98&added=%2B31%2C437&removed=-8%2C065&net=%2B23%2C372&lph=%2B139&theme=dark&exp=1778807104&sig=EQF-djaozmcEG085axkETrpR-i12CVu6SOjqps1GMjc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=98&added=%2B31%2C437&removed=-8%2C065&net=%2B23%2C372&lph=%2B139&theme=light&exp=1778807104&sig=zTFZEJMfNSxX8sLPfwyLoKF6Lh1aAd9Ia4AWYzMZ3TI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=98&added=%2B31%2C437&removed=-8%2C065&net=%2B23%2C372&lph=%2B139&theme=dark&exp=1778807104&sig=EQF-djaozmcEG085axkETrpR-i12CVu6SOjqps1GMjc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=99&added=%2B31%2C707&removed=-8%2C069&net=%2B23%2C638&lph=%2B141&theme=dark&exp=1778822217&sig=mLAfCuRt-7yovLRzFO2y_0Fxtrmjh3w8-nKLiY0We5I">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=99&added=%2B31%2C707&removed=-8%2C069&net=%2B23%2C638&lph=%2B141&theme=light&exp=1778822217&sig=UAYbIZeIbkU8X6aoE_NI0Jz4ssaTdKYiDN2B0ZCRNd4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=99&added=%2B31%2C707&removed=-8%2C069&net=%2B23%2C638&lph=%2B141&theme=dark&exp=1778822217&sig=mLAfCuRt-7yovLRzFO2y_0Fxtrmjh3w8-nKLiY0We5I" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,8 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
+
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
