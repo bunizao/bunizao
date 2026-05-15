@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=106&added=%2B32%2C954&removed=-8%2C197&net=%2B24%2C757&lph=%2B147&theme=dark&exp=1778892980&sig=4DaNh-Wj5aRmcrnh4lWuOinI4DGgCewRpZerT-JEgcE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=106&added=%2B32%2C954&removed=-8%2C197&net=%2B24%2C757&lph=%2B147&theme=light&exp=1778892980&sig=FfBexChYUYxPnx9bLLSVy0wXVzbuw6CNYdeZ_CQidas">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=106&added=%2B32%2C954&removed=-8%2C197&net=%2B24%2C757&lph=%2B147&theme=dark&exp=1778892980&sig=4DaNh-Wj5aRmcrnh4lWuOinI4DGgCewRpZerT-JEgcE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778908509&sig=o9J3gEBU-fJOoTge9ISfqVh2oOY9Js7BKrMLgJfd7IM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=light&exp=1778908509&sig=VxB3QizJY1IjNOaT4GX666rWGAaBiqJA4gZ00B0yGiY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778908509&sig=o9J3gEBU-fJOoTge9ISfqVh2oOY9Js7BKrMLgJfd7IM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,8 +42,8 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
-
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
+
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
