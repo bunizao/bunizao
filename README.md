@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=107&added=%2B33%2C178&removed=-8%2C238&net=%2B24%2C940&lph=%2B148&theme=dark&exp=1778875240&sig=jJ86PEw0umi9NAVw2ymPdeoSqgGodImvDc8VLCoB474">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=107&added=%2B33%2C178&removed=-8%2C238&net=%2B24%2C940&lph=%2B148&theme=light&exp=1778875241&sig=Ry7DJMLNTkKi0Bnv428D2UFPZoBN9oAi1T6YnwxDHzQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=107&added=%2B33%2C178&removed=-8%2C238&net=%2B24%2C940&lph=%2B148&theme=dark&exp=1778875240&sig=jJ86PEw0umi9NAVw2ymPdeoSqgGodImvDc8VLCoB474" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=106&added=%2B32%2C954&removed=-8%2C197&net=%2B24%2C757&lph=%2B147&theme=dark&exp=1778892980&sig=4DaNh-Wj5aRmcrnh4lWuOinI4DGgCewRpZerT-JEgcE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=106&added=%2B32%2C954&removed=-8%2C197&net=%2B24%2C757&lph=%2B147&theme=light&exp=1778892980&sig=FfBexChYUYxPnx9bLLSVy0wXVzbuw6CNYdeZ_CQidas">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=106&added=%2B32%2C954&removed=-8%2C197&net=%2B24%2C757&lph=%2B147&theme=dark&exp=1778892980&sig=4DaNh-Wj5aRmcrnh4lWuOinI4DGgCewRpZerT-JEgcE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,7 +42,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 </ul>
