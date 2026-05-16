@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=65&added=%2B22%2C212&removed=-6%2C189&net=%2B16%2C023&lph=%2B95&theme=dark&exp=1778958493&sig=SzNIVLGAYDBvCXdAlat2eoc_rm7h_zwXtQhbcBrIsuw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=65&added=%2B22%2C212&removed=-6%2C189&net=%2B16%2C023&lph=%2B95&theme=light&exp=1778958493&sig=XkM6Eo7LF3wbdmjAzP6IMDCgSUJtpSROtiHgUCyM2Eo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=65&added=%2B22%2C212&removed=-6%2C189&net=%2B16%2C023&lph=%2B95&theme=dark&exp=1778958493&sig=SzNIVLGAYDBvCXdAlat2eoc_rm7h_zwXtQhbcBrIsuw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=69&added=%2B38%2C553&removed=-5%2C723&net=%2B32%2C830&lph=%2B195&theme=dark&exp=1778976162&sig=Bv6i1reufEMYvIgzplwzdEOtEDDWFVPCrQerqP1WuTo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=69&added=%2B38%2C553&removed=-5%2C723&net=%2B32%2C830&lph=%2B195&theme=light&exp=1778976162&sig=bTw_a50yNfFglRZthtEL1Blfrwdp6_bSPvMOlX4wmf4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=69&added=%2B38%2C553&removed=-5%2C723&net=%2B32%2C830&lph=%2B195&theme=dark&exp=1778976162&sig=Bv6i1reufEMYvIgzplwzdEOtEDDWFVPCrQerqP1WuTo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,12 +38,14 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+  <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
+
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
