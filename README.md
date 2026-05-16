@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778944855&sig=zWXrnOyw9nkHUESdde-LUDQukXI6mjk2jgElDJRwZJY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=light&exp=1778944855&sig=COUi5vrDBH6-VJZ8jR0FHmpDHohGzWOFsAHlz0qwVdk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778944855&sig=zWXrnOyw9nkHUESdde-LUDQukXI6mjk2jgElDJRwZJY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=65&added=%2B22%2C212&removed=-6%2C189&net=%2B16%2C023&lph=%2B95&theme=dark&exp=1778958493&sig=SzNIVLGAYDBvCXdAlat2eoc_rm7h_zwXtQhbcBrIsuw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=65&added=%2B22%2C212&removed=-6%2C189&net=%2B16%2C023&lph=%2B95&theme=light&exp=1778958493&sig=XkM6Eo7LF3wbdmjAzP6IMDCgSUJtpSROtiHgUCyM2Eo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=65&added=%2B22%2C212&removed=-6%2C189&net=%2B16%2C023&lph=%2B95&theme=dark&exp=1778958493&sig=SzNIVLGAYDBvCXdAlat2eoc_rm7h_zwXtQhbcBrIsuw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,6 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
