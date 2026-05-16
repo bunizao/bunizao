@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778932341&sig=gowrAvd_VlMfBoV6YSPCiUBbzfdHvi3nMi2lnG4ffe8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=light&exp=1778932341&sig=SkHOw1rKnu8flMWR8AOtls_o_YqmcmGOGWvVd0HxCzk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778932341&sig=gowrAvd_VlMfBoV6YSPCiUBbzfdHvi3nMi2lnG4ffe8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778944855&sig=zWXrnOyw9nkHUESdde-LUDQukXI6mjk2jgElDJRwZJY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=light&exp=1778944855&sig=COUi5vrDBH6-VJZ8jR0FHmpDHohGzWOFsAHlz0qwVdk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=71&added=%2B26%2C829&removed=-6%2C946&net=%2B19%2C883&lph=%2B118&theme=dark&exp=1778944855&sig=zWXrnOyw9nkHUESdde-LUDQukXI6mjk2jgElDJRwZJY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,6 +44,6 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
