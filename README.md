@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=80&added=%2B40%2C267&removed=-9%2C492&net=%2B30%2C775&lph=%2B183&theme=dark&exp=1779062606&sig=dIsY6tioGUpunzNi6ynDyTW5mRhO9ks5OjxD71bzVaw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=80&added=%2B40%2C267&removed=-9%2C492&net=%2B30%2C775&lph=%2B183&theme=light&exp=1779062606&sig=NihRgDtTTuothMdrKGCQ5y-cmRta35nkRv58Zs2ORZc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=80&added=%2B40%2C267&removed=-9%2C492&net=%2B30%2C775&lph=%2B183&theme=dark&exp=1779062606&sig=dIsY6tioGUpunzNi6ynDyTW5mRhO9ks5OjxD71bzVaw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779080611&sig=28L44XCmkhdGcCE_eIluG4YUKsUKtGVQAuVrsZ9ZRZ0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=light&exp=1779080611&sig=o4KWebV2DcYigKF7mhus_jTn86lnavX6axJaWPo8LtE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779080611&sig=28L44XCmkhdGcCE_eIluG4YUKsUKtGVQAuVrsZ9ZRZ0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
@@ -48,8 +48,12 @@
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
+  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
+
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
