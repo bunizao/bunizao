@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=48&added=%2B34%2C811&removed=-3%2C646&net=%2B31%2C165&lph=%2B186&theme=dark&exp=1779019875&sig=v-3lRrAyuB32yf0lK__9hL8HsfRcaNjchictyqkJVE0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=48&added=%2B34%2C811&removed=-3%2C646&net=%2B31%2C165&lph=%2B186&theme=light&exp=1779019875&sig=Xne5gygcOtRdrcVY_MOvzlvTtsHE9_6TFdVVuwMiEJs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=48&added=%2B34%2C811&removed=-3%2C646&net=%2B31%2C165&lph=%2B186&theme=dark&exp=1779019875&sig=v-3lRrAyuB32yf0lK__9hL8HsfRcaNjchictyqkJVE0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=48&added=%2B34%2C811&removed=-3%2C646&net=%2B31%2C165&lph=%2B186&theme=dark&exp=1779032235&sig=mOLtGbf0R7H5STdG6Zj4yz4zlDz-GRPZBLdEdbmWIuE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=48&added=%2B34%2C811&removed=-3%2C646&net=%2B31%2C165&lph=%2B186&theme=light&exp=1779032235&sig=_OqSGOeMGzE9if6wzqvap2CjW0T2N4xXeMwMf5P_q-k">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=48&added=%2B34%2C811&removed=-3%2C646&net=%2B31%2C165&lph=%2B186&theme=dark&exp=1779032235&sig=mOLtGbf0R7H5STdG6Zj4yz4zlDz-GRPZBLdEdbmWIuE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,6 +46,6 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
