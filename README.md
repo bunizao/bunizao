@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779141212&sig=5qbcTypMitgQz9H-TvV4jGZTpNVxNcJ8zcAxJN3sMLQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=light&exp=1779141212&sig=PC5GhEQ7xfkjMr5s9qtFNNSgcJzWwpBsCUcB3njCBNM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779141212&sig=5qbcTypMitgQz9H-TvV4jGZTpNVxNcJ8zcAxJN3sMLQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=74&added=%2B39%2C406&removed=-8%2C705&net=%2B30%2C701&lph=%2B183&theme=dark&exp=1779144200&sig=NNhZYyYyaTmllsLYwo3218HvSJFY5_3-aB30HqGknNc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=74&added=%2B39%2C406&removed=-8%2C705&net=%2B30%2C701&lph=%2B183&theme=light&exp=1779144200&sig=skv84gATJ1eJcbfAH7x9pGOTKKApPzXnh-uYx_HM2lY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=74&added=%2B39%2C406&removed=-8%2C705&net=%2B30%2C701&lph=%2B183&theme=dark&exp=1779144200&sig=NNhZYyYyaTmllsLYwo3218HvSJFY5_3-aB30HqGknNc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,11 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
@@ -52,8 +52,14 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
+  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+
+  <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/QuantumNous/new-api">QuantumNous/new-api</a></strong> — A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatibl... <em>(2 issues)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
