@@ -48,7 +48,12 @@ from.setUTCDate(from.getUTCDate() - WINDOW_DAYS);
 const fromIso = from.toISOString();
 const toIso = now.toISOString();
 const viewer = await fetchViewer();
-const repositories = await fetchCandidateRepositories(fromIso, MAX_REPOSITORIES);
+const commitRepositories = await fetchCandidateRepositories(fromIso, MAX_REPOSITORIES);
+const authoredActivityByRepository = await fetchAuthoredIssueAndPullRequestActivity({
+  authorLogin: viewer.login,
+  fromIso,
+});
+const repositories = mergeRepositories(commitRepositories, authoredActivityByRepository);
 const activity = (
   await mapConcurrent(repositories, REPOSITORY_CONCURRENCY, async (repository) => {
     const stats = await fetchRepositoryStats({
@@ -60,17 +65,23 @@ const activity = (
       toIso,
     });
 
-    if (!stats || stats.commits <= 0) {
+    const commits = stats?.commits || 0;
+    const issues = repository.issues || 0;
+    const pullRequests = repository.pullRequests || 0;
+
+    if (commits <= 0 && issues <= 0 && pullRequests <= 0) {
       return null;
     }
 
     return {
-      additions: stats.additions,
-      commits: stats.commits,
-      deletions: stats.deletions,
+      additions: stats?.additions || 0,
+      commits,
+      deletions: stats?.deletions || 0,
       description: repository.description,
+      issues,
       isPrivate: repository.isPrivate,
       nameWithOwner: repository.nameWithOwner,
+      pullRequests,
       url: repository.url,
     };
   })
@@ -79,6 +90,14 @@ const activity = (
 activity.sort((left, right) => {
   if (right.commits !== left.commits) {
     return right.commits - left.commits;
+  }
+
+  if (right.pullRequests !== left.pullRequests) {
+    return right.pullRequests - left.pullRequests;
+  }
+
+  if (right.issues !== left.issues) {
+    return right.issues - left.issues;
   }
 
   return left.nameWithOwner.localeCompare(right.nameWithOwner);
@@ -124,8 +143,9 @@ const items = activity
     const description = repository.isPrivate
       ? nextPrivateRepoDescription()
       : formatDescription(repository.description);
+    const activitySummary = formatActivitySummary(repository);
 
-    return `  <li><strong>${projectLabel}</strong> — ${escapeHtml(description)}</li>`;
+    return `  <li><strong>${projectLabel}</strong> — ${escapeHtml(description)}${activitySummary}</li>`;
   })
   .join("\n\n");
 
@@ -191,6 +211,23 @@ function formatNumber(value) {
 
 function formatSigned(value) {
   return `${value > 0 ? "+" : ""}${formatNumber(value)}`;
+}
+
+function formatActivitySummary(repository) {
+  const parts = [
+    repository.pullRequests > 0
+      ? `${formatNumber(repository.pullRequests)} ${repository.pullRequests === 1 ? "PR" : "PRs"}`
+      : null,
+    repository.issues > 0
+      ? `${formatNumber(repository.issues)} ${repository.issues === 1 ? "issue" : "issues"}`
+      : null,
+  ].filter(Boolean);
+
+  if (parts.length === 0) {
+    return "";
+  }
+
+  return ` <em>(${parts.join(", ")})</em>`;
 }
 
 function nextPrivateRepoDescription() {
@@ -327,6 +364,125 @@ async function fetchCandidateRepositories(fromIso, maxRepositories) {
   }
 
   return repositories.slice(0, maxRepositories);
+}
+
+async function fetchAuthoredIssueAndPullRequestActivity({ authorLogin, fromIso }) {
+  const activityByRepository = new Map();
+  const createdDate = fromIso.slice(0, 10);
+
+  await Promise.all([
+    fetchAuthoredSearchResults({
+      activityByRepository,
+      countKey: "issues",
+      query: `author:${authorLogin} is:issue created:>=${createdDate}`,
+    }),
+    fetchAuthoredSearchResults({
+      activityByRepository,
+      countKey: "pullRequests",
+      query: `author:${authorLogin} is:pr created:>=${createdDate}`,
+    }),
+  ]);
+
+  return activityByRepository;
+}
+
+async function fetchAuthoredSearchResults({ activityByRepository, countKey, query }) {
+  let cursor = null;
+
+  while (true) {
+    const payload = await githubGraphql(
+      `
+        query AuthoredActivity($query: String!, $cursor: String) {
+          search(query: $query, type: ISSUE, first: 100, after: $cursor) {
+            nodes {
+              ... on Issue {
+                repository {
+                  ...RepositoryFields
+                }
+              }
+              ... on PullRequest {
+                repository {
+                  ...RepositoryFields
+                }
+              }
+            }
+            pageInfo {
+              endCursor
+              hasNextPage
+            }
+          }
+        }
+
+        fragment RepositoryFields on Repository {
+          description
+          name
+          nameWithOwner
+          isPrivate
+          url
+          owner {
+            login
+          }
+          defaultBranchRef {
+            name
+            target {
+              __typename
+            }
+          }
+        }
+      `,
+      { cursor, query },
+    );
+
+    const page = payload.data?.search;
+
+    if (!page) {
+      throw new Error("GitHub GraphQL response is missing search data.");
+    }
+
+    for (const node of page.nodes) {
+      const repository = node?.repository;
+
+      if (repository?.defaultBranchRef?.target?.__typename !== "Commit") {
+        continue;
+      }
+
+      const existing = activityByRepository.get(repository.nameWithOwner) || {
+        defaultBranch: repository.defaultBranchRef.name,
+        description: repository.description,
+        issues: 0,
+        isPrivate: repository.isPrivate,
+        name: repository.name,
+        nameWithOwner: repository.nameWithOwner,
+        owner: repository.owner.login,
+        pullRequests: 0,
+        url: repository.url,
+      };
+
+      existing[countKey] += 1;
+      activityByRepository.set(repository.nameWithOwner, existing);
+    }
+
+    if (!page.pageInfo.hasNextPage) {
+      break;
+    }
+
+    cursor = page.pageInfo.endCursor;
+  }
+}
+
+function mergeRepositories(commitRepositories, authoredActivityByRepository) {
+  const repositoriesByName = new Map(authoredActivityByRepository);
+
+  for (const repository of commitRepositories) {
+    const existing = repositoriesByName.get(repository.nameWithOwner);
+    repositoriesByName.set(repository.nameWithOwner, {
+      ...repository,
+      issues: existing?.issues || 0,
+      pullRequests: existing?.pullRequests || 0,
+    });
+  }
+
+  return Array.from(repositoriesByName.values()).slice(0, MAX_REPOSITORIES);
 }
 
 async function fetchRepositoryStats({ authorLogin, defaultBranch, fromIso, name, owner, toIso }) {
