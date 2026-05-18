@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779123010&sig=FXgTUmRwSqaD_Mmm0ti3udeVWY-fWEHGHsTO0Fu0kJ8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=light&exp=1779123010&sig=IaIu1BCStycUmJ-PdKHBliPtLCZEp8SdM_xUX7tqBqg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779123010&sig=FXgTUmRwSqaD_Mmm0ti3udeVWY-fWEHGHsTO0Fu0kJ8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779141212&sig=5qbcTypMitgQz9H-TvV4jGZTpNVxNcJ8zcAxJN3sMLQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=light&exp=1779141212&sig=PC5GhEQ7xfkjMr5s9qtFNNSgcJzWwpBsCUcB3njCBNM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=73&added=%2B39%2C243&removed=-8%2C698&net=%2B30%2C545&lph=%2B182&theme=dark&exp=1779141212&sig=5qbcTypMitgQz9H-TvV4jGZTpNVxNcJ8zcAxJN3sMLQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
@@ -54,6 +54,6 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
