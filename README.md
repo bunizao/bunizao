@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=74&added=%2B39%2C406&removed=-8%2C705&net=%2B30%2C701&lph=%2B183&theme=dark&exp=1779144200&sig=NNhZYyYyaTmllsLYwo3218HvSJFY5_3-aB30HqGknNc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=74&added=%2B39%2C406&removed=-8%2C705&net=%2B30%2C701&lph=%2B183&theme=light&exp=1779144200&sig=skv84gATJ1eJcbfAH7x9pGOTKKApPzXnh-uYx_HM2lY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=74&added=%2B39%2C406&removed=-8%2C705&net=%2B30%2C701&lph=%2B183&theme=dark&exp=1779144200&sig=NNhZYyYyaTmllsLYwo3218HvSJFY5_3-aB30HqGknNc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=66&added=%2B37%2C044&removed=-7%2C219&net=%2B29%2C825&lph=%2B178&theme=dark&exp=1779154443&sig=3RMyAN5x5p8I6-aXxjOG028hM1LoxKjvZOguwpvHE_I">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=66&added=%2B37%2C044&removed=-7%2C219&net=%2B29%2C825&lph=%2B178&theme=light&exp=1779154443&sig=d4CfXnPB2_IXe4_t0J9SXmlbKFt53fm2rGxR7geQUqg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=66&added=%2B37%2C044&removed=-7%2C219&net=%2B29%2C825&lph=%2B178&theme=dark&exp=1779154443&sig=3RMyAN5x5p8I6-aXxjOG028hM1LoxKjvZOguwpvHE_I" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
@@ -56,7 +56,7 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
 
