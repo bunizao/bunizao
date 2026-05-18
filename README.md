@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=66&added=%2B37%2C044&removed=-7%2C219&net=%2B29%2C825&lph=%2B178&theme=dark&exp=1779154443&sig=3RMyAN5x5p8I6-aXxjOG028hM1LoxKjvZOguwpvHE_I">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=66&added=%2B37%2C044&removed=-7%2C219&net=%2B29%2C825&lph=%2B178&theme=light&exp=1779154443&sig=d4CfXnPB2_IXe4_t0J9SXmlbKFt53fm2rGxR7geQUqg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=66&added=%2B37%2C044&removed=-7%2C219&net=%2B29%2C825&lph=%2B178&theme=dark&exp=1779154443&sig=3RMyAN5x5p8I6-aXxjOG028hM1LoxKjvZOguwpvHE_I" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=64&added=%2B26%2C412&removed=-6%2C428&net=%2B19%2C984&lph=%2B119&theme=dark&exp=1779168004&sig=gojkhEYQR1ITGQkJYXkV4cyvKScwBZDpM3XLqpS44Xg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=64&added=%2B26%2C412&removed=-6%2C428&net=%2B19%2C984&lph=%2B119&theme=light&exp=1779168004&sig=4dnckggsnv_TWbIim6iGb5BYAdoLHjCeLfF5AEUkduQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=64&added=%2B26%2C412&removed=-6%2C428&net=%2B19%2C984&lph=%2B119&theme=dark&exp=1779168004&sig=gojkhEYQR1ITGQkJYXkV4cyvKScwBZDpM3XLqpS44Xg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
@@ -56,7 +56,7 @@
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
 
