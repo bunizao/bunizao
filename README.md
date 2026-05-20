@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=68&added=%2B26%2C502&removed=-6%2C465&net=%2B20%2C037&lph=%2B119&theme=dark&exp=1779255583&sig=G-E8UmwvxAQ-UXM4ZLAzuLamObdvlsHneTh0k7_5giU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=68&added=%2B26%2C502&removed=-6%2C465&net=%2B20%2C037&lph=%2B119&theme=light&exp=1779255583&sig=mBaNvA-UVCWQPCqdhvcehTKR2KzXjjwZlZTx1fCsPFs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=68&added=%2B26%2C502&removed=-6%2C465&net=%2B20%2C037&lph=%2B119&theme=dark&exp=1779255583&sig=G-E8UmwvxAQ-UXM4ZLAzuLamObdvlsHneTh0k7_5giU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=68&added=%2B26%2C502&removed=-6%2C465&net=%2B20%2C037&lph=%2B119&theme=dark&exp=1779279594&sig=NN3dt7hiUplDGKDpZQ_oWYbKMh4_eDD3M0BpGz2h17g">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=68&added=%2B26%2C502&removed=-6%2C465&net=%2B20%2C037&lph=%2B119&theme=light&exp=1779279594&sig=LhSQ30QBPwtm-4YY6PNmEwvM8zPe6_wWY5kTBSCkmoY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=68&added=%2B26%2C502&removed=-6%2C465&net=%2B20%2C037&lph=%2B119&theme=dark&exp=1779279594&sig=NN3dt7hiUplDGKDpZQ_oWYbKMh4_eDD3M0BpGz2h17g" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
@@ -44,7 +44,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — A CLI for Ed Discussion — browse courses, threads, and comments in terminal</li>
 
