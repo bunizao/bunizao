@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=dark&exp=1779343356&sig=wEkpYcEi286NA4-vYXyH8NW_fygXb7M9_g88aNXLYjM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=light&exp=1779343356&sig=nj5pZX_05lwPcjKPogT2xIgEA6PVCnqxIcFrSAT3fzs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=dark&exp=1779343356&sig=wEkpYcEi286NA4-vYXyH8NW_fygXb7M9_g88aNXLYjM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=dark&exp=1779367030&sig=LFRaYS6TuyY9B2JTmp73u3NxoJDC4En-7hgkVcBdS0Q">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=light&exp=1779367030&sig=KznpKW81Qe7l761UHQ_OznvnFFdhe8F5JnaWmTEkxso">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=dark&exp=1779367030&sig=LFRaYS6TuyY9B2JTmp73u3NxoJDC4En-7hgkVcBdS0Q" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
