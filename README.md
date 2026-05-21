@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=80&added=%2B27%2C730&removed=-6%2C827&net=%2B20%2C903&lph=%2B124&theme=dark&exp=1779413571&sig=35ARDWAeBQCvh9D6RLLQmoxQCJkuikmwQF1Iy4RtC9k">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=80&added=%2B27%2C730&removed=-6%2C827&net=%2B20%2C903&lph=%2B124&theme=light&exp=1779413571&sig=TqcD3nvKtnIl_YWgpOaW7YikEB7QpskGTkBmHE0544w">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=80&added=%2B27%2C730&removed=-6%2C827&net=%2B20%2C903&lph=%2B124&theme=dark&exp=1779413571&sig=35ARDWAeBQCvh9D6RLLQmoxQCJkuikmwQF1Iy4RtC9k" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=dark&exp=1779428582&sig=khOZVcaZ7ZlkhvRrUl2bdpp9bTXXKUAr3YH5xWlo2A8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=light&exp=1779428582&sig=mvqSB7xPBjDStdZAXMxMrT0e4J9_sWcU_v98smWEp9U">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=dark&exp=1779428582&sig=khOZVcaZ7ZlkhvRrUl2bdpp9bTXXKUAr3YH5xWlo2A8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
-
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
@@ -55,8 +55,6 @@
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
-
-  <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
   <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
 
