@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=dark&exp=1779396637&sig=eyDiqAJBSmGVXaHwnXF_fZeWjI-Ews0GUPKwuuP0a_M">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=light&exp=1779396637&sig=_tj6GSugLtZqYy0pcI9TBH2SqJCd152VegdOSFwB-bs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=76&added=%2B26%2C798&removed=-6%2C528&net=%2B20%2C270&lph=%2B121&theme=dark&exp=1779396637&sig=eyDiqAJBSmGVXaHwnXF_fZeWjI-Ews0GUPKwuuP0a_M" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=80&added=%2B27%2C730&removed=-6%2C827&net=%2B20%2C903&lph=%2B124&theme=dark&exp=1779413571&sig=35ARDWAeBQCvh9D6RLLQmoxQCJkuikmwQF1Iy4RtC9k">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=80&added=%2B27%2C730&removed=-6%2C827&net=%2B20%2C903&lph=%2B124&theme=light&exp=1779413571&sig=TqcD3nvKtnIl_YWgpOaW7YikEB7QpskGTkBmHE0544w">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=80&added=%2B27%2C730&removed=-6%2C827&net=%2B20%2C903&lph=%2B124&theme=dark&exp=1779413571&sig=35ARDWAeBQCvh9D6RLLQmoxQCJkuikmwQF1Iy4RtC9k" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
