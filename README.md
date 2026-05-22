@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779498950&sig=oMI_WCmmmwArsLuzhwPvZU1VxSZB2_Rrr15TLyjhBqo">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=light&exp=1779498950&sig=hNO9xjc5ACbSnWIN1UGhIhwzNRW0ncej5W8acAryy3A">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779498950&sig=oMI_WCmmmwArsLuzhwPvZU1VxSZB2_Rrr15TLyjhBqo" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779513484&sig=XsFnxJQcXzxf7GPcQYUfV9QGlV1kKqOF9Er2vi2CZyc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=light&exp=1779513484&sig=wI4MsiveDhuOmAkrtPBYzJMngp5SH4qyz3HQmOtnbm8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779513484&sig=XsFnxJQcXzxf7GPcQYUfV9QGlV1kKqOF9Er2vi2CZyc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
