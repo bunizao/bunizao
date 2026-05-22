@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=101&added=%2B36%2C289&removed=-8%2C306&net=%2B27%2C983&lph=%2B167&theme=dark&exp=1779481699&sig=bQSh4OnUBBanXPeHi-0QapoRVaqPgBI8YSL_lb5Gtwg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=101&added=%2B36%2C289&removed=-8%2C306&net=%2B27%2C983&lph=%2B167&theme=light&exp=1779481699&sig=iXMcoytY0VY1Y_qP8mRQ0D_KNpsdqIGiGC7OycMx8lM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=101&added=%2B36%2C289&removed=-8%2C306&net=%2B27%2C983&lph=%2B167&theme=dark&exp=1779481699&sig=bQSh4OnUBBanXPeHi-0QapoRVaqPgBI8YSL_lb5Gtwg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779498950&sig=oMI_WCmmmwArsLuzhwPvZU1VxSZB2_Rrr15TLyjhBqo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=light&exp=1779498950&sig=hNO9xjc5ACbSnWIN1UGhIhwzNRW0ncej5W8acAryy3A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779498950&sig=oMI_WCmmmwArsLuzhwPvZU1VxSZB2_Rrr15TLyjhBqo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs, 2 issues)</em></li>
-
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 2 issues)</em></li>
 
   <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
@@ -53,6 +53,8 @@
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
   <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
 
