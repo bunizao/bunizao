@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=dark&exp=1779452525&sig=fzzOdSfq7yj9IHqKAGIt9oUXwpSxqB6_fe1yhuovLRI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=light&exp=1779452525&sig=i7WK0YmiuqrbaFcPkb0aWU_T2z4m1bvxK3hbPLrCF_o">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=dark&exp=1779452525&sig=fzzOdSfq7yj9IHqKAGIt9oUXwpSxqB6_fe1yhuovLRI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=dark&exp=1779467250&sig=rnT2rQDH_SF4Jcbss_SQOZSfXf9axLoRdhieAVQIi-I">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=light&exp=1779467250&sig=KAaCUDc2AHGPVNisHx4RaMf5mpjjMRLQYN9_VKPhrnE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=108&added=%2B37%2C687&removed=-8%2C475&net=%2B29%2C212&lph=%2B174&theme=dark&exp=1779467250&sig=rnT2rQDH_SF4Jcbss_SQOZSfXf9axLoRdhieAVQIi-I" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
