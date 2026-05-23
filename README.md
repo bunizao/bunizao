@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779537680&sig=r_45pT3JUg3FXMKDYsCETDYGXZ1VXJaSsH9J7_2mCPg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=light&exp=1779537680&sig=uSX-xxdJJV47atcRDOb6N5NCRU80_UUBsITEZaZQ4Fs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779537680&sig=r_45pT3JUg3FXMKDYsCETDYGXZ1VXJaSsH9J7_2mCPg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779550500&sig=4c007ppQ0DN_wmXZla9yYgaRGSYCDKdOg_hdghcQ0Kg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=light&exp=1779550500&sig=Kzx4sdbmWImEuWViDCwua1QesSgBiilKp7J8CIvoQhA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779550500&sig=4c007ppQ0DN_wmXZla9yYgaRGSYCDKdOg_hdghcQ0Kg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
