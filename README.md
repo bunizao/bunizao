@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=115&added=%2B34%2C274&removed=-10%2C776&net=%2B23%2C498&lph=%2B140&theme=dark&exp=1779581216&sig=BhhKVk4BU04EMN2fX9A0Z11EBDyvGeq3v-dM51xLxvo">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=115&added=%2B34%2C274&removed=-10%2C776&net=%2B23%2C498&lph=%2B140&theme=light&exp=1779581216&sig=p-VcveaXdFIddpYzM6Z-Jq-34wrvybdmNRJStTlELmc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=115&added=%2B34%2C274&removed=-10%2C776&net=%2B23%2C498&lph=%2B140&theme=dark&exp=1779581216&sig=BhhKVk4BU04EMN2fX9A0Z11EBDyvGeq3v-dM51xLxvo" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=112&added=%2B33%2C564&removed=-10%2C773&net=%2B22%2C791&lph=%2B136&theme=dark&exp=1779598982&sig=DwBsYUHT0AI63tQtQN1LqJ15sk2RRmb94uNdNM4f5oQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=112&added=%2B33%2C564&removed=-10%2C773&net=%2B22%2C791&lph=%2B136&theme=light&exp=1779598982&sig=_2La5TkHVIs9tRkA756NyOwmIe5ARIfMx_u50FCJnZM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=112&added=%2B33%2C564&removed=-10%2C773&net=%2B22%2C791&lph=%2B136&theme=dark&exp=1779598982&sig=DwBsYUHT0AI63tQtQN1LqJ15sk2RRmb94uNdNM4f5oQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
@@ -49,8 +49,6 @@
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
-
-  <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 
