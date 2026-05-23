@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779563986&sig=JnooKEJNiLhL47bR4T4VA35Sjyhvc5-eAM2hyog_RCU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=light&exp=1779563986&sig=3QaNwSct_NaI6thvgLiwBZ4v5G8kAfEr-5NgKm-DZzE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=123&added=%2B51%2C832&removed=-10%2C848&net=%2B40%2C984&lph=%2B244&theme=dark&exp=1779563986&sig=JnooKEJNiLhL47bR4T4VA35Sjyhvc5-eAM2hyog_RCU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=115&added=%2B34%2C274&removed=-10%2C776&net=%2B23%2C498&lph=%2B140&theme=dark&exp=1779581216&sig=BhhKVk4BU04EMN2fX9A0Z11EBDyvGeq3v-dM51xLxvo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=115&added=%2B34%2C274&removed=-10%2C776&net=%2B23%2C498&lph=%2B140&theme=light&exp=1779581216&sig=p-VcveaXdFIddpYzM6Z-Jq-34wrvybdmNRJStTlELmc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=12&commits=115&added=%2B34%2C274&removed=-10%2C776&net=%2B23%2C498&lph=%2B140&theme=dark&exp=1779581216&sig=BhhKVk4BU04EMN2fX9A0Z11EBDyvGeq3v-dM51xLxvo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,11 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
-
-  <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
@@ -50,11 +48,13 @@
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
-
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
+  <li><strong><a href="https://github.com/bunizao/fit1055-materials">bunizao/fit1055-materials</a></strong> — i love it</li>
+
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
 
