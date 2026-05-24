@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=dark&exp=1779625289&sig=CXUWK2B4Bs4XoAbMABwBvbM6_JCmqBoISW7YSoKC7nc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=light&exp=1779625289&sig=EE_wG5sFuPMK0S3Kam-dVrbKDJYdHMsvRkbYeOdc63U">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=dark&exp=1779625289&sig=CXUWK2B4Bs4XoAbMABwBvbM6_JCmqBoISW7YSoKC7nc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=dark&exp=1779637927&sig=KzZAEdNrEQ4EkfkZLxnpGbhYgwdjR0nOfDnIOpVnt0k">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=light&exp=1779637927&sig=reKhrJXQMfaY7q_GDaB_nOqL-cvtRyXu_8Xbo8GCE3o">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=dark&exp=1779637927&sig=KzZAEdNrEQ4EkfkZLxnpGbhYgwdjR0nOfDnIOpVnt0k" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(4 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
