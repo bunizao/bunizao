@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=112&added=%2B33%2C564&removed=-10%2C773&net=%2B22%2C791&lph=%2B136&theme=dark&exp=1779598982&sig=DwBsYUHT0AI63tQtQN1LqJ15sk2RRmb94uNdNM4f5oQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=112&added=%2B33%2C564&removed=-10%2C773&net=%2B22%2C791&lph=%2B136&theme=light&exp=1779598982&sig=_2La5TkHVIs9tRkA756NyOwmIe5ARIfMx_u50FCJnZM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=112&added=%2B33%2C564&removed=-10%2C773&net=%2B22%2C791&lph=%2B136&theme=dark&exp=1779598982&sig=DwBsYUHT0AI63tQtQN1LqJ15sk2RRmb94uNdNM4f5oQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=dark&exp=1779625289&sig=CXUWK2B4Bs4XoAbMABwBvbM6_JCmqBoISW7YSoKC7nc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=light&exp=1779625289&sig=EE_wG5sFuPMK0S3Kam-dVrbKDJYdHMsvRkbYeOdc63U">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=114&added=%2B33%2C912&removed=-10%2C799&net=%2B23%2C113&lph=%2B138&theme=dark&exp=1779625289&sig=CXUWK2B4Bs4XoAbMABwBvbM6_JCmqBoISW7YSoKC7nc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 2 issues)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(4 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
@@ -51,11 +51,5 @@
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
-
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/jwadow/kiro-gateway">jwadow/kiro-gateway</a></strong> — 👻 Proxy API gateway for Kiro IDE &amp; CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/QuantumNous/new-api">QuantumNous/new-api</a></strong> — A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatibl... <em>(2 issues)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
