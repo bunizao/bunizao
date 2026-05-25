@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B32%2C635&removed=-7%2C861&net=%2B24%2C774&lph=%2B147&theme=dark&exp=1779744925&sig=8iTtgCL5Dft30dq5yOBLgVjNnsUBo4i5Gkp0eVDoB1E">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B32%2C635&removed=-7%2C861&net=%2B24%2C774&lph=%2B147&theme=light&exp=1779744925&sig=K5GQhOoRRQdO4NI6_-hgqn8-Nf9fjN1mtrlHcxRE5_g">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B32%2C635&removed=-7%2C861&net=%2B24%2C774&lph=%2B147&theme=dark&exp=1779744925&sig=8iTtgCL5Dft30dq5yOBLgVjNnsUBo4i5Gkp0eVDoB1E" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=91&added=%2B32%2C562&removed=-8%2C022&net=%2B24%2C540&lph=%2B146&theme=dark&exp=1779757893&sig=zLfOMvER_BBsqGLLZwu4oBaiImfwZEtNMAzmxTVXaNg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=91&added=%2B32%2C562&removed=-8%2C022&net=%2B24%2C540&lph=%2B146&theme=light&exp=1779757893&sig=ijysGLI_RSEGGyCi-KPdF3KVW5wxD1--gSR4sitaTk4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=91&added=%2B32%2C562&removed=-8%2C022&net=%2B24%2C540&lph=%2B146&theme=dark&exp=1779757893&sig=zLfOMvER_BBsqGLLZwu4oBaiImfwZEtNMAzmxTVXaNg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,13 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
-
-  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 </ul>
