@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=77&added=%2B31%2C810&removed=-5%2C124&net=%2B26%2C686&lph=%2B159&theme=dark&exp=1779713018&sig=SvuSpby6HBOpgRHmZL3UOmBeUAbQ9sXTlFypUEBfQcI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=77&added=%2B31%2C810&removed=-5%2C124&net=%2B26%2C686&lph=%2B159&theme=light&exp=1779713018&sig=tXT9NenujaYGXXgfdbhoQHOvNdz_CT1hnEk2zFF4K_w">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=77&added=%2B31%2C810&removed=-5%2C124&net=%2B26%2C686&lph=%2B159&theme=dark&exp=1779713018&sig=SvuSpby6HBOpgRHmZL3UOmBeUAbQ9sXTlFypUEBfQcI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B32%2C635&removed=-7%2C861&net=%2B24%2C774&lph=%2B147&theme=dark&exp=1779744925&sig=8iTtgCL5Dft30dq5yOBLgVjNnsUBo4i5Gkp0eVDoB1E">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B32%2C635&removed=-7%2C861&net=%2B24%2C774&lph=%2B147&theme=light&exp=1779744925&sig=K5GQhOoRRQdO4NI6_-hgqn8-Nf9fjN1mtrlHcxRE5_g">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=87&added=%2B32%2C635&removed=-7%2C861&net=%2B24%2C774&lph=%2B147&theme=dark&exp=1779744925&sig=8iTtgCL5Dft30dq5yOBLgVjNnsUBo4i5Gkp0eVDoB1E" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
