@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=101&added=%2B36%2C604&removed=-9%2C496&net=%2B27%2C108&lph=%2B161&theme=dark&exp=1779900221&sig=wDnO8ShF3PKSPpYOPOZuF_yYUJpQNQLhtTuZPnKCpeU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=101&added=%2B36%2C604&removed=-9%2C496&net=%2B27%2C108&lph=%2B161&theme=light&exp=1779900221&sig=LeR7hGBELizsjrt_rfVElRLE2lqbtfpURFNSYTy3RGg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=101&added=%2B36%2C604&removed=-9%2C496&net=%2B27%2C108&lph=%2B161&theme=dark&exp=1779900221&sig=wDnO8ShF3PKSPpYOPOZuF_yYUJpQNQLhtTuZPnKCpeU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=dark&exp=1779933982&sig=6kuQhmiuMslA89asMxe3JJQR5RBFKdQ9GDsIimzLzOc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=light&exp=1779933982&sig=CBY7c4eZynWlwBLnpvOabgy6I41cyCo8zTfD9fNk6uE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=dark&exp=1779933982&sig=6kuQhmiuMslA89asMxe3JJQR5RBFKdQ9GDsIimzLzOc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,13 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
-
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 </ul>
