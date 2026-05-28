@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=95&added=%2B35%2C912&removed=-9%2C249&net=%2B26%2C663&lph=%2B159&theme=dark&exp=1780005528&sig=NsN0dz0GxrNu6d-a7C72uovuktBIyjvJRypMvXlCliw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=95&added=%2B35%2C912&removed=-9%2C249&net=%2B26%2C663&lph=%2B159&theme=light&exp=1780005528&sig=Qzz7iLW64lo7ZVXI4zxoQtTsT9BxbvfE6ZrvXaBSFOM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=95&added=%2B35%2C912&removed=-9%2C249&net=%2B26%2C663&lph=%2B159&theme=dark&exp=1780005528&sig=NsN0dz0GxrNu6d-a7C72uovuktBIyjvJRypMvXlCliw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=57&added=%2B24%2C210&removed=-7%2C448&net=%2B16%2C762&lph=%2B100&theme=dark&exp=1780021075&sig=DnEWxdXxVElrrKtvFX68KbRyJXNNnwWiiF8oKBd9cy4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=57&added=%2B24%2C210&removed=-7%2C448&net=%2B16%2C762&lph=%2B100&theme=light&exp=1780021075&sig=_qnCuIbadFqHidbssPNapYrhPinfNfkdtrRd40r2smo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=57&added=%2B24%2C210&removed=-7%2C448&net=%2B16%2C762&lph=%2B100&theme=dark&exp=1780021075&sig=DnEWxdXxVElrrKtvFX68KbRyJXNNnwWiiF8oKBd9cy4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 </ul>
