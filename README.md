@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=dark&exp=1779948243&sig=HCR9UKvLv2WGri7kGovzh54mx9lJNV6XQXhAOeDCt1o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=light&exp=1779948243&sig=9SHGDlpBjwBNWSX9Sis-CGBPhXagZpLBoqmwnKwv1m8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=dark&exp=1779948243&sig=HCR9UKvLv2WGri7kGovzh54mx9lJNV6XQXhAOeDCt1o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=dark&exp=1779970891&sig=EyClkplSagS_MzTi8CX1zHbvnpbttmSFpge5QU1AZNI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=light&exp=1779970891&sig=uD4WQ3eWVuBClxnInNkPqjwmjnbHLtcwezdZ4MLKciw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=98&added=%2B36%2C106&removed=-9%2C556&net=%2B26%2C550&lph=%2B158&theme=dark&exp=1779970891&sig=EyClkplSagS_MzTi8CX1zHbvnpbttmSFpge5QU1AZNI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/fit2099-guide">bunizao/fit2099-guide</a></strong> — hope it can help people who are currently suffering from fit2099</li>
 </ul>
