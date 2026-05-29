@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=41&added=%2B9%2C670&removed=-5%2C041&net=%2B4%2C629&lph=%2B28&theme=dark&exp=1780107293&sig=W3ASMNgU4Lf8P2UBOi7yrhZ_df9c62kzrThFvA8zI1A">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=41&added=%2B9%2C670&removed=-5%2C041&net=%2B4%2C629&lph=%2B28&theme=light&exp=1780107293&sig=O35abkva_IKpYgUxrrC9tbmVFO4B1EtfOBJQrqekv08">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=41&added=%2B9%2C670&removed=-5%2C041&net=%2B4%2C629&lph=%2B28&theme=dark&exp=1780107293&sig=W3ASMNgU4Lf8P2UBOi7yrhZ_df9c62kzrThFvA8zI1A" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=41&added=%2B9%2C670&removed=-5%2C041&net=%2B4%2C629&lph=%2B28&theme=dark&exp=1780120730&sig=tevaDkFAxedKn-TjUY7HpRazgerBLuBVKU6OENyJXO8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=41&added=%2B9%2C670&removed=-5%2C041&net=%2B4%2C629&lph=%2B28&theme=light&exp=1780120730&sig=oJ1N27atXe_24AsF4Oa-DA9w-d0SPbeOcGeORzXU5lY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=41&added=%2B9%2C670&removed=-5%2C041&net=%2B4%2C629&lph=%2B28&theme=dark&exp=1780120730&sig=tevaDkFAxedKn-TjUY7HpRazgerBLuBVKU6OENyJXO8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
