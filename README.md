@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=dark&exp=1780256650&sig=MyoILQCMWmB_Lj2zqbukDompDTrBGYFeSDG3qQ91A9c">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=light&exp=1780256650&sig=6IFP2-gdFTDVyp9YwoDFgXHb0yx1y6VInKaykzW3lUI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=dark&exp=1780256650&sig=MyoILQCMWmB_Lj2zqbukDompDTrBGYFeSDG3qQ91A9c" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=36&added=%2B5%2C367&removed=-4%2C539&net=%2B828&lph=%2B5&theme=dark&exp=1780273149&sig=y5J8qTVDengqfFfmc92wfRmDSnvn5zl8G1dBRh2YAQk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=36&added=%2B5%2C367&removed=-4%2C539&net=%2B828&lph=%2B5&theme=light&exp=1780273149&sig=hQ8c8YQ5TAbD3MyrKARpywn-OVEtBK4piwMThPxI2rY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=36&added=%2B5%2C367&removed=-4%2C539&net=%2B828&lph=%2B5&theme=dark&exp=1780273149&sig=y5J8qTVDengqfFfmc92wfRmDSnvn5zl8G1dBRh2YAQk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
