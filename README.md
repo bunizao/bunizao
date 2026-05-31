@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=dark&exp=1780231447&sig=VkrA5QI9yRD57GVij2Nqfnfekp7EXQ0LNd6gNgojtmk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=light&exp=1780231447&sig=DhQHN4YeC0VvpNWUuqAJTSdgYcRMOsbi25ybGi-AiwE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=dark&exp=1780231447&sig=VkrA5QI9yRD57GVij2Nqfnfekp7EXQ0LNd6gNgojtmk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=dark&exp=1780244354&sig=WB2LyQyryUQNkD6nENoer-HKdWcKs3HMrR9YD-aMIrU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=light&exp=1780244354&sig=o2CxATCUhLwUQzrlJHyWILgEAVJxH6I1m7D94SViu5k">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=39&added=%2B9%2C322&removed=-5%2C015&net=%2B4%2C307&lph=%2B26&theme=dark&exp=1780244354&sig=WB2LyQyryUQNkD6nENoer-HKdWcKs3HMrR9YD-aMIrU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
