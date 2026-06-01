@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=53&added=%2B11%2C397&removed=-2%2C909&net=%2B8%2C488&lph=%2B51&theme=dark&exp=1780359154&sig=xKiyW1yjnWGqFmVl1f2voJqAHtnmp6x-aG5MF98khxI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=53&added=%2B11%2C397&removed=-2%2C909&net=%2B8%2C488&lph=%2B51&theme=light&exp=1780359154&sig=1XmIjQcHpfwgucgBdoS7RMz99kBwT5Rpu_ydVO01nTs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=53&added=%2B11%2C397&removed=-2%2C909&net=%2B8%2C488&lph=%2B51&theme=dark&exp=1780359154&sig=xKiyW1yjnWGqFmVl1f2voJqAHtnmp6x-aG5MF98khxI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=52&added=%2B11%2C395&removed=-2%2C905&net=%2B8%2C490&lph=%2B51&theme=dark&exp=1780382081&sig=TToLR8v1kLz-nH0RxrMJxKiHypU8F4PT9x3UmgFAPy8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=52&added=%2B11%2C395&removed=-2%2C905&net=%2B8%2C490&lph=%2B51&theme=light&exp=1780382081&sig=Eye7gaaWW4Y7SgDQwQ0zXQhkIpHHqJLhgltMsktcgLs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=52&added=%2B11%2C395&removed=-2%2C905&net=%2B8%2C490&lph=%2B51&theme=dark&exp=1780382081&sig=TToLR8v1kLz-nH0RxrMJxKiHypU8F4PT9x3UmgFAPy8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -39,7 +39,5 @@
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
-
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
