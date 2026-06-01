@@ -28,18 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=64&added=%2B11%2C976&removed=-5%2C641&net=%2B6%2C335&lph=%2B38&theme=dark&exp=1780319191&sig=tLO7LyXFMXfWFhp-TTIHcWayR_sLjLUF3yD_2Cz1Yuk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=64&added=%2B11%2C976&removed=-5%2C641&net=%2B6%2C335&lph=%2B38&theme=light&exp=1780319191&sig=Ddtb-m4yvqGLxZznIZ5ItofXhnyp2lZ5P-B_XmT0hvM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=64&added=%2B11%2C976&removed=-5%2C641&net=%2B6%2C335&lph=%2B38&theme=dark&exp=1780319191&sig=tLO7LyXFMXfWFhp-TTIHcWayR_sLjLUF3yD_2Cz1Yuk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=53&added=%2B11%2C397&removed=-2%2C909&net=%2B8%2C488&lph=%2B51&theme=dark&exp=1780359154&sig=xKiyW1yjnWGqFmVl1f2voJqAHtnmp6x-aG5MF98khxI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=53&added=%2B11%2C397&removed=-2%2C909&net=%2B8%2C488&lph=%2B51&theme=light&exp=1780359154&sig=1XmIjQcHpfwgucgBdoS7RMz99kBwT5Rpu_ydVO01nTs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=53&added=%2B11%2C397&removed=-2%2C909&net=%2B8%2C488&lph=%2B51&theme=dark&exp=1780359154&sig=xKiyW1yjnWGqFmVl1f2voJqAHtnmp6x-aG5MF98khxI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
