@@ -28,16 +28,14 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=45&added=%2B7%2C736&removed=-1%2C586&net=%2B6%2C150&lph=%2B37&theme=dark&exp=1780420551&sig=eSMDYW13_YMpEfCE66093D6lmfieJeAVqgzE-GLJxSY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=45&added=%2B7%2C736&removed=-1%2C586&net=%2B6%2C150&lph=%2B37&theme=light&exp=1780420551&sig=2nJXrueaI859_PJ_V3Png5Cqf_lYE7tp8rUofVYA-gY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=45&added=%2B7%2C736&removed=-1%2C586&net=%2B6%2C150&lph=%2B37&theme=dark&exp=1780420551&sig=eSMDYW13_YMpEfCE66093D6lmfieJeAVqgzE-GLJxSY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=38&added=%2B7%2C192&removed=-1%2C398&net=%2B5%2C794&lph=%2B34&theme=dark&exp=1780438524&sig=XcnAyQFqbe6W8Q2wu24aJjquyWy6ZPGay_15DWbZkDE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=38&added=%2B7%2C192&removed=-1%2C398&net=%2B5%2C794&lph=%2B34&theme=light&exp=1780438524&sig=iZVjq_e_HPLqVpbr7Biy9UMpBItst13mkV1YYvMNx-A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=38&added=%2B7%2C192&removed=-1%2C398&net=%2B5%2C794&lph=%2B34&theme=dark&exp=1780438524&sig=XcnAyQFqbe6W8Q2wu24aJjquyWy6ZPGay_15DWbZkDE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/truetrace-demo">bunizao/truetrace-demo</a></strong> — TrueTrace · Media Forensics Demo. A project for FIT1055 A2b.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
