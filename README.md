@@ -28,14 +28,14 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=61&added=%2B7%2C265&removed=-2%2C232&net=%2B5%2C033&lph=%2B30&theme=dark&exp=1781110600&sig=5DN-OHNPGuvg3xZYQP5gKDIGShqO9aUtn4VZSF88GUc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=61&added=%2B7%2C265&removed=-2%2C232&net=%2B5%2C033&lph=%2B30&theme=light&exp=1781110600&sig=TzuHdyXzsOIyrxAAba2_Wjh68wFgh7tfCrQorJActW4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=61&added=%2B7%2C265&removed=-2%2C232&net=%2B5%2C033&lph=%2B30&theme=dark&exp=1781110600&sig=5DN-OHNPGuvg3xZYQP5gKDIGShqO9aUtn4VZSF88GUc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=59&added=%2B6%2C729&removed=-2%2C192&net=%2B4%2C537&lph=%2B27&theme=dark&exp=1781127496&sig=2Z1zGMaT8jHlEJ6p3XuHOlLeTxqH94hKJ9IWMhDtyKE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=59&added=%2B6%2C729&removed=-2%2C192&net=%2B4%2C537&lph=%2B27&theme=light&exp=1781127496&sig=k4ySAMGWuSf4yDNdaQ-HiTi_ek4c2mEimHeuWJ_Aty4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=59&added=%2B6%2C729&removed=-2%2C192&net=%2B4%2C537&lph=%2B27&theme=dark&exp=1781127496&sig=2Z1zGMaT8jHlEJ6p3XuHOlLeTxqH94hKJ9IWMhDtyKE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(4 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
