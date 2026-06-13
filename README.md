@@ -28,14 +28,16 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=29&added=%2B9%2C190&removed=-3%2C863&net=%2B5%2C327&lph=%2B32&theme=dark&exp=1781396513&sig=w6gX7LocIwEF7nTIaEJ1ddJWmPNs0vgVo7tjMwTEUSg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=29&added=%2B9%2C190&removed=-3%2C863&net=%2B5%2C327&lph=%2B32&theme=light&exp=1781396513&sig=dqedaX1YNoT1eUJsQGjrC-0vP7ocsyaW4ks0dWgWHAg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=29&added=%2B9%2C190&removed=-3%2C863&net=%2B5%2C327&lph=%2B32&theme=dark&exp=1781396513&sig=w6gX7LocIwEF7nTIaEJ1ddJWmPNs0vgVo7tjMwTEUSg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=40&added=%2B13%2C655&removed=-4%2C421&net=%2B9%2C234&lph=%2B55&theme=dark&exp=1781414543&sig=6jr4_Tqa9vcI5Cz1-9lZ1kNcb93onr4tasf94UmOlls">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=40&added=%2B13%2C655&removed=-4%2C421&net=%2B9%2C234&lph=%2B55&theme=light&exp=1781414543&sig=K9G1JFMbtQHQeKFv35cBQXwld7KAHjbR_G8T3oXTktw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=40&added=%2B13%2C655&removed=-4%2C421&net=%2B9%2C234&lph=%2B55&theme=dark&exp=1781414543&sig=6jr4_Tqa9vcI5Cz1-9lZ1kNcb93onr4tasf94UmOlls" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
