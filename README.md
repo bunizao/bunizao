@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=39&added=%2B31%2C479&removed=-29%2C144&net=%2B2%2C335&lph=%2B14&theme=dark&exp=1781455644&sig=WZytb1kk9bDEljUqUSelfu31PVh9I_dgcGIBz_1vTE8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=39&added=%2B31%2C479&removed=-29%2C144&net=%2B2%2C335&lph=%2B14&theme=light&exp=1781455644&sig=6cC5vNqkWneGLYEOpVU_FBIKo2KkqzB44BsM5o08WeA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=39&added=%2B31%2C479&removed=-29%2C144&net=%2B2%2C335&lph=%2B14&theme=dark&exp=1781455644&sig=WZytb1kk9bDEljUqUSelfu31PVh9I_dgcGIBz_1vTE8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=40&added=%2B32%2C133&removed=-29%2C283&net=%2B2%2C850&lph=%2B17&theme=dark&exp=1781467502&sig=S00KRBB-tETK5fx0rcWTYFPToZAv2aAleKL4mN4koyY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=40&added=%2B32%2C133&removed=-29%2C283&net=%2B2%2C850&lph=%2B17&theme=light&exp=1781467502&sig=UHdZnRWXv53eU7SkFmNVQrszPmtDrzK7LXNE5lers74">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=40&added=%2B32%2C133&removed=-29%2C283&net=%2B2%2C850&lph=%2B17&theme=dark&exp=1781467502&sig=S00KRBB-tETK5fx0rcWTYFPToZAv2aAleKL4mN4koyY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(2 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
