@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=110&added=%2B44%2C378&removed=-33%2C324&net=%2B11%2C054&lph=%2B66&theme=dark&exp=1781651805&sig=C_3cPA1zF3Iez0EcbK2wKn3n5aZEOdBKHEhTjl1qezY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=110&added=%2B44%2C378&removed=-33%2C324&net=%2B11%2C054&lph=%2B66&theme=light&exp=1781651805&sig=x6WGKNujU8Sh2M_KFmBwsIXWh7rFUo0KGwBCsAfUZh0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=110&added=%2B44%2C378&removed=-33%2C324&net=%2B11%2C054&lph=%2B66&theme=dark&exp=1781651805&sig=C_3cPA1zF3Iez0EcbK2wKn3n5aZEOdBKHEhTjl1qezY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=113&added=%2B44%2C547&removed=-33%2C385&net=%2B11%2C162&lph=%2B66&theme=dark&exp=1781677211&sig=8yO7zqfEtCXAC52DR4kY5XUWVJ0q10cZPwBGU55wJa4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=113&added=%2B44%2C547&removed=-33%2C385&net=%2B11%2C162&lph=%2B66&theme=light&exp=1781677211&sig=hi0agfOGlyqjzISAQ3H83dZgTPD4_lhSzaLpNkEcEU8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=113&added=%2B44%2C547&removed=-33%2C385&net=%2B11%2C162&lph=%2B66&theme=dark&exp=1781677211&sig=8yO7zqfEtCXAC52DR4kY5XUWVJ0q10cZPwBGU55wJa4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(2 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
