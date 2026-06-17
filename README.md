@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=116&added=%2B44%2C936&removed=-33%2C399&net=%2B11%2C537&lph=%2B69&theme=dark&exp=1781732963&sig=YUYzyiWrybY_jPypAEUq6NTEpE3h6IKkotCPJiEriyw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=116&added=%2B44%2C936&removed=-33%2C399&net=%2B11%2C537&lph=%2B69&theme=light&exp=1781732963&sig=8XdEDLYUeU-fpETDKAhaVYF8o_yqbwcfrituhO8hI7s">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=116&added=%2B44%2C936&removed=-33%2C399&net=%2B11%2C537&lph=%2B69&theme=dark&exp=1781732963&sig=YUYzyiWrybY_jPypAEUq6NTEpE3h6IKkotCPJiEriyw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=dark&exp=1781747469&sig=4CzwLvk3eZghjdCpq68G_WJGXzlOERIIOxQh7kKpUhg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=light&exp=1781747469&sig=HGlQqJdrI0G8AdBI1CsHwfFqqtf1yQyR6z6pKcPat8E">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=dark&exp=1781747469&sig=4CzwLvk3eZghjdCpq68G_WJGXzlOERIIOxQh7kKpUhg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(6 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(3 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
