@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=dark&exp=1781787115&sig=fGc9NoMRzlP4y3DHjk1UYYZXZcNtdMdemr0kJTW85Rw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=light&exp=1781787115&sig=xjE10hxjD0ENUOGCsbkw8bxzUwToQTx6jhW0JxtZ5kA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=dark&exp=1781787115&sig=fGc9NoMRzlP4y3DHjk1UYYZXZcNtdMdemr0kJTW85Rw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=dark&exp=1781803289&sig=Vi6r9_NY5PMtwIFDPh_yQJImRlVRJjkvWTDKKRtrMRw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=light&exp=1781803289&sig=SkCCJXatssQv-dZ6TuizlGLuy6JNPYQMAUHa4YkLmPA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=139&added=%2B55%2C377&removed=-43%2C758&net=%2B11%2C619&lph=%2B69&theme=dark&exp=1781803289&sig=Vi6r9_NY5PMtwIFDPh_yQJImRlVRJjkvWTDKKRtrMRw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(3 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
