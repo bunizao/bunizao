@@ -28,16 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=126&added=%2B49%2C423&removed=-41%2C809&net=%2B7%2C614&lph=%2B45&theme=dark&exp=1781874761&sig=YhwqgGz6QW49HyFOWGjS1pn4W_-4GvvYAMMmjSygwcE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=126&added=%2B49%2C423&removed=-41%2C809&net=%2B7%2C614&lph=%2B45&theme=light&exp=1781874761&sig=C-sFcwgkiuGTasG2QiiDBQKTeyjSlvAwupQdwanAMtw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=126&added=%2B49%2C423&removed=-41%2C809&net=%2B7%2C614&lph=%2B45&theme=dark&exp=1781874761&sig=YhwqgGz6QW49HyFOWGjS1pn4W_-4GvvYAMMmjSygwcE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=126&added=%2B48%2C756&removed=-40%2C929&net=%2B7%2C827&lph=%2B47&theme=dark&exp=1781905209&sig=dOmtZYtKRzJye_NF27xiT3kt121rU7R9K59qYayw_z4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=126&added=%2B48%2C756&removed=-40%2C929&net=%2B7%2C827&lph=%2B47&theme=light&exp=1781905209&sig=_6WiMia0IKOh2-WVzAa8lTobPnv6zUpxDWNmMwzaEps">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=126&added=%2B48%2C756&removed=-40%2C929&net=%2B7%2C827&lph=%2B47&theme=dark&exp=1781905209&sig=dOmtZYtKRzJye_NF27xiT3kt121rU7R9K59qYayw_z4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(9 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(3 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
