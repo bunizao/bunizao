@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=35&added=%2B2%2C904&removed=-664&net=%2B2%2C240&lph=%2B13&theme=dark&exp=1782349876&sig=wPcxRp6TkZZusEdKmuK0RHxofJZXu7PoFvvsWKULVys">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=35&added=%2B2%2C904&removed=-664&net=%2B2%2C240&lph=%2B13&theme=light&exp=1782349876&sig=id_X84ok-nEa_fWvz-nDFVdQMq-2OR-2JxVEIHoRCUE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=35&added=%2B2%2C904&removed=-664&net=%2B2%2C240&lph=%2B13&theme=dark&exp=1782349876&sig=wPcxRp6TkZZusEdKmuK0RHxofJZXu7PoFvvsWKULVys" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782365863&sig=6lP-VSn-18Fat_2Q-9BtWr-2ipzVtOrY9L2WjRniwc8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=light&exp=1782365863&sig=bWfqroYl42jDk5b37g84FA7D6MA6--81mqCNrUK7sj4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782365863&sig=6lP-VSn-18Fat_2Q-9BtWr-2ipzVtOrY9L2WjRniwc8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(6 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 </ul>
