@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782436788&sig=xRl8G3Bf2PSWehS8NZCPY8YYyUmqJR9WtG0ZY8GvQdY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=light&exp=1782436788&sig=CSN2Wc5u9Bhh7xw9I2xACzQ4YxhW-rgUyP0WTC7EVf4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782436788&sig=xRl8G3Bf2PSWehS8NZCPY8YYyUmqJR9WtG0ZY8GvQdY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782452950&sig=CQmgJLZHil8cCQe-_71T2-I3Z3QHnEwjLUQ0f8o3JjA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=light&exp=1782452950&sig=Ca6entQOX0UuL_0KjbA61fM5eJN27W_4I6_-CR_CPQI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782452950&sig=CQmgJLZHil8cCQe-_71T2-I3Z3QHnEwjLUQ0f8o3JjA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,6 +40,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
