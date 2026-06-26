@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782476607&sig=iQbMsI8F8O0MBoD1mXcGryUOYth-drfI1gB7evNo7Ag">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=light&exp=1782476607&sig=9-GRJOWb2siO8L-cVd-_G80pObWjRv3GcUITDrGqCek">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=34&added=%2B2%2C812&removed=-635&net=%2B2%2C177&lph=%2B13&theme=dark&exp=1782476607&sig=iQbMsI8F8O0MBoD1mXcGryUOYth-drfI1gB7evNo7Ag" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=25&added=%2B2%2C028&removed=-470&net=%2B1%2C558&lph=%2B9&theme=dark&exp=1782491628&sig=xJIUIbUJbcIowgA76aMBgotuWRFWiWYdDy8tbnmEg_o">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=25&added=%2B2%2C028&removed=-470&net=%2B1%2C558&lph=%2B9&theme=light&exp=1782491628&sig=yDeBdSol8yeeVSPYwjsEJEyUKy6D8Gq6niiIXHwzDWc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=25&added=%2B2%2C028&removed=-470&net=%2B1%2C558&lph=%2B9&theme=dark&exp=1782491628&sig=xJIUIbUJbcIowgA76aMBgotuWRFWiWYdDy8tbnmEg_o" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,8 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
-
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
