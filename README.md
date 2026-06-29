@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=31&added=%2B15%2C702&removed=-783&net=%2B14%2C919&lph=%2B89&theme=dark&exp=1782709887&sig=6gl_Tpi3Yf6HfN36IKq0KkLW7QW3vUyfVcDGpdMa478">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=31&added=%2B15%2C702&removed=-783&net=%2B14%2C919&lph=%2B89&theme=light&exp=1782709887&sig=w_Yd8XdCrYT3IeKrRWbyCzAFG2gTxSKnpnBFTwlxtC8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=31&added=%2B15%2C702&removed=-783&net=%2B14%2C919&lph=%2B89&theme=dark&exp=1782709887&sig=6gl_Tpi3Yf6HfN36IKq0KkLW7QW3vUyfVcDGpdMa478" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=31&added=%2B15%2C702&removed=-783&net=%2B14%2C919&lph=%2B89&theme=dark&exp=1782737511&sig=OVdblVWdH3t_df3-kVbpubt6W6GVL-QmavO8mXy4WJA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=31&added=%2B15%2C702&removed=-783&net=%2B14%2C919&lph=%2B89&theme=light&exp=1782737511&sig=O6b11ntE5eQLLdFxLL-1BPSf7wzybMCC2a8vJnPcIAM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=31&added=%2B15%2C702&removed=-783&net=%2B14%2C919&lph=%2B89&theme=dark&exp=1782737511&sig=OVdblVWdH3t_df3-kVbpubt6W6GVL-QmavO8mXy4WJA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 </ul>
