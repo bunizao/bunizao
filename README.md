@@ -28,14 +28,14 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=28&added=%2B12%2C734&removed=-671&net=%2B12%2C063&lph=%2B72&theme=dark&exp=1783009027&sig=yDA2Dlla2Ems4qdmn8rqKyWr40HXrVQ81O5e-Phtb98">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=28&added=%2B12%2C734&removed=-671&net=%2B12%2C063&lph=%2B72&theme=light&exp=1783009027&sig=IOBaPg-TivSxnD_JdLSV31t8OR6vtf1stITUZfDly9M">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=28&added=%2B12%2C734&removed=-671&net=%2B12%2C063&lph=%2B72&theme=dark&exp=1783009027&sig=yDA2Dlla2Ems4qdmn8rqKyWr40HXrVQ81O5e-Phtb98" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=28&added=%2B12%2C734&removed=-671&net=%2B12%2C063&lph=%2B72&theme=dark&exp=1783023297&sig=P55JmvYeO0qH5UE33DzFbbsupruzT5sR731XkHkehcY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=28&added=%2B12%2C734&removed=-671&net=%2B12%2C063&lph=%2B72&theme=light&exp=1783023297&sig=Pc1_brh0KKTxY_NSWBGM5Al-EkzxchOP6BIxpo8p2vw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=1&commits=28&added=%2B12%2C734&removed=-671&net=%2B12%2C063&lph=%2B72&theme=dark&exp=1783023297&sig=P55JmvYeO0qH5UE33DzFbbsupruzT5sR731XkHkehcY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
