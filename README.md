@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=56&added=%2B45%2C266&removed=-7%2C485&net=%2B37%2C781&lph=%2B225&theme=dark&exp=1783210223&sig=W7Tzwbp7fCv9Q0B83VaWuscCr9XNp-7T05CPUi79aIk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=56&added=%2B45%2C266&removed=-7%2C485&net=%2B37%2C781&lph=%2B225&theme=light&exp=1783210223&sig=JeMQ6TGnxPKUHJyDxS5HMg04p-wGOrMxAYV_SIMfWKI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=56&added=%2B45%2C266&removed=-7%2C485&net=%2B37%2C781&lph=%2B225&theme=dark&exp=1783210223&sig=W7Tzwbp7fCv9Q0B83VaWuscCr9XNp-7T05CPUi79aIk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=56&added=%2B45%2C266&removed=-7%2C485&net=%2B37%2C781&lph=%2B225&theme=dark&exp=1783228025&sig=jO4Kod-s3FqXunFBR532vk_b5oLwa6nSBw_CoppDLcQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=56&added=%2B45%2C266&removed=-7%2C485&net=%2B37%2C781&lph=%2B225&theme=light&exp=1783228025&sig=-eV51gX4M-3ClgqiKcOkADgPvoHTWzMQx7kfYymJptA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=56&added=%2B45%2C266&removed=-7%2C485&net=%2B37%2C781&lph=%2B225&theme=dark&exp=1783228025&sig=jO4Kod-s3FqXunFBR532vk_b5oLwa6nSBw_CoppDLcQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
 </ul>
