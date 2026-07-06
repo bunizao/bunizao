@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B43%2C581&removed=-7%2C530&net=%2B36%2C051&lph=%2B215&theme=dark&exp=1783374877&sig=NUepOyrFywkNp4UpKOv9x-urJ5I-cml8EsQZpoMC85U">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B43%2C581&removed=-7%2C530&net=%2B36%2C051&lph=%2B215&theme=light&exp=1783374877&sig=Xswif-RJrboFDsUb2LQyimVLj8tnT-cGN9uegPTB8ec">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B43%2C581&removed=-7%2C530&net=%2B36%2C051&lph=%2B215&theme=dark&exp=1783374877&sig=NUepOyrFywkNp4UpKOv9x-urJ5I-cml8EsQZpoMC85U" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=57&added=%2B55%2C115&removed=-16%2C786&net=%2B38%2C329&lph=%2B228&theme=dark&exp=1783388916&sig=dl8n_kvYjBb6gTEGRK6dLQSw-DbmbhBiVTkLACKxxwo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=57&added=%2B55%2C115&removed=-16%2C786&net=%2B38%2C329&lph=%2B228&theme=light&exp=1783388916&sig=v2kscwtFJF_agNIIFimNF0KrSL-nQh0xDeLEx2MNb9s">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=57&added=%2B55%2C115&removed=-16%2C786&net=%2B38%2C329&lph=%2B228&theme=dark&exp=1783388916&sig=dl8n_kvYjBb6gTEGRK6dLQSw-DbmbhBiVTkLACKxxwo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(5 PRs)</em></li>
 
