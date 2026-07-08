@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=70&added=%2B59%2C152&removed=-17%2C339&net=%2B41%2C813&lph=%2B249&theme=dark&exp=1783488953&sig=ZAdup6bfvJ5rf1B1KeukjEvbwnjbNjLkaORks3tELwg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=70&added=%2B59%2C152&removed=-17%2C339&net=%2B41%2C813&lph=%2B249&theme=light&exp=1783488953&sig=9EJ9MfDmYOGIS4FXszk5QGZdj9v-4GbIDZ4XJBH2b5I">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=70&added=%2B59%2C152&removed=-17%2C339&net=%2B41%2C813&lph=%2B249&theme=dark&exp=1783488953&sig=ZAdup6bfvJ5rf1B1KeukjEvbwnjbNjLkaORks3tELwg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=70&added=%2B59%2C152&removed=-17%2C339&net=%2B41%2C813&lph=%2B249&theme=dark&exp=1783510466&sig=PAIOTWh6LzH8Rbq8IPW9Olsn1gN6o--AmCzfTJEhmqk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=70&added=%2B59%2C152&removed=-17%2C339&net=%2B41%2C813&lph=%2B249&theme=light&exp=1783510466&sig=WHM5lA4U6eWpb5RCQwIVzPT83_YiorSKDmKigebsXX4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=70&added=%2B59%2C152&removed=-17%2C339&net=%2B41%2C813&lph=%2B249&theme=dark&exp=1783510466&sig=PAIOTWh6LzH8Rbq8IPW9Olsn1gN6o--AmCzfTJEhmqk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(6 PRs)</em></li>
 
