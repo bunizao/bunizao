@@ -28,18 +28,20 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=66&added=%2B58%2C093&removed=-17%2C250&net=%2B40%2C843&lph=%2B243&theme=dark&exp=1783615143&sig=z143C5R5G_T2hpb23jkhblPbMdlwzNc-38HLH3pYY9M">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=66&added=%2B58%2C093&removed=-17%2C250&net=%2B40%2C843&lph=%2B243&theme=light&exp=1783615143&sig=M1sBMhyps2s1lJ2mG8o5kBoxBqg2505bdudP8UBLMkQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=66&added=%2B58%2C093&removed=-17%2C250&net=%2B40%2C843&lph=%2B243&theme=dark&exp=1783615143&sig=z143C5R5G_T2hpb23jkhblPbMdlwzNc-38HLH3pYY9M" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=70&added=%2B58%2C609&removed=-17%2C832&net=%2B40%2C777&lph=%2B243&theme=dark&exp=1783646656&sig=W7fw4M592v1zt2Z0FMzd7xICRTw43sP06DtBCYptksg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=70&added=%2B58%2C609&removed=-17%2C832&net=%2B40%2C777&lph=%2B243&theme=light&exp=1783646656&sig=eDEJQB3tjf715uJ72ALKuXbu_FDs-q8FEyvVOvJt7TE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=70&added=%2B58%2C609&removed=-17%2C832&net=%2B40%2C777&lph=%2B243&theme=dark&exp=1783646656&sig=W7fw4M592v1zt2Z0FMzd7xICRTw43sP06DtBCYptksg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(6 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(16 issues)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/rename.js">bunizao/rename.js</a></strong> — No public description.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
