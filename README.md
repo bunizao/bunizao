@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=78&added=%2B60%2C565&removed=-18%2C811&net=%2B41%2C754&lph=%2B249&theme=dark&exp=1783731772&sig=qSDupvTRW_pZcfldsNIrTZ_6U5b43olqWHL5SNW6psw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=78&added=%2B60%2C565&removed=-18%2C811&net=%2B41%2C754&lph=%2B249&theme=light&exp=1783731772&sig=zTi2s9QVKdAPMqkhVos516Lll3wHH58XMrsQbhM1C-o">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=78&added=%2B60%2C565&removed=-18%2C811&net=%2B41%2C754&lph=%2B249&theme=dark&exp=1783731772&sig=qSDupvTRW_pZcfldsNIrTZ_6U5b43olqWHL5SNW6psw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=95&added=%2B62%2C160&removed=-19%2C153&net=%2B43%2C007&lph=%2B256&theme=dark&exp=1783746824&sig=cMEH_l18AVfk-OPAG8gwkcxJNi4d33TIPruqgtZM-Zs">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=95&added=%2B62%2C160&removed=-19%2C153&net=%2B43%2C007&lph=%2B256&theme=light&exp=1783746824&sig=I1z_O80PyXBBOVAaCqQXWJ13ITp6TNks3XA2ZECMT7M">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=95&added=%2B62%2C160&removed=-19%2C153&net=%2B43%2C007&lph=%2B256&theme=dark&exp=1783746824&sig=cMEH_l18AVfk-OPAG8gwkcxJNi4d33TIPruqgtZM-Zs" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(7 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(16 issues)</em></li>
 
