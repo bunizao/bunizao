@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=68&added=%2B23%2C005&removed=-12%2C263&net=%2B10%2C742&lph=%2B64&theme=dark&exp=1783901032&sig=T-O9cIPZnkpgl5i7cSFAyYjK4S-kDbP9f-m3YGBmXZk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=68&added=%2B23%2C005&removed=-12%2C263&net=%2B10%2C742&lph=%2B64&theme=light&exp=1783901032&sig=sxKhberlblmzocWuvYgZJhn6LM5at7jEuJvLe68ThBs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=68&added=%2B23%2C005&removed=-12%2C263&net=%2B10%2C742&lph=%2B64&theme=dark&exp=1783901032&sig=T-O9cIPZnkpgl5i7cSFAyYjK4S-kDbP9f-m3YGBmXZk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=70&added=%2B24%2C213&removed=-13%2C089&net=%2B11%2C124&lph=%2B66&theme=dark&exp=1783918954&sig=q60EEWOqxcZA33OG_FuG0GlVph7CEW0vsMlKnPJ3l3E">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=70&added=%2B24%2C213&removed=-13%2C089&net=%2B11%2C124&lph=%2B66&theme=light&exp=1783918954&sig=CMVE-_LZ3TcoGE8BwNELKaMcDZL_5F3AQfKzTX5P-cM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=70&added=%2B24%2C213&removed=-13%2C089&net=%2B11%2C124&lph=%2B66&theme=dark&exp=1783918954&sig=q60EEWOqxcZA33OG_FuG0GlVph7CEW0vsMlKnPJ3l3E" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(16 issues)</em></li>
 
