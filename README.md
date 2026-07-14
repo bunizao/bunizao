@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=62&added=%2B10%2C888&removed=-3%2C510&net=%2B7%2C378&lph=%2B44&theme=dark&exp=1784074877&sig=VQKdehrrJte6UgKICJeKZ6FIewBxFxrw3X_2lXwYvkM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=62&added=%2B10%2C888&removed=-3%2C510&net=%2B7%2C378&lph=%2B44&theme=light&exp=1784074877&sig=sAyYddD0HJ0HN1TXuYE9XRkaxjqcvG9qz9Q0PETksU4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=62&added=%2B10%2C888&removed=-3%2C510&net=%2B7%2C378&lph=%2B44&theme=dark&exp=1784074877&sig=VQKdehrrJte6UgKICJeKZ6FIewBxFxrw3X_2lXwYvkM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=48&added=%2B7%2C919&removed=-3%2C169&net=%2B4%2C750&lph=%2B28&theme=dark&exp=1784092006&sig=P7kMZXTX--SCdxLMy8rFVYVdjYYXKOwPQVhzrhzou_8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=48&added=%2B7%2C919&removed=-3%2C169&net=%2B4%2C750&lph=%2B28&theme=light&exp=1784092006&sig=j9XThs0VNan_lNPbHmakACqOhniiXke8OMZRLPHRXbo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=48&added=%2B7%2C919&removed=-3%2C169&net=%2B4%2C750&lph=%2B28&theme=dark&exp=1784092006&sig=P7kMZXTX--SCdxLMy8rFVYVdjYYXKOwPQVhzrhzou_8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
