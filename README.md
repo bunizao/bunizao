@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=133&added=%2B28%2C283&removed=-10%2C168&net=%2B18%2C115&lph=%2B108&theme=dark&exp=1784144479&sig=cOgCXzlTbYNb3ZmSfIINB3kHOqc_21a7JREi5-y6Bzg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=133&added=%2B28%2C283&removed=-10%2C168&net=%2B18%2C115&lph=%2B108&theme=light&exp=1784144479&sig=B3pWYF-zUjlXPn4VfvuKdguNSu1deM_0x8K7Af3dGy8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=133&added=%2B28%2C283&removed=-10%2C168&net=%2B18%2C115&lph=%2B108&theme=dark&exp=1784144479&sig=cOgCXzlTbYNb3ZmSfIINB3kHOqc_21a7JREi5-y6Bzg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=134&added=%2B29%2C728&removed=-10%2C176&net=%2B19%2C552&lph=%2B116&theme=dark&exp=1784162332&sig=voIodwtR2uHPfa63l3y43_g8yCEbi-3-eVNtpEQd7mg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=134&added=%2B29%2C728&removed=-10%2C176&net=%2B19%2C552&lph=%2B116&theme=light&exp=1784162332&sig=2DjBfuYsJNLp7tKnDiRZ7r0mbInrpPO5ZqLc2TOq9bQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=134&added=%2B29%2C728&removed=-10%2C176&net=%2B19%2C552&lph=%2B116&theme=dark&exp=1784162332&sig=voIodwtR2uHPfa63l3y43_g8yCEbi-3-eVNtpEQd7mg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 6 issues)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(4 PRs, 6 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(18 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(18 issues)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
