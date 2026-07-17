@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=127&added=%2B28%2C173&removed=-8%2C661&net=%2B19%2C512&lph=%2B116&theme=dark&exp=1784265047&sig=QaDI4B4ct-Vxuk19phUNClbaDO4PM2APjKWdmrzkxyA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=127&added=%2B28%2C173&removed=-8%2C661&net=%2B19%2C512&lph=%2B116&theme=light&exp=1784265047&sig=Gm6Ioqm48WFFRB7KMztWN9Efwo_mgjO3YXCd-CP69Kc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=127&added=%2B28%2C173&removed=-8%2C661&net=%2B19%2C512&lph=%2B116&theme=dark&exp=1784265047&sig=QaDI4B4ct-Vxuk19phUNClbaDO4PM2APjKWdmrzkxyA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=127&added=%2B28%2C173&removed=-8%2C661&net=%2B19%2C512&lph=%2B116&theme=dark&exp=1784287714&sig=b4WMOhb23zHOw62xRtAeNMZtgnjAYyiOSMhzR7cRyLQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=127&added=%2B28%2C173&removed=-8%2C661&net=%2B19%2C512&lph=%2B116&theme=light&exp=1784287714&sig=b6tWooLKV2VEaNKXGOVC_KKGjmUxNyJTdPYKDh3z6wg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=127&added=%2B28%2C173&removed=-8%2C661&net=%2B19%2C512&lph=%2B116&theme=dark&exp=1784287714&sig=b4WMOhb23zHOw62xRtAeNMZtgnjAYyiOSMhzR7cRyLQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(4 PRs, 6 issues)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs, 6 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(18 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(18 issues)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 </ul>
