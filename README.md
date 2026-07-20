@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=180&added=%2B40%2C477&removed=-16%2C656&net=%2B23%2C821&lph=%2B142&theme=dark&exp=1784523712&sig=8H3s0BbbDMF9kC3tqhycvPsrh3IzBMNAAZpSISli8vc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=180&added=%2B40%2C477&removed=-16%2C656&net=%2B23%2C821&lph=%2B142&theme=light&exp=1784523712&sig=EjxYc3rHPLY_1A8DU53l1QRQ8FGLc2WBFXZOoOS_pxM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=180&added=%2B40%2C477&removed=-16%2C656&net=%2B23%2C821&lph=%2B142&theme=dark&exp=1784523712&sig=8H3s0BbbDMF9kC3tqhycvPsrh3IzBMNAAZpSISli8vc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=218&added=%2B60%2C422&removed=-18%2C297&net=%2B42%2C125&lph=%2B251&theme=dark&exp=1784548490&sig=ejYfTipEmK5LiLxlZl0uEkiTEH8v6wH7QcpIuFRrwdE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=218&added=%2B60%2C422&removed=-18%2C297&net=%2B42%2C125&lph=%2B251&theme=light&exp=1784548490&sig=nSOcND8C1wsPGAt5bWM2hN45w79BeO6rJSZDEqC-SEs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=218&added=%2B60%2C422&removed=-18%2C297&net=%2B42%2C125&lph=%2B251&theme=dark&exp=1784548490&sig=ejYfTipEmK5LiLxlZl0uEkiTEH8v6wH7QcpIuFRrwdE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(10 PRs, 6 issues)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(9 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(2 PRs, 18 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs, 4 issues)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
 
