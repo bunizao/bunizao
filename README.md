@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=225&added=%2B60%2C752&removed=-18%2C417&net=%2B42%2C335&lph=%2B252&theme=dark&exp=1784648261&sig=vLNXWyemHLSeL84KQJzRofdJn6Fl8nT4DKDT-go5MzE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=225&added=%2B60%2C752&removed=-18%2C417&net=%2B42%2C335&lph=%2B252&theme=light&exp=1784648261&sig=FYQ4fM553OwkABeuu8PLxPakRQ4lTEzHhZhDtajfQr0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=225&added=%2B60%2C752&removed=-18%2C417&net=%2B42%2C335&lph=%2B252&theme=dark&exp=1784648261&sig=vLNXWyemHLSeL84KQJzRofdJn6Fl8nT4DKDT-go5MzE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=227&added=%2B61%2C082&removed=-18%2C431&net=%2B42%2C651&lph=%2B254&theme=dark&exp=1784663553&sig=k2cxcU68E9oSNVKJPpn09GLw_ggM3qmBoADajnAAmuo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=227&added=%2B61%2C082&removed=-18%2C431&net=%2B42%2C651&lph=%2B254&theme=light&exp=1784663553&sig=c2ZIIfvHqlix958cjgcJDlxMBVn_owRhG-PVTkna6Fs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=227&added=%2B61%2C082&removed=-18%2C431&net=%2B42%2C651&lph=%2B254&theme=dark&exp=1784663553&sig=k2cxcU68E9oSNVKJPpn09GLw_ggM3qmBoADajnAAmuo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(13 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(4 PRs, 4 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(4 PRs, 4 issues)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
 
