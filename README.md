@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=163&added=%2B55%2C794&removed=-18%2C434&net=%2B37%2C360&lph=%2B222&theme=dark&exp=1784750091&sig=9vsjsi18S1LIcAYom2mAS5hAZwWOKdHGWgVKSv2e3TQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=163&added=%2B55%2C794&removed=-18%2C434&net=%2B37%2C360&lph=%2B222&theme=light&exp=1784750091&sig=UO861bM6iuHM3YgmwpplQeXIClmYVXLcr4389VvLFKc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=163&added=%2B55%2C794&removed=-18%2C434&net=%2B37%2C360&lph=%2B222&theme=dark&exp=1784750091&sig=9vsjsi18S1LIcAYom2mAS5hAZwWOKdHGWgVKSv2e3TQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=162&added=%2B54%2C349&removed=-18%2C426&net=%2B35%2C923&lph=%2B214&theme=dark&exp=1784766399&sig=i0iGkkMFfwbRcvovJjB9cYQ_mGd0yi2nWsvKr766P7g">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=162&added=%2B54%2C349&removed=-18%2C426&net=%2B35%2C923&lph=%2B214&theme=light&exp=1784766399&sig=si_EMRc_sWUWr8Pwfx9E36DWCea4K6-CrU35OvjcCIA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=162&added=%2B54%2C349&removed=-18%2C426&net=%2B35%2C923&lph=%2B214&theme=dark&exp=1784766399&sig=i0iGkkMFfwbRcvovJjB9cYQ_mGd0yi2nWsvKr766P7g" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(13 PRs, 2 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(4 PRs, 4 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(4 PRs, 4 issues)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
 
