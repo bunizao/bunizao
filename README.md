@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=216&added=%2B82%2C174&removed=-34%2C605&net=%2B47%2C569&lph=%2B283&theme=dark&exp=1785110907&sig=8Suwo1NiAJrK4lWZgrjcNc9ix4ZpOfpMH3p13NgUhe4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=216&added=%2B82%2C174&removed=-34%2C605&net=%2B47%2C569&lph=%2B283&theme=light&exp=1785110907&sig=04jbVm6aCnb3xF_XtQhYSML4HXxY8OT4yXkMsXd8IEU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=216&added=%2B82%2C174&removed=-34%2C605&net=%2B47%2C569&lph=%2B283&theme=dark&exp=1785110907&sig=8Suwo1NiAJrK4lWZgrjcNc9ix4ZpOfpMH3p13NgUhe4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=138&added=%2B63%2C086&removed=-23%2C792&net=%2B39%2C294&lph=%2B234&theme=dark&exp=1785128708&sig=-3VT_DhbakEYDY4DxXRFrBueIE3B7atyrD_NaUNQnNI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=138&added=%2B63%2C086&removed=-23%2C792&net=%2B39%2C294&lph=%2B234&theme=light&exp=1785128708&sig=YcoseAa-pCNr2HoB3W06JQxVyI4UrwCgSmNpt6gv11g">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=138&added=%2B63%2C086&removed=-23%2C792&net=%2B39%2C294&lph=%2B234&theme=dark&exp=1785128708&sig=-3VT_DhbakEYDY4DxXRFrBueIE3B7atyrD_NaUNQnNI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,15 +38,13 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(16 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(8 PRs)</em></li>
-
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js.</li>
-
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(8 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
+
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/edstem-cli">TuuHub/edstem-cli</a></strong> — Agent-first CLI and MCP server for Ed Discussion <em>(1 PR)</em></li>
 </ul>
