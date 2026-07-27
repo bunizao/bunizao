@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=138&added=%2B63%2C086&removed=-23%2C792&net=%2B39%2C294&lph=%2B234&theme=dark&exp=1785128708&sig=-3VT_DhbakEYDY4DxXRFrBueIE3B7atyrD_NaUNQnNI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=138&added=%2B63%2C086&removed=-23%2C792&net=%2B39%2C294&lph=%2B234&theme=light&exp=1785128708&sig=YcoseAa-pCNr2HoB3W06JQxVyI4UrwCgSmNpt6gv11g">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=138&added=%2B63%2C086&removed=-23%2C792&net=%2B39%2C294&lph=%2B234&theme=dark&exp=1785128708&sig=-3VT_DhbakEYDY4DxXRFrBueIE3B7atyrD_NaUNQnNI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=dark&exp=1785153191&sig=lgZkACsmKBQNv_f9KKfhnudiivzt8oPdwOA6In8t7pU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=light&exp=1785153191&sig=aRWRj58su93OKDdiRrA-WT_WaGqb2jvCAA97KQJb7t4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=dark&exp=1785153191&sig=lgZkACsmKBQNv_f9KKfhnudiivzt8oPdwOA6In8t7pU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(16 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(9 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(8 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
