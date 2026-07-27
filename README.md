@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=dark&exp=1785170327&sig=p-Qd3z4rJco5PrNUHaeiZEe5tIjEyYc5P7AxihnRTfw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=light&exp=1785170327&sig=QCJMC6-JGkpuTJsQ71JfsMHZyxdVKV6SZposlE-AQso">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=dark&exp=1785170327&sig=p-Qd3z4rJco5PrNUHaeiZEe5tIjEyYc5P7AxihnRTfw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=dark&exp=1785186927&sig=RbjVIZYnzPBT0A2hU8paHFgTdLoiKb3jWfEneAl_Lwo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=light&exp=1785186927&sig=_Fl5zYawkScXvSj2Fg_QhVjH9JDx8OqAHtFqKJsPm-U">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=126&added=%2B52%2C260&removed=-22%2C928&net=%2B29%2C332&lph=%2B175&theme=dark&exp=1785186927&sig=RbjVIZYnzPBT0A2hU8paHFgTdLoiKb3jWfEneAl_Lwo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,11 +40,13 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/steipete/sweet-cookie">steipete/sweet-cookie</a></strong> — Extract cookies out of your browser. TypeScript. Any OS. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/edstem-cli">TuuHub/edstem-cli</a></strong> — Agent-first CLI and MCP server for Ed Discussion <em>(1 PR)</em></li>
 </ul>
