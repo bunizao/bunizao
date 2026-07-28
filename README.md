@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=108&added=%2B48%2C524&removed=-21%2C162&net=%2B27%2C362&lph=%2B163&theme=dark&exp=1785253368&sig=XM8Ayv1WHG3zXcIY8AlAXH9dYuCMgZp_qvOugWbE6-A">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=108&added=%2B48%2C524&removed=-21%2C162&net=%2B27%2C362&lph=%2B163&theme=light&exp=1785253368&sig=TBQrMFf2ieRa1Ar5CrmaeSQ-X5mOD_jIi69M384I2rY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=108&added=%2B48%2C524&removed=-21%2C162&net=%2B27%2C362&lph=%2B163&theme=dark&exp=1785253368&sig=XM8Ayv1WHG3zXcIY8AlAXH9dYuCMgZp_qvOugWbE6-A" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=106&added=%2B48%2C194&removed=-21%2C148&net=%2B27%2C046&lph=%2B161&theme=dark&exp=1785268982&sig=GSsrK6pBMYz51_J1DpZEOgiwWzoFoHQFQpD8tTINndY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=106&added=%2B48%2C194&removed=-21%2C148&net=%2B27%2C046&lph=%2B161&theme=light&exp=1785268982&sig=QQRuChQ52abmThhO-_zq60XaJWBsenQ4UOg9tLZ3Vu0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=106&added=%2B48%2C194&removed=-21%2C148&net=%2B27%2C046&lph=%2B161&theme=dark&exp=1785268982&sig=GSsrK6pBMYz51_J1DpZEOgiwWzoFoHQFQpD8tTINndY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
