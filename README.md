@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=100&added=%2B46%2C734&removed=-20%2C913&net=%2B25%2C821&lph=%2B154&theme=dark&exp=1785285918&sig=ffPNP6lLXV5L2M2UELPF_kVDrZAt1POp0uXACQQtdok">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=100&added=%2B46%2C734&removed=-20%2C913&net=%2B25%2C821&lph=%2B154&theme=light&exp=1785285918&sig=1VkKHQPVlr0_oNauRmtoLZUDndT2yxT9CXPpgeq1rMQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=100&added=%2B46%2C734&removed=-20%2C913&net=%2B25%2C821&lph=%2B154&theme=dark&exp=1785285918&sig=ffPNP6lLXV5L2M2UELPF_kVDrZAt1POp0uXACQQtdok" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=105&added=%2B37%2C162&removed=-17%2C881&net=%2B19%2C281&lph=%2B115&theme=dark&exp=1785302128&sig=J9x4XZr0yLVxgCOPZ3udT4GGgNvY-Qp1vp277Iulqrk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=105&added=%2B37%2C162&removed=-17%2C881&net=%2B19%2C281&lph=%2B115&theme=light&exp=1785302128&sig=jFx4g6coz_T4C4m9NjaTMFsO5rGLXfo_1y8hwzB0kns">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=105&added=%2B37%2C162&removed=-17%2C881&net=%2B19%2C281&lph=%2B115&theme=dark&exp=1785302128&sig=J9x4XZr0yLVxgCOPZ3udT4GGgNvY-Qp1vp277Iulqrk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,13 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(4 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(4 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/fit1061">bunizao/fit1061</a></strong> — Unofficial reference for Monash FIT1061</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-mcp">bunizao/edstem-mcp</a></strong> — Use Ed Discussion from any MCP client.</li>
 
