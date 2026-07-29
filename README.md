@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=92&added=%2B35%2C149&removed=-16%2C434&net=%2B18%2C715&lph=%2B111&theme=dark&exp=1785355688&sig=Do0quT9SkZab6NPM3TMizphpW661O7wPiffsqY-Ih5Q">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=92&added=%2B35%2C149&removed=-16%2C434&net=%2B18%2C715&lph=%2B111&theme=light&exp=1785355688&sig=bKULt7RX18VDbBtwIuUyLadpAFGr_VHCoGt8IJbNZGA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=92&added=%2B35%2C149&removed=-16%2C434&net=%2B18%2C715&lph=%2B111&theme=dark&exp=1785355688&sig=Do0quT9SkZab6NPM3TMizphpW661O7wPiffsqY-Ih5Q" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=88&added=%2B34%2C836&removed=-16%2C397&net=%2B18%2C439&lph=%2B110&theme=dark&exp=1785371197&sig=xKZSx69ARnzElOXNr-toZWnEDSCF66UQqAAKefekJhs">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=88&added=%2B34%2C836&removed=-16%2C397&net=%2B18%2C439&lph=%2B110&theme=light&exp=1785371197&sig=cvNEagmjW_MoX9S7-6g3UynHo9aiR_M7MJMTbzIBdtU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=88&added=%2B34%2C836&removed=-16%2C397&net=%2B18%2C439&lph=%2B110&theme=dark&exp=1785371197&sig=xKZSx69ARnzElOXNr-toZWnEDSCF66UQqAAKefekJhs" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,7 +44,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/fit1061">bunizao/fit1061</a></strong> — Unofficial reference for Monash FIT1061</li>
 
