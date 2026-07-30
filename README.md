@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B14%2C926&removed=-6%2C013&net=%2B8%2C913&lph=%2B53&theme=dark&exp=1785441416&sig=mCAyHKo05LRb3dLqtS_F-23IE9xtw0SJ3R7eRYOiJAA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B14%2C926&removed=-6%2C013&net=%2B8%2C913&lph=%2B53&theme=light&exp=1785441416&sig=TqKODXKTisw94g8MwlX0AKI3S6Po9ftwFQrpJX6QmYQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B14%2C926&removed=-6%2C013&net=%2B8%2C913&lph=%2B53&theme=dark&exp=1785441416&sig=mCAyHKo05LRb3dLqtS_F-23IE9xtw0SJ3R7eRYOiJAA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B14%2C926&removed=-6%2C013&net=%2B8%2C913&lph=%2B53&theme=dark&exp=1785458556&sig=5VA6P213vKo2zwVF0K_jAVsnsLcLJR2SISPeVusIBPE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B14%2C926&removed=-6%2C013&net=%2B8%2C913&lph=%2B53&theme=light&exp=1785458556&sig=pb8ujF2UyEMt9wmb3z5k4MZtWa5x124v1CNLmS780Uw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B14%2C926&removed=-6%2C013&net=%2B8%2C913&lph=%2B53&theme=dark&exp=1785458556&sig=5VA6P213vKo2zwVF0K_jAVsnsLcLJR2SISPeVusIBPE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,7 +46,7 @@
 
   <li><strong><a href="https://github.com/bunizao/fit1061">bunizao/fit1061</a></strong> — Unofficial reference for Monash FIT1061</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
