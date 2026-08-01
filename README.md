@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B102%2C378&removed=-25%2C911&net=%2B76%2C467&lph=%2B455&theme=dark&exp=1785561264&sig=evnJ7QhPRGLLOFbLGQNRZCvueVhGWvMLS9v3t_jhNBg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B102%2C378&removed=-25%2C911&net=%2B76%2C467&lph=%2B455&theme=light&exp=1785561264&sig=TTTdGIpig-Kt48vMfCSpbhxz7cJYYt5MvrfpGF0mmL8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B102%2C378&removed=-25%2C911&net=%2B76%2C467&lph=%2B455&theme=dark&exp=1785561264&sig=evnJ7QhPRGLLOFbLGQNRZCvueVhGWvMLS9v3t_jhNBg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B102%2C378&removed=-25%2C911&net=%2B76%2C467&lph=%2B455&theme=dark&exp=1785584405&sig=38sX9e2S4Q0cr5ghKa_feiOppQnpoiNAm6cWQ89JmqE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B102%2C378&removed=-25%2C911&net=%2B76%2C467&lph=%2B455&theme=light&exp=1785584405&sig=NdjoXWlFvmgBmU5JwuAs2HkRqy4GDQTimN8Z_ltVg1U">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B102%2C378&removed=-25%2C911&net=%2B76%2C467&lph=%2B455&theme=dark&exp=1785584405&sig=38sX9e2S4Q0cr5ghKa_feiOppQnpoiNAm6cWQ89JmqE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(15 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(12 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
