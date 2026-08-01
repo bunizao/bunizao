@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=258&added=%2B103%2C810&removed=-26%2C483&net=%2B77%2C327&lph=%2B460&theme=dark&exp=1785612187&sig=OzZsXnHHM5ro3X7bIAc1e1hFPaIDRiWssALOD05dv0E">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=258&added=%2B103%2C810&removed=-26%2C483&net=%2B77%2C327&lph=%2B460&theme=light&exp=1785612187&sig=r_bBMSpvNtuiq9kYp4vcGiBFyX76igK6ijK3ccr6EXE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=258&added=%2B103%2C810&removed=-26%2C483&net=%2B77%2C327&lph=%2B460&theme=dark&exp=1785612187&sig=OzZsXnHHM5ro3X7bIAc1e1hFPaIDRiWssALOD05dv0E" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=261&added=%2B104%2C727&removed=-26%2C339&net=%2B78%2C388&lph=%2B467&theme=dark&exp=1785629216&sig=zKhkncB0-3Z7WnM1znbGVmGK_pfC5C1lyZ0WhC6BdUM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=261&added=%2B104%2C727&removed=-26%2C339&net=%2B78%2C388&lph=%2B467&theme=light&exp=1785629216&sig=BRCJV38FGRnpZOpFXz2t0TbqC65qi1qeANB1TIk1xIA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=261&added=%2B104%2C727&removed=-26%2C339&net=%2B78%2C388&lph=%2B467&theme=dark&exp=1785629216&sig=zKhkncB0-3Z7WnM1znbGVmGK_pfC5C1lyZ0WhC6BdUM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,13 +40,15 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
+
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1061">bunizao/fit1061</a></strong> — Unofficial reference for Monash FIT1061</li>
 
