@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=243&added=%2B103%2C544&removed=-25%2C838&net=%2B77%2C706&lph=%2B463&theme=dark&exp=1785685019&sig=slpVjQtSpKau6bCH-DEE2DgduBbQaakwhnrsQFhIVCM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=243&added=%2B103%2C544&removed=-25%2C838&net=%2B77%2C706&lph=%2B463&theme=light&exp=1785685019&sig=I72Dwk1hwXt8nIZMHth2ka1NXgF379y7T3mzjfjzJ0o">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=243&added=%2B103%2C544&removed=-25%2C838&net=%2B77%2C706&lph=%2B463&theme=dark&exp=1785685019&sig=slpVjQtSpKau6bCH-DEE2DgduBbQaakwhnrsQFhIVCM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=237&added=%2B103%2C174&removed=-25%2C731&net=%2B77%2C443&lph=%2B461&theme=dark&exp=1785698496&sig=kuLMuFTNkvRZGqykLdirHeI5w1j9UbxNHJOvnXSjZPM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=237&added=%2B103%2C174&removed=-25%2C731&net=%2B77%2C443&lph=%2B461&theme=light&exp=1785698496&sig=T3vOoYb4oCuOY58L2aq7rarFA-k7dxP51hSdFqXaL8Q">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=237&added=%2B103%2C174&removed=-25%2C731&net=%2B77%2C443&lph=%2B461&theme=dark&exp=1785698496&sig=kuLMuFTNkvRZGqykLdirHeI5w1j9UbxNHJOvnXSjZPM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(12 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
@@ -48,7 +48,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/fit1061">bunizao/fit1061</a></strong> — Unofficial reference for Monash FIT1061</li>
 
