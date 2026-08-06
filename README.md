@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=116&added=%2B71%2C066&removed=-10%2C108&net=%2B60%2C958&lph=%2B363&theme=dark&exp=1785993606&sig=bDIknS6kqOwhlv2f9JTlQR9ousTScN1tk8TuFgBNvbg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=116&added=%2B71%2C066&removed=-10%2C108&net=%2B60%2C958&lph=%2B363&theme=light&exp=1785993606&sig=zVKu6tsR30CMsn50rQsIvdFmLnM8O-_8mx_zGUQ3Q1M">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=116&added=%2B71%2C066&removed=-10%2C108&net=%2B60%2C958&lph=%2B363&theme=dark&exp=1785993606&sig=bDIknS6kqOwhlv2f9JTlQR9ousTScN1tk8TuFgBNvbg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=144&added=%2B76%2C420&removed=-12%2C760&net=%2B63%2C660&lph=%2B379&theme=dark&exp=1786015544&sig=8M5yZ14FB6oA0DKcwqYME7M-ylD_vP3eqn7qcoP-WcQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=144&added=%2B76%2C420&removed=-12%2C760&net=%2B63%2C660&lph=%2B379&theme=light&exp=1786015544&sig=Q1itYN9eEGal-kP0bQEwo-7mIHXpir8T4vfmawMNoRg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=144&added=%2B76%2C420&removed=-12%2C760&net=%2B63%2C660&lph=%2B379&theme=dark&exp=1786015544&sig=8M5yZ14FB6oA0DKcwqYME7M-ylD_vP3eqn7qcoP-WcQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(13 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(14 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 </ul>
