@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=142&added=%2B76%2C090&removed=-12%2C636&net=%2B63%2C454&lph=%2B378&theme=dark&exp=1786129203&sig=ftyhnAHQkH4BPiZZnWJ5tpfQJKPJklRGLJHIGp4Ijto">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=142&added=%2B76%2C090&removed=-12%2C636&net=%2B63%2C454&lph=%2B378&theme=light&exp=1786129203&sig=swVfyvuGvh4VuShl4YD3aZ3-jzjEnPpyT2YJobmOOf8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=142&added=%2B76%2C090&removed=-12%2C636&net=%2B63%2C454&lph=%2B378&theme=dark&exp=1786129203&sig=ftyhnAHQkH4BPiZZnWJ5tpfQJKPJklRGLJHIGp4Ijto" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=99&added=%2B44%2C080&removed=-8%2C655&net=%2B35%2C425&lph=%2B211&theme=dark&exp=1786147274&sig=YP34PiGnqsHb_RBS8Mgq7BNClhq4uf-wJm84aCdCvSk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=99&added=%2B44%2C080&removed=-8%2C655&net=%2B35%2C425&lph=%2B211&theme=light&exp=1786147274&sig=_jVCeDJ1ob0nhGCdt9eQkNyCjUrStCsTGERl8XY6wJU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=99&added=%2B44%2C080&removed=-8%2C655&net=%2B35%2C425&lph=%2B211&theme=dark&exp=1786147274&sig=YP34PiGnqsHb_RBS8Mgq7BNClhq4uf-wJm84aCdCvSk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,12 +38,8 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(14 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
-
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
-
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
