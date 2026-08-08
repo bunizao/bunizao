@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=63&added=%2B13%2C909&removed=-4%2C065&net=%2B9%2C844&lph=%2B59&theme=dark&exp=1786196917&sig=a8dDz8IcqHiP0NVo-AOIYoaKtmSzDi2e1yCWpKF90HE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=63&added=%2B13%2C909&removed=-4%2C065&net=%2B9%2C844&lph=%2B59&theme=light&exp=1786196917&sig=_Icma0pCwWZqNo37_e2y7bpZ0656VMZHsvQLeKOy5zA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=63&added=%2B13%2C909&removed=-4%2C065&net=%2B9%2C844&lph=%2B59&theme=dark&exp=1786196917&sig=a8dDz8IcqHiP0NVo-AOIYoaKtmSzDi2e1yCWpKF90HE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=51&added=%2B12%2C886&removed=-3%2C539&net=%2B9%2C347&lph=%2B56&theme=dark&exp=1786214462&sig=nkUYRhtN6QPILsxcLX23jlNCzeC-JzPdKHiIHNyTuOY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=51&added=%2B12%2C886&removed=-3%2C539&net=%2B9%2C347&lph=%2B56&theme=light&exp=1786214462&sig=8AVJrMLEgW9UkjRboDs-5irKioyPDw_oxeEspDu7LzE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=51&added=%2B12%2C886&removed=-3%2C539&net=%2B9%2C347&lph=%2B56&theme=dark&exp=1786214462&sig=nkUYRhtN6QPILsxcLX23jlNCzeC-JzPdKHiIHNyTuOY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,8 +38,8 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
