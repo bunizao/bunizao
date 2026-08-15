@@ -28,19 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=10&added=%2B19%2C915&removed=-2%2C532&net=%2B17%2C383&lph=%2B103&theme=dark&exp=1786800674&sig=-o27IrRzndvoFMPtOX6UBK6mPd721Vqao--FNthisww">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=10&added=%2B19%2C915&removed=-2%2C532&net=%2B17%2C383&lph=%2B103&theme=light&exp=1786800674&sig=Qi9tp0tHwL0DFVpRk4kEX7oo2D1ge4l6KQtdDK19ja8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=10&added=%2B19%2C915&removed=-2%2C532&net=%2B17%2C383&lph=%2B103&theme=dark&exp=1786800674&sig=-o27IrRzndvoFMPtOX6UBK6mPd721Vqao--FNthisww" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=16&added=%2B20%2C829&removed=-2%2C664&net=%2B18%2C165&lph=%2B108&theme=dark&exp=1786818575&sig=yIuexS7psF6hgMpCD9yi55HlCpP-RSC586vJ_WJQvRs">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=16&added=%2B20%2C829&removed=-2%2C664&net=%2B18%2C165&lph=%2B108&theme=light&exp=1786818575&sig=qPL9ifMtnf01f6Wuorcb759JDF2xc7n9oKTW36DqtmQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=16&added=%2B20%2C829&removed=-2%2C664&net=%2B18%2C165&lph=%2B108&theme=dark&exp=1786818575&sig=yIuexS7psF6hgMpCD9yi55HlCpP-RSC586vJ_WJQvRs" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/james-6-23/codex2api">james-6-23/codex2api</a></strong> — Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 <em>(1 PR)</em></li>
 
