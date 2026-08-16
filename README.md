@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=14&added=%2B20%2C232&removed=-2%2C552&net=%2B17%2C680&lph=%2B105&theme=dark&exp=1786854649&sig=6Hw9JKSSYgYVOBif4LXQ4_XOzRA6eUROQXHsPiy0RSQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=14&added=%2B20%2C232&removed=-2%2C552&net=%2B17%2C680&lph=%2B105&theme=light&exp=1786854649&sig=g-XrbNKREyqA4wMZ1odDzas2s1G7QeZBTZr_nptQ7eE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=14&added=%2B20%2C232&removed=-2%2C552&net=%2B17%2C680&lph=%2B105&theme=dark&exp=1786854649&sig=6Hw9JKSSYgYVOBif4LXQ4_XOzRA6eUROQXHsPiy0RSQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=14&added=%2B20%2C232&removed=-2%2C552&net=%2B17%2C680&lph=%2B105&theme=dark&exp=1786873813&sig=UBJv1-7jQ-2wP-K8mj_5uYF5pbVYaJAV33mbihohVRk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=14&added=%2B20%2C232&removed=-2%2C552&net=%2B17%2C680&lph=%2B105&theme=light&exp=1786873813&sig=KvH4f6BA_WMqLARTxe8BjVcLF_x6_ayA8Z7PDhtIZQI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=14&added=%2B20%2C232&removed=-2%2C552&net=%2B17%2C680&lph=%2B105&theme=dark&exp=1786873813&sig=UBJv1-7jQ-2wP-K8mj_5uYF5pbVYaJAV33mbihohVRk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
@@ -46,7 +46,7 @@
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/uptime">bunizao/uptime</a></strong> — No public description. <em>(1 issue)</em></li>
 </ul>
