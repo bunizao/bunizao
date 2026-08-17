@@ -28,16 +28,14 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=dark&exp=1786991947&sig=-3PAPoRXA1L34rdqV48DN8CZeoCgEEw_d9p4xsWAxoU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=light&exp=1786991947&sig=B-VHM6mUXpERrmzsGi6vK8q3g-5c-iWfQWWPfXKTmoQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=dark&exp=1786991947&sig=-3PAPoRXA1L34rdqV48DN8CZeoCgEEw_d9p4xsWAxoU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=6&added=%2B18%2C721&removed=-2%2C308&net=%2B16%2C413&lph=%2B98&theme=dark&exp=1787009518&sig=aceSS6QARsCt_UtSTs4YjpvdZ00lGnfP0mktmxsn1Rg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=6&added=%2B18%2C721&removed=-2%2C308&net=%2B16%2C413&lph=%2B98&theme=light&exp=1787009518&sig=J5jck0J6maYZvwEECZp0QZA_zfs2qPr_HFpUhlHOOaA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=6&added=%2B18%2C721&removed=-2%2C308&net=%2B16%2C413&lph=%2B98&theme=dark&exp=1787009518&sig=aceSS6QARsCt_UtSTs4YjpvdZ00lGnfP0mktmxsn1Rg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
-
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/james-6-23/codex2api">james-6-23/codex2api</a></strong> — Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 <em>(1 PR)</em></li>
