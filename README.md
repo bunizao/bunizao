@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=dark&exp=1786974032&sig=L4jSTOtTNybPdjwUb323tz0CxZM_x9dqe8An7sso-gM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=light&exp=1786974032&sig=d8JJDhGzdxOPQ0dgC4yy5PQQBx0ii70reMjDkzbj0To">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=dark&exp=1786974032&sig=L4jSTOtTNybPdjwUb323tz0CxZM_x9dqe8An7sso-gM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=dark&exp=1786991947&sig=-3PAPoRXA1L34rdqV48DN8CZeoCgEEw_d9p4xsWAxoU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=light&exp=1786991947&sig=B-VHM6mUXpERrmzsGi6vK8q3g-5c-iWfQWWPfXKTmoQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=12&added=%2B19%2C635&removed=-2%2C440&net=%2B17%2C195&lph=%2B102&theme=dark&exp=1786991947&sig=-3PAPoRXA1L34rdqV48DN8CZeoCgEEw_d9p4xsWAxoU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
