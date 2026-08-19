@@ -28,18 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=3&added=%2B797&removed=-128&net=%2B669&lph=%2B4&theme=dark&exp=1787132674&sig=H8Zzrj2i164_rdQtulvWIyM3zY3DGf7C6GRhRt-gk5o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=3&added=%2B797&removed=-128&net=%2B669&lph=%2B4&theme=light&exp=1787132674&sig=4WSA8anrrnIBu_pKDSFOntog4nt7HktA0kFd55tkubY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=3&added=%2B797&removed=-128&net=%2B669&lph=%2B4&theme=dark&exp=1787132674&sig=H8Zzrj2i164_rdQtulvWIyM3zY3DGf7C6GRhRt-gk5o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=3&added=%2B797&removed=-128&net=%2B669&lph=%2B4&theme=dark&exp=1787146631&sig=htpHHUNZ88CT-1RFx0haEyoNBcV4Tpl74PUbTlug508">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=3&added=%2B797&removed=-128&net=%2B669&lph=%2B4&theme=light&exp=1787146631&sig=qHNWSt7bZG99qQDR6pI-nQJNBdIzplNjaIUZsDtfYlQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=3&added=%2B797&removed=-128&net=%2B669&lph=%2B4&theme=dark&exp=1787146631&sig=htpHHUNZ88CT-1RFx0haEyoNBcV4Tpl74PUbTlug508" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
