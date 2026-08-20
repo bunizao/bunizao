@@ -28,18 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787200580&sig=hj_vVCpYYLcrr8PYDKnW9_M-hUM0XAh3cvFg-Dlvjas">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=light&exp=1787200580&sig=2v6Xj_u9MtJnnxMAbsns_u0sUfN5prwgBV3YrxUPqxU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787200580&sig=hj_vVCpYYLcrr8PYDKnW9_M-hUM0XAh3cvFg-Dlvjas" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787219008&sig=nxsQKa0RzYdUZtfiJJu_LjlngMz4iYpoe6o5XjphfB4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=light&exp=1787219008&sig=WNY60gpArmeAFv19WVsY1MBfzHgBRsT998tZYKOA6VU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787219008&sig=nxsQKa0RzYdUZtfiJJu_LjlngMz4iYpoe6o5XjphfB4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
