@@ -28,18 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787269224&sig=t0SR5FslnRjAf4gAv20UQ7zqdf8cEqJt30HbNawwlqQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=light&exp=1787269224&sig=CVT68ia4Sr8PLj0ZUa41i3hRYMCya9BJbr8zFJBkJsE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787269224&sig=t0SR5FslnRjAf4gAv20UQ7zqdf8cEqJt30HbNawwlqQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787287009&sig=VZao5vdKBxRexsW2LfEupMQfXQRUF7mgJX2oBCrYrog">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=light&exp=1787287009&sig=yp47_dqaTb4TMUFk-JzaDkJufWHn-BYQtMh4SXa5TuQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=6&added=%2B9%2C226&removed=-1%2C362&net=%2B7%2C864&lph=%2B47&theme=dark&exp=1787287009&sig=VZao5vdKBxRexsW2LfEupMQfXQRUF7mgJX2oBCrYrog" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
