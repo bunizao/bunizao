@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B11%2C182&removed=-2%2C696&net=%2B8%2C486&lph=%2B51&theme=dark&exp=1787337428&sig=MGMV-9Wf7WSEBXo2yGEAZzB88j6CmRLbZ1_m1GwQVGk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B11%2C182&removed=-2%2C696&net=%2B8%2C486&lph=%2B51&theme=light&exp=1787337428&sig=GoCX6m091SF_zwkjpaNpUIT8WfBXOG39Y6tszXJc874">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B11%2C182&removed=-2%2C696&net=%2B8%2C486&lph=%2B51&theme=dark&exp=1787337428&sig=MGMV-9Wf7WSEBXo2yGEAZzB88j6CmRLbZ1_m1GwQVGk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B11%2C182&removed=-2%2C696&net=%2B8%2C486&lph=%2B51&theme=dark&exp=1787355634&sig=1rWJlhxLomIltXXfDflPaiFiltNrp0sBa2pqZ_wbVmU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B11%2C182&removed=-2%2C696&net=%2B8%2C486&lph=%2B51&theme=light&exp=1787355634&sig=SlJmdgwFaCJWEyqXJkMb2ebVKf4Fe8wBeHH66oKHB10">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=10&added=%2B11%2C182&removed=-2%2C696&net=%2B8%2C486&lph=%2B51&theme=dark&exp=1787355634&sig=1rWJlhxLomIltXXfDflPaiFiltNrp0sBa2pqZ_wbVmU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,8 +38,8 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
