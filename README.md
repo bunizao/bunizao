@@ -28,18 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=12&added=%2B11%2C412&removed=-2%2C726&net=%2B8%2C686&lph=%2B52&theme=dark&exp=1787373177&sig=PKWM_k6Zi1Q7egZ7FLBLyLOBMdG2EkNY6F9KWCv6n74">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=12&added=%2B11%2C412&removed=-2%2C726&net=%2B8%2C686&lph=%2B52&theme=light&exp=1787373177&sig=HjVmTaPWL4zbXtfW-C50ojYE-cFuKqQ-DHApli9FbyA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=12&added=%2B11%2C412&removed=-2%2C726&net=%2B8%2C686&lph=%2B52&theme=dark&exp=1787373177&sig=PKWM_k6Zi1Q7egZ7FLBLyLOBMdG2EkNY6F9KWCv6n74" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=12&added=%2B11%2C412&removed=-2%2C726&net=%2B8%2C686&lph=%2B52&theme=dark&exp=1787391697&sig=0Q2rGLVK2BVWmr8jUfXdVrbIjSaGkOt7mFwSOmrsiKw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=12&added=%2B11%2C412&removed=-2%2C726&net=%2B8%2C686&lph=%2B52&theme=light&exp=1787391697&sig=MeZOgJlHuyJm8j7Y2nD2R46MBjBgXoybJsRiUv1PZpg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=12&added=%2B11%2C412&removed=-2%2C726&net=%2B8%2C686&lph=%2B52&theme=dark&exp=1787391697&sig=0Q2rGLVK2BVWmr8jUfXdVrbIjSaGkOt7mFwSOmrsiKw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
