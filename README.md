@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=dark&exp=1787564966&sig=Pnk0wS9toguSjJ77k_jG7WL1SHBk4ajbZB3ARuQv-0Y">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=light&exp=1787564966&sig=EBW9_DMMURRnkbrvo9n4ETBoZAFjRuCFxSdnGI1P9Ag">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=dark&exp=1787564966&sig=Pnk0wS9toguSjJ77k_jG7WL1SHBk4ajbZB3ARuQv-0Y" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=dark&exp=1787579078&sig=AjocGBEZnftoh13uqrNp4FFguBud7NYQMnN3ysqw9ys">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=light&exp=1787579078&sig=c6lZzCGLHhgcxxH8QFzDBHZyc0QQZhEL5J3ci99kNxs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=dark&exp=1787579078&sig=AjocGBEZnftoh13uqrNp4FFguBud7NYQMnN3ysqw9ys" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(8 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
