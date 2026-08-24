@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787615263&sig=kDB_1pPrAbuWFsW1eTB7wzisSF_zxat0U9T3gK8mQOc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=light&exp=1787615263&sig=vvA8ok4IhZjKEciDPHJ7Gsppex9D05b6gY20Vz9-oQI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787615263&sig=kDB_1pPrAbuWFsW1eTB7wzisSF_zxat0U9T3gK8mQOc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787632737&sig=gaWcmBPgldizoFOkrERuXB-9VaNo3rjwmeANSu_qeWY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=light&exp=1787632737&sig=FoTSCz4XvtJoZqWs2jsSO7zbXbgGUZ_BuzW5gfB52QA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787632737&sig=gaWcmBPgldizoFOkrERuXB-9VaNo3rjwmeANSu_qeWY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(9 PRs)</em></li>
 
