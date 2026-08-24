@@ -28,16 +28,16 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=dark&exp=1787579078&sig=AjocGBEZnftoh13uqrNp4FFguBud7NYQMnN3ysqw9ys">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=light&exp=1787579078&sig=c6lZzCGLHhgcxxH8QFzDBHZyc0QQZhEL5J3ci99kNxs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=11&added=%2B11%2C010&removed=-2%2C709&net=%2B8%2C301&lph=%2B49&theme=dark&exp=1787579078&sig=AjocGBEZnftoh13uqrNp4FFguBud7NYQMnN3ysqw9ys" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787597014&sig=oaGiqRfm0ti29aQiZ94Jba8_Q7VFXsJRNtkBoJ5Y6pg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=light&exp=1787597014&sig=IEjj_00-2_apvR73nidVs7Fyyozf8NE8n0SPVe_fhNk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787597014&sig=oaGiqRfm0ti29aQiZ94Jba8_Q7VFXsJRNtkBoJ5Y6pg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(8 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(9 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
