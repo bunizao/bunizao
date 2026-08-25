@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787683208&sig=YqOVj6g-0NzdI6pshEbQYBgrmdyQcYX7tT4NKj2iqs8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=light&exp=1787683208&sig=5eEzDAIB5k8Y4FQ2ZCdDEsDc3osYsHbiDYGNVMJgwwo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787683208&sig=YqOVj6g-0NzdI6pshEbQYBgrmdyQcYX7tT4NKj2iqs8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787701858&sig=9hJuVOBzvlLMBAosBheAbNqq5-q4O3HXHw_hZtRGBPY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=light&exp=1787701858&sig=QVVekocQ-KhRB6YDtlRgUx7KQErohcNUCkiGYd9CaxM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787701858&sig=9hJuVOBzvlLMBAosBheAbNqq5-q4O3HXHw_hZtRGBPY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
