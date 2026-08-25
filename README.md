@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787632737&sig=gaWcmBPgldizoFOkrERuXB-9VaNo3rjwmeANSu_qeWY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=light&exp=1787632737&sig=FoTSCz4XvtJoZqWs2jsSO7zbXbgGUZ_BuzW5gfB52QA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787632737&sig=gaWcmBPgldizoFOkrERuXB-9VaNo3rjwmeANSu_qeWY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787651031&sig=QlvldC-sg1uIchfiyoydqJ-m034dPHnDIoZt5zKhNGw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=light&exp=1787651031&sig=O77ndOws1vJy0aST5XAZunJTxFlCOr_EnsKxxvLtL5o">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=55&added=%2B26%2C335&removed=-4%2C891&net=%2B21%2C444&lph=%2B128&theme=dark&exp=1787651031&sig=QlvldC-sg1uIchfiyoydqJ-m034dPHnDIoZt5zKhNGw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(1 PR)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(9 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(8 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 </ul>
