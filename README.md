@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787719036&sig=BFrnLl578QCNMi_SnnXeTMrl-HNef2x0pHiXxg28X18">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=light&exp=1787719036&sig=Qyq5CM9PTkz58j66a84eMx36yMyjByvLK9AE260-4mA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787719036&sig=BFrnLl578QCNMi_SnnXeTMrl-HNef2x0pHiXxg28X18" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787737766&sig=Fk3JymDStxOwDvwiYXJjnucYrUqUjGddmkmmQCc3c8U">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=light&exp=1787737766&sig=y66BoZAPT2Fl8ZE5Q9mmupfyKfBnjiP0x2jpErPdd8k">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787737766&sig=Fk3JymDStxOwDvwiYXJjnucYrUqUjGddmkmmQCc3c8U" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
