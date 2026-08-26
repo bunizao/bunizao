@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787751649&sig=l7V0i4eyuQ4FjowcaeBkb3pWSsA-fmfQS7PuJ3d5B3k">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=light&exp=1787751649&sig=3oyJRqNMzRjAnqwdUtb9Qs9LwQ0CxFLtHU1raQRJJgE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=74&added=%2B30%2C341&removed=-5%2C518&net=%2B24%2C823&lph=%2B148&theme=dark&exp=1787751649&sig=l7V0i4eyuQ4FjowcaeBkb3pWSsA-fmfQS7PuJ3d5B3k" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=72&added=%2B21%2C927&removed=-4%2C290&net=%2B17%2C637&lph=%2B105&theme=dark&exp=1787769723&sig=3ascTPD3s-IoQiYGp0lmtGs4M3XaV7pojhk8z6Q6UuU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=72&added=%2B21%2C927&removed=-4%2C290&net=%2B17%2C637&lph=%2B105&theme=light&exp=1787769723&sig=65fo86dyRV_JINLy9eAouADyyhw5zvJC8mHq6reVmVU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=72&added=%2B21%2C927&removed=-4%2C290&net=%2B17%2C637&lph=%2B105&theme=dark&exp=1787769723&sig=3ascTPD3s-IoQiYGp0lmtGs4M3XaV7pojhk8z6Q6UuU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
