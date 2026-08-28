@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=189&added=%2B107%2C883&removed=-21%2C522&net=%2B86%2C361&lph=%2B514&theme=dark&exp=1787890628&sig=6QWGkwJxTL0E8Sq8zB5ZEtmlPaNueE76xjbvqDYFvpE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=189&added=%2B107%2C883&removed=-21%2C522&net=%2B86%2C361&lph=%2B514&theme=light&exp=1787890628&sig=qaWmsj1CW-NySXCVYizC-zHABCdkazY-mVHXgcH4jcE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=189&added=%2B107%2C883&removed=-21%2C522&net=%2B86%2C361&lph=%2B514&theme=dark&exp=1787890628&sig=6QWGkwJxTL0E8Sq8zB5ZEtmlPaNueE76xjbvqDYFvpE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=185&added=%2B105%2C927&removed=-20%2C188&net=%2B85%2C739&lph=%2B510&theme=dark&exp=1787944224&sig=0AxfbZ_b9Evgr-_sfL30wEq3ZPfCmpLykY83i0aeodU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=185&added=%2B105%2C927&removed=-20%2C188&net=%2B85%2C739&lph=%2B510&theme=light&exp=1787944224&sig=QTI2CzkGq4cjf_NQOoTEDRXctyKrFwcCmVysympNe5Y">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=185&added=%2B105%2C927&removed=-20%2C188&net=%2B85%2C739&lph=%2B510&theme=dark&exp=1787944224&sig=0AxfbZ_b9Evgr-_sfL30wEq3ZPfCmpLykY83i0aeodU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(16 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
