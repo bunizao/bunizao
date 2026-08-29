@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=212&added=%2B117%2C231&removed=-24%2C867&net=%2B92%2C364&lph=%2B550&theme=dark&exp=1788015505&sig=Hhu8iXrhTNYysiwSipt56SQDrnsba_3uHvU5zoB0BVQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=212&added=%2B117%2C231&removed=-24%2C867&net=%2B92%2C364&lph=%2B550&theme=light&exp=1788015505&sig=Vps8qkEcNhquVHmptheHjKYUh7RnAfAQzu7tRvoppKQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=212&added=%2B117%2C231&removed=-24%2C867&net=%2B92%2C364&lph=%2B550&theme=dark&exp=1788015505&sig=Hhu8iXrhTNYysiwSipt56SQDrnsba_3uHvU5zoB0BVQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=284&added=%2B153%2C560&removed=-36%2C164&net=%2B117%2C396&lph=%2B699&theme=dark&exp=1788044365&sig=F6Nsg7IfHV1w4o57cNFiSIa1OAOnBYeQqhlCk9XlCOQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=284&added=%2B153%2C560&removed=-36%2C164&net=%2B117%2C396&lph=%2B699&theme=light&exp=1788044365&sig=TbNJh35HeX2IV1xh2PHp1pHtCAsQr7-AbyE0u6mBAXo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=284&added=%2B153%2C560&removed=-36%2C164&net=%2B117%2C396&lph=%2B699&theme=dark&exp=1788044365&sig=F6Nsg7IfHV1w4o57cNFiSIa1OAOnBYeQqhlCk9XlCOQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(26 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(27 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
