@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=254&added=%2B142%2C885&removed=-40%2C607&net=%2B102%2C278&lph=%2B609&theme=dark&exp=1788182259&sig=agLXulNB54lR3_9ClmnlCjo_4AwNpUv6Smo-p78CdpQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=254&added=%2B142%2C885&removed=-40%2C607&net=%2B102%2C278&lph=%2B609&theme=light&exp=1788182259&sig=jaFBAST6z699wK_16ll9iHUbEgs3UDHgT3H-nOCATa8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=254&added=%2B142%2C885&removed=-40%2C607&net=%2B102%2C278&lph=%2B609&theme=dark&exp=1788182259&sig=agLXulNB54lR3_9ClmnlCjo_4AwNpUv6Smo-p78CdpQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=250&added=%2B141%2C772&removed=-40%2C535&net=%2B101%2C237&lph=%2B603&theme=dark&exp=1788226265&sig=79WCMAWp_n-KEuBhIrhnhIIPetzwjIjL05EDEZK8lAw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=250&added=%2B141%2C772&removed=-40%2C535&net=%2B101%2C237&lph=%2B603&theme=light&exp=1788226265&sig=Pfj_MY0I2utt0yt_XWnGFaS76z984NWOakSyuWo2dlk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=250&added=%2B141%2C772&removed=-40%2C535&net=%2B101%2C237&lph=%2B603&theme=dark&exp=1788226265&sig=79WCMAWp_n-KEuBhIrhnhIIPetzwjIjL05EDEZK8lAw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(23 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(24 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
