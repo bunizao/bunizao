@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=229&added=%2B137%2C441&removed=-38%2C137&net=%2B99%2C304&lph=%2B591&theme=dark&exp=1788402765&sig=CbZQKQFNyCc5fufBG1iqbdpi_OkH-29GMMATPIrz4bc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=229&added=%2B137%2C441&removed=-38%2C137&net=%2B99%2C304&lph=%2B591&theme=light&exp=1788402765&sig=wzkXS03MkCF7EwcHmHglwKbjdlv4OEmB0o_L5oK2avc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=229&added=%2B137%2C441&removed=-38%2C137&net=%2B99%2C304&lph=%2B591&theme=dark&exp=1788402765&sig=CbZQKQFNyCc5fufBG1iqbdpi_OkH-29GMMATPIrz4bc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=221&added=%2B135%2C855&removed=-36%2C078&net=%2B99%2C777&lph=%2B594&theme=dark&exp=1788417074&sig=vIWsL5mIE47uHfLNE91DtDY2M_YzPqp6iPn-cemzzBk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=221&added=%2B135%2C855&removed=-36%2C078&net=%2B99%2C777&lph=%2B594&theme=light&exp=1788417074&sig=n-yzY4HzIqM4o9QErjCdZoFMydVB23fIhJOKv2lalsk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=221&added=%2B135%2C855&removed=-36%2C078&net=%2B99%2C777&lph=%2B594&theme=dark&exp=1788417074&sig=vIWsL5mIE47uHfLNE91DtDY2M_YzPqp6iPn-cemzzBk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(30 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(6 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
