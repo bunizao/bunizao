@@ -28,20 +28,18 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788330698&sig=vH5O7-vOP00cGIuZxVZHl58cpPbAsSNA6ppNQvB0ajA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=light&exp=1788330698&sig=IJ62QvO1WW8Qz9qkzKb15rXGKJnOtct0tM6w-mLVQSI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788330698&sig=vH5O7-vOP00cGIuZxVZHl58cpPbAsSNA6ppNQvB0ajA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788351179&sig=Bfv6PNqRJ1SHttsxuHhomHXgRqlY6WPeKLllIMmX3Bg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=light&exp=1788351179&sig=IWHKtOZME-lgPX8t8MmEtJ_At5CLVVAx4wq9uXJjAO8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788351179&sig=Bfv6PNqRJ1SHttsxuHhomHXgRqlY6WPeKLllIMmX3Bg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(31 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(30 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(7 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/docs">bunizao/docs</a></strong> — No public description.</li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
