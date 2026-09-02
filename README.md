@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788351179&sig=Bfv6PNqRJ1SHttsxuHhomHXgRqlY6WPeKLllIMmX3Bg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=light&exp=1788351179&sig=IWHKtOZME-lgPX8t8MmEtJ_At5CLVVAx4wq9uXJjAO8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788351179&sig=Bfv6PNqRJ1SHttsxuHhomHXgRqlY6WPeKLllIMmX3Bg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788370008&sig=fN8lLiGVr20GyHMm2DgTVtJYAIDRbPckJ4W620-ZEG4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=light&exp=1788370008&sig=XejCLsKtfxQ7H6viR6dKSsym0eB2bzXF2mzLZ6Uynqg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788370008&sig=fN8lLiGVr20GyHMm2DgTVtJYAIDRbPckJ4W620-ZEG4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(30 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/docs">bunizao/docs</a></strong> — No public description.</li>
 </ul>
