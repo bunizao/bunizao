@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788370008&sig=fN8lLiGVr20GyHMm2DgTVtJYAIDRbPckJ4W620-ZEG4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=light&exp=1788370008&sig=XejCLsKtfxQ7H6viR6dKSsym0eB2bzXF2mzLZ6Uynqg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=242&added=%2B139%2C151&removed=-40%2C073&net=%2B99%2C078&lph=%2B590&theme=dark&exp=1788370008&sig=fN8lLiGVr20GyHMm2DgTVtJYAIDRbPckJ4W620-ZEG4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=219&added=%2B134%2C843&removed=-37%2C284&net=%2B97%2C559&lph=%2B581&theme=dark&exp=1788387506&sig=l0jZOe8i-n4s6FZdSH9_j-7RS0aJ8iwiuHVUJmDoUMQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=219&added=%2B134%2C843&removed=-37%2C284&net=%2B97%2C559&lph=%2B581&theme=light&exp=1788387506&sig=Qf21-JvCCdum7YfltR5fwCqLKYycxZ_0Rb0Q3fHl42E">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=219&added=%2B134%2C843&removed=-37%2C284&net=%2B97%2C559&lph=%2B581&theme=dark&exp=1788387506&sig=l0jZOe8i-n4s6FZdSH9_j-7RS0aJ8iwiuHVUJmDoUMQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,8 +38,6 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(30 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(6 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/docs">bunizao/docs</a></strong> — No public description.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(6 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
