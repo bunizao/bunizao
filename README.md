@@ -28,16 +28,16 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=221&added=%2B135%2C855&removed=-36%2C078&net=%2B99%2C777&lph=%2B594&theme=dark&exp=1788437329&sig=kZJ4_Jc_JsrKKKATLKLH-7RHOMiDV324GsF1nzetY4Y">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=221&added=%2B135%2C855&removed=-36%2C078&net=%2B99%2C777&lph=%2B594&theme=light&exp=1788437329&sig=1JF07ArASXw1FTWk8J5t4BIFC1Al8HMN0nbFI9WX7MQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=221&added=%2B135%2C855&removed=-36%2C078&net=%2B99%2C777&lph=%2B594&theme=dark&exp=1788437329&sig=kZJ4_Jc_JsrKKKATLKLH-7RHOMiDV324GsF1nzetY4Y" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=442&added=%2B258%2C269&removed=-56%2C483&net=%2B201%2C786&lph=%2B1%2C201&theme=dark&exp=1788457019&sig=YJMq-_a1YNVXaZTPB_HPrgaUy_IPZtQ3k5U10Ft0670">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=442&added=%2B258%2C269&removed=-56%2C483&net=%2B201%2C786&lph=%2B1%2C201&theme=light&exp=1788457019&sig=BEYp6tWjx-sYSguErh5uu3zgASbNuj-1miKdklL-clw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=442&added=%2B258%2C269&removed=-56%2C483&net=%2B201%2C786&lph=%2B1%2C201&theme=dark&exp=1788457019&sig=YJMq-_a1YNVXaZTPB_HPrgaUy_IPZtQ3k5U10Ft0670" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(27 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(29 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(9 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
