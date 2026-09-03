@@ -28,16 +28,16 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=442&added=%2B258%2C269&removed=-56%2C483&net=%2B201%2C786&lph=%2B1%2C201&theme=dark&exp=1788457019&sig=YJMq-_a1YNVXaZTPB_HPrgaUy_IPZtQ3k5U10Ft0670">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=442&added=%2B258%2C269&removed=-56%2C483&net=%2B201%2C786&lph=%2B1%2C201&theme=light&exp=1788457019&sig=BEYp6tWjx-sYSguErh5uu3zgASbNuj-1miKdklL-clw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=442&added=%2B258%2C269&removed=-56%2C483&net=%2B201%2C786&lph=%2B1%2C201&theme=dark&exp=1788457019&sig=YJMq-_a1YNVXaZTPB_HPrgaUy_IPZtQ3k5U10Ft0670" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=408&added=%2B214%2C016&removed=-48%2C136&net=%2B165%2C880&lph=%2B987&theme=dark&exp=1788474083&sig=r5Qqp4apNlWelTF9O3tTLzHiZL5FhM4KeliE4pqtJHY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=408&added=%2B214%2C016&removed=-48%2C136&net=%2B165%2C880&lph=%2B987&theme=light&exp=1788474083&sig=RHLMPR8xjHR2tCowF-6iDsNI7Wgr9EoyUEORKZNZYos">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=408&added=%2B214%2C016&removed=-48%2C136&net=%2B165%2C880&lph=%2B987&theme=dark&exp=1788474083&sig=r5Qqp4apNlWelTF9O3tTLzHiZL5FhM4KeliE4pqtJHY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(29 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(30 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(10 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
