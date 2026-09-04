@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=393&added=%2B197%2C853&removed=-46%2C703&net=%2B151%2C150&lph=%2B900&theme=dark&exp=1788524172&sig=4bEWYpnzVI-_0ZJE26cEstpgIdw5-Pt4wX7jAfUlA-g">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=393&added=%2B197%2C853&removed=-46%2C703&net=%2B151%2C150&lph=%2B900&theme=light&exp=1788524172&sig=NFvb4jmhzFyngGmQ2zopE9k4HOHV3CE1i_kkXsyTerY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=2&commits=393&added=%2B197%2C853&removed=-46%2C703&net=%2B151%2C150&lph=%2B900&theme=dark&exp=1788524172&sig=4bEWYpnzVI-_0ZJE26cEstpgIdw5-Pt4wX7jAfUlA-g" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=393&added=%2B197%2C853&removed=-46%2C703&net=%2B151%2C150&lph=%2B900&theme=dark&exp=1788542920&sig=kDUunu4YtM4Ri7XY1_EwJ_WP6PPd8eBcT1QD3DJNG4M">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=393&added=%2B197%2C853&removed=-46%2C703&net=%2B151%2C150&lph=%2B900&theme=light&exp=1788542920&sig=XSphejFoUREtJNvWPPK-x3fWk91HbcOP_EJnR6o2adM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=393&added=%2B197%2C853&removed=-46%2C703&net=%2B151%2C150&lph=%2B900&theme=dark&exp=1788542920&sig=kDUunu4YtM4Ri7XY1_EwJ_WP6PPd8eBcT1QD3DJNG4M" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,6 +38,8 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(25 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(9 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
