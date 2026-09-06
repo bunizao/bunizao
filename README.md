@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=251&added=%2B101%2C047&removed=-19%2C593&net=%2B81%2C454&lph=%2B485&theme=dark&exp=1788715046&sig=PAKWun61aFv64SOfkYI4UmHT7cbrdvtacNYtJm7oaEI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=251&added=%2B101%2C047&removed=-19%2C593&net=%2B81%2C454&lph=%2B485&theme=light&exp=1788715046&sig=Qs6ypf1ah1IDDqsWI_pFIS1M0cSz3-5iJQFWYqSzjY0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=251&added=%2B101%2C047&removed=-19%2C593&net=%2B81%2C454&lph=%2B485&theme=dark&exp=1788715046&sig=PAKWun61aFv64SOfkYI4UmHT7cbrdvtacNYtJm7oaEI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=286&added=%2B117%2C651&removed=-14%2C097&net=%2B103%2C554&lph=%2B616&theme=dark&exp=1788730389&sig=lArq2tHMH7jxbj14ngoPhwAluSxM2EnMuvD0KRGu0ro">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=286&added=%2B117%2C651&removed=-14%2C097&net=%2B103%2C554&lph=%2B616&theme=light&exp=1788730389&sig=YOwffrqHe8TqcO18cxXCvhkz0anTHQdWkFY1PnK-98c">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=286&added=%2B117%2C651&removed=-14%2C097&net=%2B103%2C554&lph=%2B616&theme=dark&exp=1788730389&sig=lArq2tHMH7jxbj14ngoPhwAluSxM2EnMuvD0KRGu0ro" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(19 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(8 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(9 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 </ul>
