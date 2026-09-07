@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=265&added=%2B113%2C444&removed=-13%2C825&net=%2B99%2C619&lph=%2B593&theme=dark&exp=1788804411&sig=-NZLgkXgbwEUY3B8-1yGyDQVWVroJd3ARWtlT0xhdqU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=265&added=%2B113%2C444&removed=-13%2C825&net=%2B99%2C619&lph=%2B593&theme=light&exp=1788804411&sig=61-KseFeE9afJx5lAxXRkum-G9fNXi4-Y5caI_WLQ7E">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=265&added=%2B113%2C444&removed=-13%2C825&net=%2B99%2C619&lph=%2B593&theme=dark&exp=1788804411&sig=-NZLgkXgbwEUY3B8-1yGyDQVWVroJd3ARWtlT0xhdqU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=251&added=%2B107%2C405&removed=-13%2C070&net=%2B94%2C335&lph=%2B562&theme=dark&exp=1788836707&sig=wojnT03WD5pU_ljE5-wtSrOFW7uakO5aIm09b5iPw8w">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=251&added=%2B107%2C405&removed=-13%2C070&net=%2B94%2C335&lph=%2B562&theme=light&exp=1788836707&sig=FZx3buzI6BKTUZBwn9ohzsWictCTKg57XAmXJNFDUPs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=251&added=%2B107%2C405&removed=-13%2C070&net=%2B94%2C335&lph=%2B562&theme=dark&exp=1788836707&sig=wojnT03WD5pU_ljE5-wtSrOFW7uakO5aIm09b5iPw8w" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(22 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(24 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(11 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(12 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 </ul>
