@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=293&added=%2B146%2C556&removed=-16%2C070&net=%2B130%2C486&lph=%2B777&theme=dark&exp=1788888661&sig=xzoX4j0cd5aHx7Udvml2D18g_l127MBYeSOJY9K7qdY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=293&added=%2B146%2C556&removed=-16%2C070&net=%2B130%2C486&lph=%2B777&theme=light&exp=1788888661&sig=DnycjWXjsG6tMLj7HK3kC_i5vDMmoP2KHnfdpMqalTc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=293&added=%2B146%2C556&removed=-16%2C070&net=%2B130%2C486&lph=%2B777&theme=dark&exp=1788888661&sig=xzoX4j0cd5aHx7Udvml2D18g_l127MBYeSOJY9K7qdY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=288&added=%2B146%2C380&removed=-16%2C030&net=%2B130%2C350&lph=%2B776&theme=dark&exp=1788906106&sig=Tc_6Rc7iVY5FBypXXoYdrM2_jeicPv1m69flUpHDQJE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=288&added=%2B146%2C380&removed=-16%2C030&net=%2B130%2C350&lph=%2B776&theme=light&exp=1788906106&sig=GAc9-upBnVGiECJ8jT1DfoHk7nT86FzOF0WGSMwYmuw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=288&added=%2B146%2C380&removed=-16%2C030&net=%2B130%2C350&lph=%2B776&theme=dark&exp=1788906106&sig=Tc_6Rc7iVY5FBypXXoYdrM2_jeicPv1m69flUpHDQJE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(24 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(12 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(12 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 </ul>
