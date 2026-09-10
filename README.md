@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=208&added=%2B87%2C073&removed=-9%2C474&net=%2B77%2C599&lph=%2B462&theme=dark&exp=1789061639&sig=60rh1L_A328Kg7rQaRW2R0NhckHyJijdrrjRVxOKfvI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=208&added=%2B87%2C073&removed=-9%2C474&net=%2B77%2C599&lph=%2B462&theme=light&exp=1789061639&sig=ChcV1bB3GK0eQhKXr_0kJON26vzW5ZgddyQDp18gD9Y">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=208&added=%2B87%2C073&removed=-9%2C474&net=%2B77%2C599&lph=%2B462&theme=dark&exp=1789061639&sig=60rh1L_A328Kg7rQaRW2R0NhckHyJijdrrjRVxOKfvI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=247&added=%2B74%2C247&removed=-11%2C065&net=%2B63%2C182&lph=%2B376&theme=dark&exp=1789078523&sig=TBWvZHRFqEBH_ZjfYJRsQtm1hOgS_lJWRK6B_uZPNTw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=247&added=%2B74%2C247&removed=-11%2C065&net=%2B63%2C182&lph=%2B376&theme=light&exp=1789078523&sig=UkGjXITHWrFRp_UafttcFTKfPyYt06_aMpZXpDYJeic">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=3&commits=247&added=%2B74%2C247&removed=-11%2C065&net=%2B63%2C182&lph=%2B376&theme=dark&exp=1789078523&sig=TBWvZHRFqEBH_ZjfYJRsQtm1hOgS_lJWRK6B_uZPNTw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(20 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(22 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(12 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(12 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 </ul>
