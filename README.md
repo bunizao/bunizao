@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=259&added=%2B90%2C492&removed=-10%2C805&net=%2B79%2C687&lph=%2B474&theme=dark&exp=1789263838&sig=ES6-jC6mS-atY-hUZqYXBDoEz8Y4liHCAExY2SQfQ-8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=259&added=%2B90%2C492&removed=-10%2C805&net=%2B79%2C687&lph=%2B474&theme=light&exp=1789263838&sig=GXs2c0Ej-nLEuQZ_53RJDi17iUIgXZyGx2z-Pzwvy4s">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=259&added=%2B90%2C492&removed=-10%2C805&net=%2B79%2C687&lph=%2B474&theme=dark&exp=1789263838&sig=ES6-jC6mS-atY-hUZqYXBDoEz8Y4liHCAExY2SQfQ-8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=228&added=%2B82%2C974&removed=-10%2C259&net=%2B72%2C715&lph=%2B433&theme=dark&exp=1789279787&sig=LxptDU1cQ4_U2mxrKMYYLBJ4j7sa6oRupvV6Hyj1xVo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=228&added=%2B82%2C974&removed=-10%2C259&net=%2B72%2C715&lph=%2B433&theme=light&exp=1789279787&sig=WWt3MxO6t_uccgxhHcTQwTLQBKh9WTe-DpstzVYgU1w">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=228&added=%2B82%2C974&removed=-10%2C259&net=%2B72%2C715&lph=%2B433&theme=dark&exp=1789279787&sig=LxptDU1cQ4_U2mxrKMYYLBJ4j7sa6oRupvV6Hyj1xVo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(26 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(14 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(14 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/uptime">bunizao/uptime</a></strong> — No public description. <em>(3 issues)</em></li>
 </ul>
