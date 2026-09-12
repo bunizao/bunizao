@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=275&added=%2B88%2C815&removed=-10%2C999&net=%2B77%2C816&lph=%2B463&theme=dark&exp=1789233010&sig=5-_rqJBVOfg4Qh5YNj76A17KrHxukYp_sSRJDlEIfxw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=275&added=%2B88%2C815&removed=-10%2C999&net=%2B77%2C816&lph=%2B463&theme=light&exp=1789233010&sig=wSAyIA13AMrHn9bXpQxhOyocqivLTGwu9ebuqdz_i_s">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=275&added=%2B88%2C815&removed=-10%2C999&net=%2B77%2C816&lph=%2B463&theme=dark&exp=1789233010&sig=5-_rqJBVOfg4Qh5YNj76A17KrHxukYp_sSRJDlEIfxw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=280&added=%2B92%2C259&removed=-11%2C198&net=%2B81%2C061&lph=%2B483&theme=dark&exp=1789248632&sig=RHnCp0sF2qZI0T-luy3afE-2T8W1atq3_FiLC0-zGMw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=280&added=%2B92%2C259&removed=-11%2C198&net=%2B81%2C061&lph=%2B483&theme=light&exp=1789248632&sig=OjGGDiYEK5fTX9giDANUDMAxoMy0UrGGYnOWwDjLkw4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=280&added=%2B92%2C259&removed=-11%2C198&net=%2B81%2C061&lph=%2B483&theme=dark&exp=1789248632&sig=RHnCp0sF2qZI0T-luy3afE-2T8W1atq3_FiLC0-zGMw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(25 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(26 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(14 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong><a href="https://github.com/bunizao/uptime">bunizao/uptime</a></strong> — No public description. <em>(2 issues)</em></li>
 </ul>
