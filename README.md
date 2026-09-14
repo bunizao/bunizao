@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B118%2C869&removed=-16%2C176&net=%2B102%2C693&lph=%2B611&theme=dark&exp=1789444090&sig=5SlCEkGQSTk82zt_3ffEk_HfJ2cxnPB5OupAo5iYmNk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B118%2C869&removed=-16%2C176&net=%2B102%2C693&lph=%2B611&theme=light&exp=1789444090&sig=NHh4a9cVJjYXWQSdTvy1tpdgMWPoOmCccNDC7UOv7xo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B118%2C869&removed=-16%2C176&net=%2B102%2C693&lph=%2B611&theme=dark&exp=1789444090&sig=5SlCEkGQSTk82zt_3ffEk_HfJ2cxnPB5OupAo5iYmNk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B118%2C869&removed=-16%2C176&net=%2B102%2C693&lph=%2B611&theme=dark&exp=1789455823&sig=7Yg8hrkpnj_yhOxHwWQLLDkVmSu9TAY-qzz1ySQgGhk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B118%2C869&removed=-16%2C176&net=%2B102%2C693&lph=%2B611&theme=light&exp=1789455823&sig=A1GJdrDSfXsRNsCsj0-Nm47sIx1qXld093sCj0EnB9k">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B118%2C869&removed=-16%2C176&net=%2B102%2C693&lph=%2B611&theme=dark&exp=1789455823&sig=7Yg8hrkpnj_yhOxHwWQLLDkVmSu9TAY-qzz1ySQgGhk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(24 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(12 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(12 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
