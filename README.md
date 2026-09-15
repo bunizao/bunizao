@@ -28,21 +28,23 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B111%2C127&removed=-16%2C235&net=%2B94%2C892&lph=%2B565&theme=dark&exp=1789495097&sig=TlnYUIvDt2xWv6TFOoPC3ZBMDqNsP15KUepnID7SO_M">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B111%2C127&removed=-16%2C235&net=%2B94%2C892&lph=%2B565&theme=light&exp=1789495097&sig=3ULeDr7EPQ6ECohT7sXYZSWic97rcJWT2PCQqFDL1y0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=240&added=%2B111%2C127&removed=-16%2C235&net=%2B94%2C892&lph=%2B565&theme=dark&exp=1789495097&sig=TlnYUIvDt2xWv6TFOoPC3ZBMDqNsP15KUepnID7SO_M" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=248&added=%2B214%2C224&removed=-21%2C203&net=%2B193%2C021&lph=%2B1%2C149&theme=dark&exp=1789512834&sig=QKKHySSe-UDzCiPjkLXIiV3w11fBCsgxsgBc9uNvaY8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=248&added=%2B214%2C224&removed=-21%2C203&net=%2B193%2C021&lph=%2B1%2C149&theme=light&exp=1789512834&sig=A7XyG4BKLp158rw-zb57Y7NOasWw3XQJXOkai_rCkB4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=248&added=%2B214%2C224&removed=-21%2C203&net=%2B193%2C021&lph=%2B1%2C149&theme=dark&exp=1789512834&sig=QKKHySSe-UDzCiPjkLXIiV3w11fBCsgxsgBc9uNvaY8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(19 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(11 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(11 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
   <li><strong><a href="https://github.com/bunizao/uptime">bunizao/uptime</a></strong> — No public description. <em>(3 issues)</em></li>
 </ul>
