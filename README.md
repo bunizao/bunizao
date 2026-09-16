@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B213%2C510&removed=-20%2C996&net=%2B192%2C514&lph=%2B1%2C146&theme=dark&exp=1789541398&sig=DVu1-ct19_NzKraFiVRt1YP1Pu_PGl_QiKXm7885HbI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B213%2C510&removed=-20%2C996&net=%2B192%2C514&lph=%2B1%2C146&theme=light&exp=1789541398&sig=mxXN3vpE8gr6f9WBHJUSFZMWCqSbIvzWS0MsORJ3u60">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B213%2C510&removed=-20%2C996&net=%2B192%2C514&lph=%2B1%2C146&theme=dark&exp=1789541398&sig=DVu1-ct19_NzKraFiVRt1YP1Pu_PGl_QiKXm7885HbI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B213%2C510&removed=-20%2C996&net=%2B192%2C514&lph=%2B1%2C146&theme=dark&exp=1789562191&sig=TMrKJSuitDZNAsex1BzpCaAUNb4it_fwX0YitHLJ278">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B213%2C510&removed=-20%2C996&net=%2B192%2C514&lph=%2B1%2C146&theme=light&exp=1789562191&sig=SvEpOMIVVvrt-R0LVg7iR4W6M_wM46J779OWHyxIhHI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=243&added=%2B213%2C510&removed=-20%2C996&net=%2B192%2C514&lph=%2B1%2C146&theme=dark&exp=1789562191&sig=TMrKJSuitDZNAsex1BzpCaAUNb4it_fwX0YitHLJ278" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(20 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(15 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(11 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(9 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
