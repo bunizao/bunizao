@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=238&added=%2B220%2C206&removed=-28%2C902&net=%2B191%2C304&lph=%2B1%2C139&theme=dark&exp=1789598810&sig=sUZQWDFW-iZyzNf9JMWmO6px5AV0C-LA6ziWdhs_oUI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=238&added=%2B220%2C206&removed=-28%2C902&net=%2B191%2C304&lph=%2B1%2C139&theme=light&exp=1789598810&sig=xi9dWZ-ZUb92r5trAGikKu_GtAvGrLR3ZlXqQJfEhCM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=238&added=%2B220%2C206&removed=-28%2C902&net=%2B191%2C304&lph=%2B1%2C139&theme=dark&exp=1789598810&sig=sUZQWDFW-iZyzNf9JMWmO6px5AV0C-LA6ziWdhs_oUI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=237&added=%2B220%2C201&removed=-28%2C901&net=%2B191%2C300&lph=%2B1%2C139&theme=dark&exp=1789613278&sig=nmj4QNb5BGgD7lM9aBVyT6nWvnNWJ8q8r8HUjaYXieE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=237&added=%2B220%2C201&removed=-28%2C901&net=%2B191%2C300&lph=%2B1%2C139&theme=light&exp=1789613278&sig=lhBXwu3G6rXmSYZlepvrtnaA8dUXHUsoCUwf3CxKnGs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=237&added=%2B220%2C201&removed=-28%2C901&net=%2B191%2C300&lph=%2B1%2C139&theme=dark&exp=1789613278&sig=nmj4QNb5BGgD7lM9aBVyT6nWvnNWJ8q8r8HUjaYXieE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,11 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(15 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(9 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
