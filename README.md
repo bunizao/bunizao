@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=225&added=%2B219%2C146&removed=-28%2C624&net=%2B190%2C522&lph=%2B1%2C134&theme=dark&exp=1789667748&sig=h1GmudffbW0Kx2xoLUjrsT7ExtL9FSUGIwioOlrl5EM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=225&added=%2B219%2C146&removed=-28%2C624&net=%2B190%2C522&lph=%2B1%2C134&theme=light&exp=1789667748&sig=OlzMHATmCQ_QNwbSPNYI6Tx4EIL51bzAI3GNy9isIxw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=225&added=%2B219%2C146&removed=-28%2C624&net=%2B190%2C522&lph=%2B1%2C134&theme=dark&exp=1789667748&sig=h1GmudffbW0Kx2xoLUjrsT7ExtL9FSUGIwioOlrl5EM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=210&added=%2B212%2C622&removed=-25%2C179&net=%2B187%2C443&lph=%2B1%2C116&theme=dark&exp=1789685439&sig=2wL7cWOp7X5NDaL6uKheEfaC_mirefBXammpNcSNfcA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=210&added=%2B212%2C622&removed=-25%2C179&net=%2B187%2C443&lph=%2B1%2C116&theme=light&exp=1789685439&sig=9CoM_Iq2nAl5DRDr5VNcPi1wkOoPKHVFQpaBl5POs-A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=210&added=%2B212%2C622&removed=-25%2C179&net=%2B187%2C443&lph=%2B1%2C116&theme=dark&exp=1789685439&sig=2wL7cWOp7X5NDaL6uKheEfaC_mirefBXammpNcSNfcA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(15 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(9 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(9 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(15 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
