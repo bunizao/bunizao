@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=236&added=%2B220%2C036&removed=-28%2C892&net=%2B191%2C144&lph=%2B1%2C138&theme=dark&exp=1789627803&sig=s3IAO0kWyIBgjqhuhkLsqEngfHuURree-j_gFdL5r7I">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=236&added=%2B220%2C036&removed=-28%2C892&net=%2B191%2C144&lph=%2B1%2C138&theme=light&exp=1789627803&sig=Bs9hfnc3OTpQFQh9vDhuRALANCE_1P8gtVKuYSG538k">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=236&added=%2B220%2C036&removed=-28%2C892&net=%2B191%2C144&lph=%2B1%2C138&theme=dark&exp=1789627803&sig=s3IAO0kWyIBgjqhuhkLsqEngfHuURree-j_gFdL5r7I" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=236&added=%2B220%2C036&removed=-28%2C892&net=%2B191%2C144&lph=%2B1%2C138&theme=dark&exp=1789648888&sig=nuBoPrFM1Isu93oCDBJQN6Vz8gNUeaRCkj4f_WqcN5A">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=236&added=%2B220%2C036&removed=-28%2C892&net=%2B191%2C144&lph=%2B1%2C138&theme=light&exp=1789648888&sig=7NMDlacrCpbERoiTT9UKINwkqT_nvarRUoYyxntrd_w">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=236&added=%2B220%2C036&removed=-28%2C892&net=%2B191%2C144&lph=%2B1%2C138&theme=dark&exp=1789648888&sig=nuBoPrFM1Isu93oCDBJQN6Vz8gNUeaRCkj4f_WqcN5A" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,7 +42,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
