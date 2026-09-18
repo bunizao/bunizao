@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=183&added=%2B208%2C133&removed=-24%2C274&net=%2B183%2C859&lph=%2B1%2C094&theme=dark&exp=1789734405&sig=y8IVxUo-f-nuu7aLFlS_u28L-cI2jgMtG4Od79ix-Wg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=183&added=%2B208%2C133&removed=-24%2C274&net=%2B183%2C859&lph=%2B1%2C094&theme=light&exp=1789734405&sig=G0DCG1SrzzdBdk0nmd_Yb6Uej2h8hfLDjVA8tdURVfQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=183&added=%2B208%2C133&removed=-24%2C274&net=%2B183%2C859&lph=%2B1%2C094&theme=dark&exp=1789734405&sig=y8IVxUo-f-nuu7aLFlS_u28L-cI2jgMtG4Od79ix-Wg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=179&added=%2B204%2C873&removed=-23%2C180&net=%2B181%2C693&lph=%2B1%2C082&theme=dark&exp=1789752875&sig=3XIu9zNB4cGCMRwNUOKFiUhpn8fRm1EMfVEpIBUKPJM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=179&added=%2B204%2C873&removed=-23%2C180&net=%2B181%2C693&lph=%2B1%2C082&theme=light&exp=1789752875&sig=SJagD-KW1Qpn7eiLG7_1xdPtaXPWsTU4tvEony-tZV8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=179&added=%2B204%2C873&removed=-23%2C180&net=%2B181%2C693&lph=%2B1%2C082&theme=dark&exp=1789752875&sig=3XIu9zNB4cGCMRwNUOKFiUhpn8fRm1EMfVEpIBUKPJM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,11 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(11 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(5 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
-
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
