@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=179&added=%2B191%2C076&removed=-24%2C500&net=%2B166%2C576&lph=%2B992&theme=dark&exp=1789854673&sig=ZYVgeXcucY594-if3djO7l327dldbTnWd1PAHZza2og">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=179&added=%2B191%2C076&removed=-24%2C500&net=%2B166%2C576&lph=%2B992&theme=light&exp=1789854673&sig=ITYO4d9hcbBPZOGj6ZtRRwuLcUcsZ5QjAwi5ikRwD5Y">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=179&added=%2B191%2C076&removed=-24%2C500&net=%2B166%2C576&lph=%2B992&theme=dark&exp=1789854673&sig=ZYVgeXcucY594-if3djO7l327dldbTnWd1PAHZza2og" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=174&added=%2B189%2C367&removed=-24%2C452&net=%2B164%2C915&lph=%2B982&theme=dark&exp=1789869296&sig=l9aMiaflikvQT17isUraAsX7HM6UMHjPaFlLFv8d0QI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=174&added=%2B189%2C367&removed=-24%2C452&net=%2B164%2C915&lph=%2B982&theme=light&exp=1789869296&sig=k-FCBkQaeIua9zVcwEr5hsm7CvfGrF14iT9qQbc-my0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=174&added=%2B189%2C367&removed=-24%2C452&net=%2B164%2C915&lph=%2B982&theme=dark&exp=1789869296&sig=l9aMiaflikvQT17isUraAsX7HM6UMHjPaFlLFv8d0QI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,13 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(8 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(4 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(9 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
-
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
