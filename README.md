@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B188%2C849&removed=-23%2C950&net=%2B164%2C899&lph=%2B982&theme=dark&exp=1789820640&sig=HgZ9ael-8lhBg0-oeJ7bofY-ak1Ns4ukn0PIDYAz5kE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B188%2C849&removed=-23%2C950&net=%2B164%2C899&lph=%2B982&theme=light&exp=1789820640&sig=_u_qXbVgd7Xo8NoVM6NrgTd_1jzEUdUEFGWRL3P2szc">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=160&added=%2B188%2C849&removed=-23%2C950&net=%2B164%2C899&lph=%2B982&theme=dark&exp=1789820640&sig=HgZ9ael-8lhBg0-oeJ7bofY-ak1Ns4ukn0PIDYAz5kE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=147&added=%2B186%2C402&removed=-23%2C651&net=%2B162%2C751&lph=%2B969&theme=dark&exp=1789838512&sig=8Qw8zyTCo69PJJ7mW2tWr0oTtXctbFzUISE6v-k0fBc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=147&added=%2B186%2C402&removed=-23%2C651&net=%2B162%2C751&lph=%2B969&theme=light&exp=1789838512&sig=OdLouDHg9gybUBc6ys-uUHQdhUyZhBAfqD3gpjO51tI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=147&added=%2B186%2C402&removed=-23%2C651&net=%2B162%2C751&lph=%2B969&theme=dark&exp=1789838512&sig=8Qw8zyTCo69PJJ7mW2tWr0oTtXctbFzUISE6v-k0fBc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,11 +38,11 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(8 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
