@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789956600&sig=dBbqBTQbIwRiv8cWqrYQo3TlbQLQHIl_kDzvzamkfFY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=light&exp=1789956600&sig=USkBYKdiT-30Rl-Di2pLLXKvne5qP3A-ffdBllKNh3A">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789956600&sig=dBbqBTQbIwRiv8cWqrYQo3TlbQLQHIl_kDzvzamkfFY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789971686&sig=59mHHQFmSGBS79kRuyUMV_oc7lmD8kWI53g7gSmwMRI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=light&exp=1789971686&sig=2L508v_uO5KU_odaxHERzFmEqpa4KMhffnTZoGDPgHM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789971686&sig=59mHHQFmSGBS79kRuyUMV_oc7lmD8kWI53g7gSmwMRI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,7 +46,7 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(3 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 </ul>
