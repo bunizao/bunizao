@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789994447&sig=uGIOwUYT6fjQN4zKFPKRPKQvH7pQVr2q39Adfbghq1c">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=light&exp=1789994447&sig=Xt_xeaQcmhMUsgkdxU0-eGhDlLSg_yN_Nwr91IAj_XI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789994447&sig=uGIOwUYT6fjQN4zKFPKRPKQvH7pQVr2q39Adfbghq1c" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1790015746&sig=BFRny3ucYMsEbLUVOzmM5fFQPn1ubMw6fXuPFd_qtAQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=light&exp=1790015746&sig=c_drke7n1m6EY8t4gRUTeqfxirh5rIyUlbBv-lZ5XvU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1790015746&sig=BFRny3ucYMsEbLUVOzmM5fFQPn1ubMw6fXuPFd_qtAQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,7 +46,7 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 </ul>
