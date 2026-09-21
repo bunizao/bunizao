@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789971686&sig=59mHHQFmSGBS79kRuyUMV_oc7lmD8kWI53g7gSmwMRI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=light&exp=1789971686&sig=2L508v_uO5KU_odaxHERzFmEqpa4KMhffnTZoGDPgHM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789971686&sig=59mHHQFmSGBS79kRuyUMV_oc7lmD8kWI53g7gSmwMRI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789994447&sig=uGIOwUYT6fjQN4zKFPKRPKQvH7pQVr2q39Adfbghq1c">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=light&exp=1789994447&sig=Xt_xeaQcmhMUsgkdxU0-eGhDlLSg_yN_Nwr91IAj_XI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B143%2C132&removed=-20%2C631&net=%2B122%2C501&lph=%2B729&theme=dark&exp=1789994447&sig=uGIOwUYT6fjQN4zKFPKRPKQvH7pQVr2q39Adfbghq1c" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,11 +42,11 @@
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(6 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 </ul>
