@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=dark&exp=1790131438&sig=fQlFhm7wjxZAgCY1OSuxjl_06Mr39ppij4mxUgmAN3U">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=light&exp=1790131438&sig=1MOS0HfwdQBXp7wYezjqIfuWPek73zi27IgGHLFfLkk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=dark&exp=1790131438&sig=fQlFhm7wjxZAgCY1OSuxjl_06Mr39ppij4mxUgmAN3U" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=dark&exp=1790146329&sig=6kqteuUqW_QhIVa3IZzg7fzCR1kUItSGn0sp1JSgAto">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=light&exp=1790146329&sig=di6w5MSwFqQnP8AJGuRZlOjOqc-ZaAO3adBOsIjtzL0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=dark&exp=1790146329&sig=6kqteuUqW_QhIVa3IZzg7fzCR1kUItSGn0sp1JSgAto" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,8 +46,8 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
-
   <li><strong>bunizao/private-repo</strong> — Shh.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
