@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=154&added=%2B56%2C649&removed=-9%2C524&net=%2B47%2C125&lph=%2B281&theme=dark&exp=1790116722&sig=9oF8bGlDU9Fywf5xyhG6-5EPURGVFX1qHCCvPN0C1M4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=154&added=%2B56%2C649&removed=-9%2C524&net=%2B47%2C125&lph=%2B281&theme=light&exp=1790116722&sig=BMYrdGiiVo1XkDsfcZMq8YGRSY8vlSlZM3wLBSo54e8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=154&added=%2B56%2C649&removed=-9%2C524&net=%2B47%2C125&lph=%2B281&theme=dark&exp=1790116722&sig=9oF8bGlDU9Fywf5xyhG6-5EPURGVFX1qHCCvPN0C1M4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=dark&exp=1790131438&sig=fQlFhm7wjxZAgCY1OSuxjl_06Mr39ppij4mxUgmAN3U">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=light&exp=1790131438&sig=1MOS0HfwdQBXp7wYezjqIfuWPek73zi27IgGHLFfLkk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=147&added=%2B56%2C151&removed=-9%2C330&net=%2B46%2C821&lph=%2B279&theme=dark&exp=1790131438&sig=fQlFhm7wjxZAgCY1OSuxjl_06Mr39ppij4mxUgmAN3U" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,8 +46,8 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
