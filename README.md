@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=172&added=%2B163%2C191&removed=-18%2C601&net=%2B144%2C590&lph=%2B861&theme=dark&exp=1790099368&sig=GIHErMKpDgnidOWAR3MGtzDj1Tevw1qtQwAnpd78LWw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=172&added=%2B163%2C191&removed=-18%2C601&net=%2B144%2C590&lph=%2B861&theme=light&exp=1790099368&sig=lsWQFT_jVmnywZaXyUdwsqDjW-dNu2lvKeaibULAtCs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=172&added=%2B163%2C191&removed=-18%2C601&net=%2B144%2C590&lph=%2B861&theme=dark&exp=1790099368&sig=GIHErMKpDgnidOWAR3MGtzDj1Tevw1qtQwAnpd78LWw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=154&added=%2B56%2C649&removed=-9%2C524&net=%2B47%2C125&lph=%2B281&theme=dark&exp=1790116722&sig=9oF8bGlDU9Fywf5xyhG6-5EPURGVFX1qHCCvPN0C1M4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=154&added=%2B56%2C649&removed=-9%2C524&net=%2B47%2C125&lph=%2B281&theme=light&exp=1790116722&sig=BMYrdGiiVo1XkDsfcZMq8YGRSY8vlSlZM3wLBSo54e8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=154&added=%2B56%2C649&removed=-9%2C524&net=%2B47%2C125&lph=%2B281&theme=dark&exp=1790116722&sig=9oF8bGlDU9Fywf5xyhG6-5EPURGVFX1qHCCvPN0C1M4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -48,8 +48,6 @@
 
   <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
-
-  <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
