@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=153&added=%2B155%2C745&removed=-17%2C984&net=%2B137%2C761&lph=%2B820&theme=dark&exp=1790061069&sig=RelJlVKrypkFm04kJDcoVsPRyrUmpcgl79lO-_sDYWs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=153&added=%2B155%2C745&removed=-17%2C984&net=%2B137%2C761&lph=%2B820&theme=light&exp=1790061069&sig=ZnR-TxKXvVPPmKGORBgZnMX7fEq_bkxvj6TwrCZGLT4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=153&added=%2B155%2C745&removed=-17%2C984&net=%2B137%2C761&lph=%2B820&theme=dark&exp=1790061069&sig=RelJlVKrypkFm04kJDcoVsPRyrUmpcgl79lO-_sDYWs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=153&added=%2B155%2C745&removed=-17%2C984&net=%2B137%2C761&lph=%2B820&theme=dark&exp=1790080630&sig=4LxhkiL2Oiqa6n104TpcisW5MwKpeohbNyDHeDI6gsw">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=153&added=%2B155%2C745&removed=-17%2C984&net=%2B137%2C761&lph=%2B820&theme=light&exp=1790080630&sig=6NMZYSiFkuU8dP-HKTJl-gYkBmvcrOsQyuliMxIULb4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=153&added=%2B155%2C745&removed=-17%2C984&net=%2B137%2C761&lph=%2B820&theme=dark&exp=1790080630&sig=4LxhkiL2Oiqa6n104TpcisW5MwKpeohbNyDHeDI6gsw" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,9 +46,9 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 </ul>
