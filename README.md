@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=143&added=%2B55%2C824&removed=-9%2C246&net=%2B46%2C578&lph=%2B277&theme=dark&exp=1790166786&sig=Cm1TQeyCBaWXD533eWKxVOiDD4ZpyWcINfTmqxUZmQs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=143&added=%2B55%2C824&removed=-9%2C246&net=%2B46%2C578&lph=%2B277&theme=light&exp=1790166786&sig=t4xOOi8VADU0jFMVO6Sz2X_bYcmb4mXTFoq6qH5r7vo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=143&added=%2B55%2C824&removed=-9%2C246&net=%2B46%2C578&lph=%2B277&theme=dark&exp=1790166786&sig=Cm1TQeyCBaWXD533eWKxVOiDD4ZpyWcINfTmqxUZmQs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=137&added=%2B52%2C058&removed=-5%2C238&net=%2B46%2C820&lph=%2B279&theme=dark&exp=1790185906&sig=WiogY_o8wCQsW0ax5l7ae6da71fwtLkr2FAJuQbxm-U">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=137&added=%2B52%2C058&removed=-5%2C238&net=%2B46%2C820&lph=%2B279&theme=light&exp=1790185906&sig=w78a-0SznoGrk2SpQDrEgdaPB8C9BSjjtfuEDS_nUMI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=137&added=%2B52%2C058&removed=-5%2C238&net=%2B46%2C820&lph=%2B279&theme=dark&exp=1790185906&sig=WiogY_o8wCQsW0ax5l7ae6da71fwtLkr2FAJuQbxm-U" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,8 +46,8 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
