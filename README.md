@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=153&added=%2B54%2C622&removed=-5%2C660&net=%2B48%2C962&lph=%2B291&theme=dark&exp=1790218650&sig=rpJWdHyT3uoXFbs2gju9DrBkebIu5osjAwCRGbTxDls">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=153&added=%2B54%2C622&removed=-5%2C660&net=%2B48%2C962&lph=%2B291&theme=light&exp=1790218650&sig=qrkbwFc8S4q-bGbWUtfsRjO7iNNbSBEh1MaoVeuIhXY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=153&added=%2B54%2C622&removed=-5%2C660&net=%2B48%2C962&lph=%2B291&theme=dark&exp=1790218650&sig=rpJWdHyT3uoXFbs2gju9DrBkebIu5osjAwCRGbTxDls" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=153&added=%2B54%2C622&removed=-5%2C660&net=%2B48%2C962&lph=%2B291&theme=dark&exp=1790232753&sig=Uez1iZQ0K3VgG4PVtf8y2P1X_kkWeakoNAqwYxZcQ-s">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=153&added=%2B54%2C622&removed=-5%2C660&net=%2B48%2C962&lph=%2B291&theme=light&exp=1790232753&sig=tTUgHAdlCxmHvoDkWg5mIGL5Ujd76kkc46p6aqpLoEI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=153&added=%2B54%2C622&removed=-5%2C660&net=%2B48%2C962&lph=%2B291&theme=dark&exp=1790232753&sig=Uez1iZQ0K3VgG4PVtf8y2P1X_kkWeakoNAqwYxZcQ-s" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -46,8 +46,8 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
