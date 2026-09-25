@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790392344&sig=FeS61eFl_vwZWXO1UAnCTQJRolkysLjeYbgKl3seok4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=light&exp=1790392344&sig=2sk36EPCYHhpB1bo3Qdo2xrpvSGB3drHO5DHCRe9bwk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790392344&sig=FeS61eFl_vwZWXO1UAnCTQJRolkysLjeYbgKl3seok4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790406806&sig=43nLL7eUmv2uNpC6sqJbhkC8rpZ44hkZWvVtm5RNUhg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=light&exp=1790406806&sig=4zta6HxD5q1qbGI-QwSEAP5hntYBJRzrd6mqa31HdVY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790406806&sig=43nLL7eUmv2uNpC6sqJbhkC8rpZ44hkZWvVtm5RNUhg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -44,12 +44,12 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(6 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(8 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(8 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
