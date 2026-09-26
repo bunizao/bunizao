@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790406806&sig=43nLL7eUmv2uNpC6sqJbhkC8rpZ44hkZWvVtm5RNUhg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=light&exp=1790406806&sig=4zta6HxD5q1qbGI-QwSEAP5hntYBJRzrd6mqa31HdVY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790406806&sig=43nLL7eUmv2uNpC6sqJbhkC8rpZ44hkZWvVtm5RNUhg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790426666&sig=glD5AZ4Ya1gswIFir6EofdGGTJGDr-Z8UXilVv7hf9M">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=light&exp=1790426666&sig=h_OlUvMLB5KxfN_MlyR2cwUswdcksAWhLq6itrhxITk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=434&added=%2B163%2C579&removed=-38%2C544&net=%2B125%2C035&lph=%2B744&theme=dark&exp=1790426666&sig=glD5AZ4Ya1gswIFir6EofdGGTJGDr-Z8UXilVv7hf9M" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
