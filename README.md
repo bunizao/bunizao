@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=378&added=%2B154%2C342&removed=-38%2C919&net=%2B115%2C423&lph=%2B687&theme=dark&exp=1790476133&sig=eh8kmKaYF60olcYwIPsR3bIHnGXEwZHzLw3EsgTPU2U">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=378&added=%2B154%2C342&removed=-38%2C919&net=%2B115%2C423&lph=%2B687&theme=light&exp=1790476133&sig=ucYt3Hv1jmGTGcdVdM3bTGZK6mA1dD_Ws3rWyHeMs9I">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=378&added=%2B154%2C342&removed=-38%2C919&net=%2B115%2C423&lph=%2B687&theme=dark&exp=1790476133&sig=eh8kmKaYF60olcYwIPsR3bIHnGXEwZHzLw3EsgTPU2U" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=378&added=%2B154%2C342&removed=-38%2C919&net=%2B115%2C423&lph=%2B687&theme=dark&exp=1790491092&sig=At_MLf2zb8ZGAKLKy-hY8YiIHuC96zuRGxNo5QFW114">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=378&added=%2B154%2C342&removed=-38%2C919&net=%2B115%2C423&lph=%2B687&theme=light&exp=1790491092&sig=lBgtD6bSctKV4gypQCEbVKlgFxxBeBQm2vaaIJL-ZIo">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=378&added=%2B154%2C342&removed=-38%2C919&net=%2B115%2C423&lph=%2B687&theme=dark&exp=1790491092&sig=At_MLf2zb8ZGAKLKy-hY8YiIHuC96zuRGxNo5QFW114" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
