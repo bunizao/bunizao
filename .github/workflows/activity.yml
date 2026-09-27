@@ -29,7 +29,7 @@ jobs:
         env:
           SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
           ACTIVITY_PANEL_SIGNING_SECRET: ${{ secrets.ACTIVITY_PANEL_SIGNING_SECRET }}
-          ACTIVITY_PANEL_TTL_SECONDS: 28800
+          ACTIVITY_PANEL_TTL_SECONDS: 86400
           README_PATH: README.md
           WINDOW_DAYS: 7
           MAX_REPOSITORIES: 100
