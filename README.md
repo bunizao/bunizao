@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=645&added=%2B228%2C422&removed=-116%2C146&net=%2B112%2C276&lph=%2B668&theme=dark&exp=1790636244&sig=P-9ewVwQAFaMJziLvwgbAmo4zgsIWPmJXIiaNnKd3Z8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=645&added=%2B228%2C422&removed=-116%2C146&net=%2B112%2C276&lph=%2B668&theme=light&exp=1790636244&sig=2dJTf7wrftvEPyYqytexyQ81CECw0447C6qFdN1WGp0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=645&added=%2B228%2C422&removed=-116%2C146&net=%2B112%2C276&lph=%2B668&theme=dark&exp=1790636244&sig=P-9ewVwQAFaMJziLvwgbAmo4zgsIWPmJXIiaNnKd3Z8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=645&added=%2B228%2C422&removed=-116%2C146&net=%2B112%2C276&lph=%2B668&theme=dark&exp=1790658548&sig=fopNWShFgnflOqpJwQcW6XaQaD_JeoVctDWQdGvsXQo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=645&added=%2B228%2C422&removed=-116%2C146&net=%2B112%2C276&lph=%2B668&theme=light&exp=1790658548&sig=LZL-eCVi3dRQ8EkbvLnj_o5Qd7GkR_ZIvCBbECGJxkw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=645&added=%2B228%2C422&removed=-116%2C146&net=%2B112%2C276&lph=%2B668&theme=dark&exp=1790658548&sig=fopNWShFgnflOqpJwQcW6XaQaD_JeoVctDWQdGvsXQo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,9 +40,9 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(21 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(21 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(6 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
@@ -50,7 +50,7 @@
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 </ul>
