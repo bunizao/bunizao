@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=779&added=%2B326%2C607&removed=-184%2C020&net=%2B142%2C587&lph=%2B849&theme=dark&exp=1790871718&sig=p6CepWMDb1NSuzBI7YqaurSi_Gq1Aklb3yhMqDRD7dI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=779&added=%2B326%2C607&removed=-184%2C020&net=%2B142%2C587&lph=%2B849&theme=light&exp=1790871718&sig=-hga6GFw7n5CUCKVhNgyv8M4LBOfF8cakzIrmcY5Lps">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=779&added=%2B326%2C607&removed=-184%2C020&net=%2B142%2C587&lph=%2B849&theme=dark&exp=1790871718&sig=p6CepWMDb1NSuzBI7YqaurSi_Gq1Aklb3yhMqDRD7dI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=679&added=%2B255%2C008&removed=-159%2C805&net=%2B95%2C203&lph=%2B567&theme=dark&exp=1790897935&sig=JO2Vj9xiAvrSo3Lhz1s-ocSE15fAG_qIUgIzvbyn6QI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=679&added=%2B255%2C008&removed=-159%2C805&net=%2B95%2C203&lph=%2B567&theme=light&exp=1790897935&sig=mvky2MJdQGMaXm63w39sDIs6jY8Gplf8_Cy30C8so3o">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=679&added=%2B255%2C008&removed=-159%2C805&net=%2B95%2C203&lph=%2B567&theme=dark&exp=1790897935&sig=JO2Vj9xiAvrSo3Lhz1s-ocSE15fAG_qIUgIzvbyn6QI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,17 +38,15 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(40 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(27 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(27 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(10 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
+  <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
-
-  <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 </ul>
