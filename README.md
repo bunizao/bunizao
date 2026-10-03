@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=524&added=%2B280%2C963&removed=-168%2C786&net=%2B112%2C177&lph=%2B668&theme=dark&exp=1791070901&sig=94W9WNaLJ0I4XwJVcAOw0f2pOYJlHUprDPUdaiL63wA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=524&added=%2B280%2C963&removed=-168%2C786&net=%2B112%2C177&lph=%2B668&theme=light&exp=1791070901&sig=7o0fSYuKIx0i36T1wvw_YepcOl0JWlzXh-LWI54Bsb0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=524&added=%2B280%2C963&removed=-168%2C786&net=%2B112%2C177&lph=%2B668&theme=dark&exp=1791070901&sig=94W9WNaLJ0I4XwJVcAOw0f2pOYJlHUprDPUdaiL63wA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=527&added=%2B281%2C049&removed=-168%2C792&net=%2B112%2C257&lph=%2B668&theme=dark&exp=1791090315&sig=UBMHZHNAXwnXCiLHABo--gjID-rU8_BFyFPOS3-eFi4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=527&added=%2B281%2C049&removed=-168%2C792&net=%2B112%2C257&lph=%2B668&theme=light&exp=1791090315&sig=zQnKXRt3ns55uP_s6NYcH8eLkENGmAkMdFMfhVRLTqY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=527&added=%2B281%2C049&removed=-168%2C792&net=%2B112%2C257&lph=%2B668&theme=dark&exp=1791090315&sig=UBMHZHNAXwnXCiLHABo--gjID-rU8_BFyFPOS3-eFi4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(34 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(25 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(25 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(20 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(16 PRs)</em></li>
 
