@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=484&added=%2B341%2C729&removed=-153%2C931&net=%2B187%2C798&lph=%2B1%2C118&theme=dark&exp=1791139155&sig=ePf4-Ym-oYQ_L3K6QVWahwZ4ySuzmW2AXraOtcHnVPY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=484&added=%2B341%2C729&removed=-153%2C931&net=%2B187%2C798&lph=%2B1%2C118&theme=light&exp=1791139155&sig=XHgnShnLqU9HgNkicWvh9fm5bkbcUI0Fhj_-ObXShaU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=484&added=%2B341%2C729&removed=-153%2C931&net=%2B187%2C798&lph=%2B1%2C118&theme=dark&exp=1791139155&sig=ePf4-Ym-oYQ_L3K6QVWahwZ4ySuzmW2AXraOtcHnVPY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=484&added=%2B341%2C729&removed=-153%2C931&net=%2B187%2C798&lph=%2B1%2C118&theme=dark&exp=1791154129&sig=en1OFbo0VIHloueh0O-SguaIldfrl-DkGjqr4skc4J0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=484&added=%2B341%2C729&removed=-153%2C931&net=%2B187%2C798&lph=%2B1%2C118&theme=light&exp=1791154129&sig=9w8MMBLTEWqbXaqjWdXXxh8KZ4W-QXJ7F0B-PeRyzIc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=484&added=%2B341%2C729&removed=-153%2C931&net=%2B187%2C798&lph=%2B1%2C118&theme=dark&exp=1791154129&sig=en1OFbo0VIHloueh0O-SguaIldfrl-DkGjqr4skc4J0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(18 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(20 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(20 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
