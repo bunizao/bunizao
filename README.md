@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=280&added=%2B369%2C886&removed=-195%2C073&net=%2B174%2C813&lph=%2B1%2C041&theme=dark&exp=1791504438&sig=EHq7AzWADiJ9jDdHGBOba0D9Z3_qBnMwsIBHdHPxB48">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=280&added=%2B369%2C886&removed=-195%2C073&net=%2B174%2C813&lph=%2B1%2C041&theme=light&exp=1791504438&sig=Rk1l7CLoev2_fcjXG5wootf3WCL4MM3lxVzji1OupfY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=280&added=%2B369%2C886&removed=-195%2C073&net=%2B174%2C813&lph=%2B1%2C041&theme=dark&exp=1791504438&sig=EHq7AzWADiJ9jDdHGBOba0D9Z3_qBnMwsIBHdHPxB48" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=317&added=%2B373%2C739&removed=-195%2C340&net=%2B178%2C399&lph=%2B1%2C062&theme=dark&exp=1791546897&sig=4i9wFF-NQjTgN-goNphASC1IZTG5wJQtxko5gkWQj0A">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=317&added=%2B373%2C739&removed=-195%2C340&net=%2B178%2C399&lph=%2B1%2C062&theme=light&exp=1791546897&sig=Muj7I5p9SdojTU9kuciHG4MAHCp2xLsMB4VBayn55N0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=317&added=%2B373%2C739&removed=-195%2C340&net=%2B178%2C399&lph=%2B1%2C062&theme=dark&exp=1791546897&sig=4i9wFF-NQjTgN-goNphASC1IZTG5wJQtxko5gkWQj0A" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,14 +40,16 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(10 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(4 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
