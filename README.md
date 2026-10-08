@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=317&added=%2B373%2C739&removed=-195%2C340&net=%2B178%2C399&lph=%2B1%2C062&theme=dark&exp=1791546897&sig=4i9wFF-NQjTgN-goNphASC1IZTG5wJQtxko5gkWQj0A">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=317&added=%2B373%2C739&removed=-195%2C340&net=%2B178%2C399&lph=%2B1%2C062&theme=light&exp=1791546897&sig=Muj7I5p9SdojTU9kuciHG4MAHCp2xLsMB4VBayn55N0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=317&added=%2B373%2C739&removed=-195%2C340&net=%2B178%2C399&lph=%2B1%2C062&theme=dark&exp=1791546897&sig=4i9wFF-NQjTgN-goNphASC1IZTG5wJQtxko5gkWQj0A" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=289&added=%2B366%2C296&removed=-194%2C328&net=%2B171%2C968&lph=%2B1%2C024&theme=dark&exp=1791578354&sig=rdqeowcrNkTL1Ipjcd1bL-lZj21xiOsWVoLYelYFnoY">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=289&added=%2B366%2C296&removed=-194%2C328&net=%2B171%2C968&lph=%2B1%2C024&theme=light&exp=1791578354&sig=FNpOg8Ndm9hA9vTgAAOoesFVb-h_0u17V1Zb6HD6YH0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=289&added=%2B366%2C296&removed=-194%2C328&net=%2B171%2C968&lph=%2B1%2C024&theme=dark&exp=1791578354&sig=rdqeowcrNkTL1Ipjcd1bL-lZj21xiOsWVoLYelYFnoY" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,11 +42,11 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
