@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=262&added=%2B406%2C488&removed=-238%2C771&net=%2B167%2C717&lph=%2B998&theme=dark&exp=1791651365&sig=g2tWcI0RKxwkLwmAkidxOB2fW3OviB2ulMjaYtKiLyw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=262&added=%2B406%2C488&removed=-238%2C771&net=%2B167%2C717&lph=%2B998&theme=light&exp=1791651365&sig=MKg9FnG-x_3iQSNB8oehvFEEHf9wbNfFUjXwlBzHX5A">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=262&added=%2B406%2C488&removed=-238%2C771&net=%2B167%2C717&lph=%2B998&theme=dark&exp=1791651365&sig=g2tWcI0RKxwkLwmAkidxOB2fW3OviB2ulMjaYtKiLyw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=254&added=%2B339%2C944&removed=-214%2C475&net=%2B125%2C469&lph=%2B747&theme=dark&exp=1791676673&sig=VOKIJ0CXn-NQNqxJj2xdBZEZwJIxX4SsLUwlsurZrDk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=254&added=%2B339%2C944&removed=-214%2C475&net=%2B125%2C469&lph=%2B747&theme=light&exp=1791676673&sig=oT-PvErB1lYsgPRi9PvZaHbbfeJ5MywUTl65rXoIMOE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=254&added=%2B339%2C944&removed=-214%2C475&net=%2B125%2C469&lph=%2B747&theme=dark&exp=1791676673&sig=VOKIJ0CXn-NQNqxJj2xdBZEZwJIxX4SsLUwlsurZrDk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,11 +42,11 @@
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
