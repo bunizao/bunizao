@@ -28,25 +28,25 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=289&added=%2B366%2C296&removed=-194%2C328&net=%2B171%2C968&lph=%2B1%2C024&theme=dark&exp=1791578354&sig=rdqeowcrNkTL1Ipjcd1bL-lZj21xiOsWVoLYelYFnoY">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=289&added=%2B366%2C296&removed=-194%2C328&net=%2B171%2C968&lph=%2B1%2C024&theme=light&exp=1791578354&sig=FNpOg8Ndm9hA9vTgAAOoesFVb-h_0u17V1Zb6HD6YH0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=289&added=%2B366%2C296&removed=-194%2C328&net=%2B171%2C968&lph=%2B1%2C024&theme=dark&exp=1791578354&sig=rdqeowcrNkTL1Ipjcd1bL-lZj21xiOsWVoLYelYFnoY" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=272&added=%2B359%2C673&removed=-193%2C501&net=%2B166%2C172&lph=%2B989&theme=dark&exp=1791611612&sig=heDfrKZnyA5QiWQdhmufblBl0Zb_DLn5mfGJX7iiD6A">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=272&added=%2B359%2C673&removed=-193%2C501&net=%2B166%2C172&lph=%2B989&theme=light&exp=1791611612&sig=x0D8PXlfPP89nzaltTIjStWMhJ78Wt5kHQsmI-IyGPw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=272&added=%2B359%2C673&removed=-193%2C501&net=%2B166%2C172&lph=%2B989&theme=dark&exp=1791611612&sig=heDfrKZnyA5QiWQdhmufblBl0Zb_DLn5mfGJX7iiD6A" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(15 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(10 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(16 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(4 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
