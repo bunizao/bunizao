@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=192&added=%2B241%2C561&removed=-175%2C301&net=%2B66%2C260&lph=%2B394&theme=dark&exp=1791733771&sig=CDDvjTvQd2I1WCg9wCdnTCH-SEQyjAC7mduVO7tdEHg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=192&added=%2B241%2C561&removed=-175%2C301&net=%2B66%2C260&lph=%2B394&theme=light&exp=1791733771&sig=XaPP3zuCVZIrSygGNqWGvaj49IRe7KKB5M4HMiklFok">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=192&added=%2B241%2C561&removed=-175%2C301&net=%2B66%2C260&lph=%2B394&theme=dark&exp=1791733771&sig=CDDvjTvQd2I1WCg9wCdnTCH-SEQyjAC7mduVO7tdEHg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=168&added=%2B225%2C455&removed=-163%2C661&net=%2B61%2C794&lph=%2B368&theme=dark&exp=1791761051&sig=3u59KUkzh8-ujX9FA1o0nR8izSilJIeFUE9dH9oYBu0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=168&added=%2B225%2C455&removed=-163%2C661&net=%2B61%2C794&lph=%2B368&theme=light&exp=1791761051&sig=OkvvcJDiAIx7Fh1JNYACvv4D9DYAfVrY5ra4GeZKmD0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=168&added=%2B225%2C455&removed=-163%2C661&net=%2B61%2C794&lph=%2B368&theme=dark&exp=1791761051&sig=3u59KUkzh8-ujX9FA1o0nR8izSilJIeFUE9dH9oYBu0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,9 +40,9 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(5 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
