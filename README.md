@@ -28,23 +28,23 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=222&added=%2B305%2C146&removed=-209%2C209&net=%2B95%2C937&lph=%2B571&theme=dark&exp=1791697178&sig=8e5pmn_IjdO9V4SORGoTNcIh6zj-3pylveZTUHX5uB4">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=222&added=%2B305%2C146&removed=-209%2C209&net=%2B95%2C937&lph=%2B571&theme=light&exp=1791697178&sig=V83gfexVvzfaBdjY2lAvaYBHg2MME6wqewAE711Egr4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=222&added=%2B305%2C146&removed=-209%2C209&net=%2B95%2C937&lph=%2B571&theme=dark&exp=1791697178&sig=8e5pmn_IjdO9V4SORGoTNcIh6zj-3pylveZTUHX5uB4" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=192&added=%2B241%2C561&removed=-175%2C301&net=%2B66%2C260&lph=%2B394&theme=dark&exp=1791733771&sig=CDDvjTvQd2I1WCg9wCdnTCH-SEQyjAC7mduVO7tdEHg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=192&added=%2B241%2C561&removed=-175%2C301&net=%2B66%2C260&lph=%2B394&theme=light&exp=1791733771&sig=XaPP3zuCVZIrSygGNqWGvaj49IRe7KKB5M4HMiklFok">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=192&added=%2B241%2C561&removed=-175%2C301&net=%2B66%2C260&lph=%2B394&theme=dark&exp=1791733771&sig=CDDvjTvQd2I1WCg9wCdnTCH-SEQyjAC7mduVO7tdEHg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(17 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(18 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(5 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
-
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
