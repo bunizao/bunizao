@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=168&added=%2B225%2C455&removed=-163%2C661&net=%2B61%2C794&lph=%2B368&theme=dark&exp=1791761051&sig=3u59KUkzh8-ujX9FA1o0nR8izSilJIeFUE9dH9oYBu0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=168&added=%2B225%2C455&removed=-163%2C661&net=%2B61%2C794&lph=%2B368&theme=light&exp=1791761051&sig=OkvvcJDiAIx7Fh1JNYACvv4D9DYAfVrY5ra4GeZKmD0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=168&added=%2B225%2C455&removed=-163%2C661&net=%2B61%2C794&lph=%2B368&theme=dark&exp=1791761051&sig=3u59KUkzh8-ujX9FA1o0nR8izSilJIeFUE9dH9oYBu0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=155&added=%2B209%2C566&removed=-151%2C685&net=%2B57%2C881&lph=%2B345&theme=dark&exp=1791783140&sig=A_3bWFgMj3MK8a_W-h_1E2UtnWLApgI3Xe5o3B_tLfQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=155&added=%2B209%2C566&removed=-151%2C685&net=%2B57%2C881&lph=%2B345&theme=light&exp=1791783140&sig=SW2uotEfI3jJzHkkTXi9kgkyyvjeIAthH_gNozYetOk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=155&added=%2B209%2C566&removed=-151%2C685&net=%2B57%2C881&lph=%2B345&theme=dark&exp=1791783140&sig=A_3bWFgMj3MK8a_W-h_1E2UtnWLApgI3Xe5o3B_tLfQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,18 +40,18 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(5 PRs)</em></li>
-
   <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(5 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
