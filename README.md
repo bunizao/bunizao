@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=88&added=%2B115%2C581&removed=-76%2C841&net=%2B38%2C740&lph=%2B231&theme=dark&exp=1791943047&sig=tSQAnz7GboxCfckbAPwgc-lueUxdOqDMA7Jr8yoRuaI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=88&added=%2B115%2C581&removed=-76%2C841&net=%2B38%2C740&lph=%2B231&theme=light&exp=1791943047&sig=ux9s8orDZ_KZqw4575nMIikoa3XBNS2SyVmkjMKoOyM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=88&added=%2B115%2C581&removed=-76%2C841&net=%2B38%2C740&lph=%2B231&theme=dark&exp=1791943047&sig=tSQAnz7GboxCfckbAPwgc-lueUxdOqDMA7Jr8yoRuaI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B114%2C840&removed=-76%2C396&net=%2B38%2C444&lph=%2B229&theme=dark&exp=1791981289&sig=MtdAGLHfWaZDmwlZZyY4mrCT-ymuBcSCfr5lXBQ_avE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B114%2C840&removed=-76%2C396&net=%2B38%2C444&lph=%2B229&theme=light&exp=1791981289&sig=swFKR-r9WtCBJze9dCqXr80Kpqb4NuuKi5dFHyFBpHU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=85&added=%2B114%2C840&removed=-76%2C396&net=%2B38%2C444&lph=%2B229&theme=dark&exp=1791981289&sig=MtdAGLHfWaZDmwlZZyY4mrCT-ymuBcSCfr5lXBQ_avE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,13 +40,13 @@
 
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(13 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
