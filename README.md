@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=dark&exp=1792091758&sig=rgLqi7GgFtRpNPfeP2mD-DgM9UoBHkLEmsOP_iuqUlA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=light&exp=1792091758&sig=EV9eKtS0n54OC6p5ALjXTwFh-Dx2epYUvkEkBiQmcgQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=dark&exp=1792091758&sig=rgLqi7GgFtRpNPfeP2mD-DgM9UoBHkLEmsOP_iuqUlA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=dark&exp=1792105606&sig=h3K6E1ilE6V9nWtu4dXfjSwv_Dt4Ypbj3Wtz5Fo5aEk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=light&exp=1792105606&sig=NiNSdJ7xpqmOPSDo5b0vI_nv-EfdJPZVoe4nQfE48zs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=dark&exp=1792105606&sig=h3K6E1ilE6V9nWtu4dXfjSwv_Dt4Ypbj3Wtz5Fo5aEk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,7 +42,7 @@
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(3 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(2 PRs)</em></li>
 
