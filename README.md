@@ -28,21 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=67&added=%2B98%2C448&removed=-68%2C227&net=%2B30%2C221&lph=%2B180&theme=dark&exp=1792058540&sig=9SmYqi514J0RnN65mHr2EFjXqEVzz1biF84Z9b8sezA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=67&added=%2B98%2C448&removed=-68%2C227&net=%2B30%2C221&lph=%2B180&theme=light&exp=1792058540&sig=xYCfywo0Q8aUf1B7X7Rnquv1HJkiTUIQ5YeeBc5L23M">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=67&added=%2B98%2C448&removed=-68%2C227&net=%2B30%2C221&lph=%2B180&theme=dark&exp=1792058540&sig=9SmYqi514J0RnN65mHr2EFjXqEVzz1biF84Z9b8sezA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=dark&exp=1792091758&sig=rgLqi7GgFtRpNPfeP2mD-DgM9UoBHkLEmsOP_iuqUlA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=light&exp=1792091758&sig=EV9eKtS0n54OC6p5ALjXTwFh-Dx2epYUvkEkBiQmcgQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=39&added=%2B76%2C848&removed=-67%2C808&net=%2B9%2C040&lph=%2B54&theme=dark&exp=1792091758&sig=rgLqi7GgFtRpNPfeP2mD-DgM9UoBHkLEmsOP_iuqUlA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
-
   <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(12 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
-
-  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
