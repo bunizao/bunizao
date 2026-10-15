@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=35&added=%2B76%2C487&removed=-67%2C770&net=%2B8%2C717&lph=%2B52&theme=dark&exp=1792124500&sig=tkIc9jttKAcp51dUvJhQ0R1n9nM8G3IvNMt-NmeQKwE">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=35&added=%2B76%2C487&removed=-67%2C770&net=%2B8%2C717&lph=%2B52&theme=light&exp=1792124500&sig=W_Sf0t9SRalhHmzo6ZAGed2jxzr2f57pTTVOvgfQShk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=35&added=%2B76%2C487&removed=-67%2C770&net=%2B8%2C717&lph=%2B52&theme=dark&exp=1792124500&sig=tkIc9jttKAcp51dUvJhQ0R1n9nM8G3IvNMt-NmeQKwE" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=26&added=%2B76%2C797&removed=-68%2C139&net=%2B8%2C658&lph=%2B52&theme=dark&exp=1792143892&sig=nX5ASeRloo2QCSpmK-5vKgkdCTV2L38fLE8UhUZscvI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=26&added=%2B76%2C797&removed=-68%2C139&net=%2B8%2C658&lph=%2B52&theme=light&exp=1792143892&sig=WK6EWzd5p5gXPBDqDNW9GY_o8ejWISzTA3CSlA8FpWk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=26&added=%2B76%2C797&removed=-68%2C139&net=%2B8%2C658&lph=%2B52&theme=dark&exp=1792143892&sig=nX5ASeRloo2QCSpmK-5vKgkdCTV2L38fLE8UhUZscvI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(10 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(12 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(3 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
 
