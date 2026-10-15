@@ -28,23 +28,23 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=26&added=%2B76%2C797&removed=-68%2C139&net=%2B8%2C658&lph=%2B52&theme=dark&exp=1792143892&sig=nX5ASeRloo2QCSpmK-5vKgkdCTV2L38fLE8UhUZscvI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=26&added=%2B76%2C797&removed=-68%2C139&net=%2B8%2C658&lph=%2B52&theme=light&exp=1792143892&sig=WK6EWzd5p5gXPBDqDNW9GY_o8ejWISzTA3CSlA8FpWk">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=26&added=%2B76%2C797&removed=-68%2C139&net=%2B8%2C658&lph=%2B52&theme=dark&exp=1792143892&sig=nX5ASeRloo2QCSpmK-5vKgkdCTV2L38fLE8UhUZscvI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=27&added=%2B86%2C175&removed=-76%2C440&net=%2B9%2C735&lph=%2B58&theme=dark&exp=1792162191&sig=81n9W3QRxN3EbUgPixIJICX8IS78SB_rASPI-23kUi8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=27&added=%2B86%2C175&removed=-76%2C440&net=%2B9%2C735&lph=%2B58&theme=light&exp=1792162191&sig=PdrN6E6do290cGmnqwPPD7AhHcWHxsTwldvteYmYd6A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=27&added=%2B86%2C175&removed=-76%2C440&net=%2B9%2C735&lph=%2B58&theme=dark&exp=1792162191&sig=81n9W3QRxN3EbUgPixIJICX8IS78SB_rASPI-23kUi8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(12 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(14 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(3 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 </ul>
