@@ -28,19 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=22&added=%2B37%2C360&removed=-30%2C239&net=%2B7%2C121&lph=%2B42&theme=dark&exp=1792229843&sig=L_K4OuxZbucSHSeUuzTzswx5khZ3KWen19q2YImfbro">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=22&added=%2B37%2C360&removed=-30%2C239&net=%2B7%2C121&lph=%2B42&theme=light&exp=1792229843&sig=mafL6jeO7ow6eFh1MoU7pZpEkodHvVIn4ZouFMNSpVs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=22&added=%2B37%2C360&removed=-30%2C239&net=%2B7%2C121&lph=%2B42&theme=dark&exp=1792229843&sig=L_K4OuxZbucSHSeUuzTzswx5khZ3KWen19q2YImfbro" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B18%2C604&removed=-15%2C646&net=%2B2%2C958&lph=%2B18&theme=dark&exp=1792248170&sig=UsLR1kvw3dKDaXOPfahAHGs9Yqr2shfbdRyMSODkptg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B18%2C604&removed=-15%2C646&net=%2B2%2C958&lph=%2B18&theme=light&exp=1792248170&sig=Uw0-vYVNr-GCAgkDTVfkaYx9UUPH15-Fgugw0tSmDDQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=10&added=%2B18%2C604&removed=-15%2C646&net=%2B2%2C958&lph=%2B18&theme=dark&exp=1792248170&sig=UsLR1kvw3dKDaXOPfahAHGs9Yqr2shfbdRyMSODkptg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(14 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/site">bunizao/site</a></strong> — My personal bio and portfolio website. <em>(16 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(3 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/Sink">bunizao/Sink</a></strong> — ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.</li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
 
