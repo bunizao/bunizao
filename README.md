@@ -28,15 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792345769&sig=vp3lIk0Yj4EnHK9oOHYgeqIJkjv62Sx60WFQ6sFqoHU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=light&exp=1792345769&sig=-NTxabrUWkZkoBOtLO-nSYHX1J9kia4NBeZU9sgti8g">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792345769&sig=vp3lIk0Yj4EnHK9oOHYgeqIJkjv62Sx60WFQ6sFqoHU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792361394&sig=8yOt_SjAngWrCTMRD8Su3GSNO4DenagIwcEl6Ft7PA4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=light&exp=1792361394&sig=x4xH4SmLTdm5XPJbh3DqffKn48SpzhQM7ivtBQ37OuQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792361394&sig=8yOt_SjAngWrCTMRD8Su3GSNO4DenagIwcEl6Ft7PA4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(18 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(18 PRs)</em></li>
 
   <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(5 PRs)</em></li>
 
