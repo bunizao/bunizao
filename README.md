@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B22%2C736&removed=-18%2C715&net=%2B4%2C021&lph=%2B24&theme=dark&exp=1792314573&sig=O9WmnZfSD0NwYiVFQNsZHOK0G5tcgLcgpJE1tBcrLi0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B22%2C736&removed=-18%2C715&net=%2B4%2C021&lph=%2B24&theme=light&exp=1792314573&sig=KBeoFcb-AGPQMArOfJJluojG0rj7KJxp0-hR2viOeLE">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B22%2C736&removed=-18%2C715&net=%2B4%2C021&lph=%2B24&theme=dark&exp=1792314573&sig=O9WmnZfSD0NwYiVFQNsZHOK0G5tcgLcgpJE1tBcrLi0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792330533&sig=FWrfPtuCEm_Gzx5PoL6-h9jX8AUG8SNP5QhuU6icAao">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=light&exp=1792330533&sig=1SGsHAQq8pbhuO80ddzJbaPUc_ccslF0DzREu1ym5e4">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792330533&sig=FWrfPtuCEm_Gzx5PoL6-h9jX8AUG8SNP5QhuU6icAao" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(16 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(18 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
 
