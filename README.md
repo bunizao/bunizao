@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792330533&sig=FWrfPtuCEm_Gzx5PoL6-h9jX8AUG8SNP5QhuU6icAao">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=light&exp=1792330533&sig=1SGsHAQq8pbhuO80ddzJbaPUc_ccslF0DzREu1ym5e4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792330533&sig=FWrfPtuCEm_Gzx5PoL6-h9jX8AUG8SNP5QhuU6icAao" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792345769&sig=vp3lIk0Yj4EnHK9oOHYgeqIJkjv62Sx60WFQ6sFqoHU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=light&exp=1792345769&sig=-NTxabrUWkZkoBOtLO-nSYHX1J9kia4NBeZU9sgti8g">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=4&commits=25&added=%2B38%2C101&removed=-31%2C672&net=%2B6%2C429&lph=%2B38&theme=dark&exp=1792345769&sig=vp3lIk0Yj4EnHK9oOHYgeqIJkjv62Sx60WFQ6sFqoHU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(18 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(18 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
 
