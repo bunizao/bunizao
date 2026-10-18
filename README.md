@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=40&added=%2B42%2C432&removed=-33%2C199&net=%2B9%2C233&lph=%2B55&theme=dark&exp=1792401965&sig=YjAWOkhLtDzknSSyUsGVOYERXBif8Cqi5ZbAEj4OIug">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=40&added=%2B42%2C432&removed=-33%2C199&net=%2B9%2C233&lph=%2B55&theme=light&exp=1792401965&sig=ZB8t7MkY9ultg_2WK6hIRQGpfdvEDr5RDh_KK0p5QqU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=40&added=%2B42%2C432&removed=-33%2C199&net=%2B9%2C233&lph=%2B55&theme=dark&exp=1792401965&sig=YjAWOkhLtDzknSSyUsGVOYERXBif8Cqi5ZbAEj4OIug" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=40&added=%2B42%2C432&removed=-33%2C199&net=%2B9%2C233&lph=%2B55&theme=dark&exp=1792418028&sig=ksPGAr0M14Tm5yjiW2tKcWYVikPhqCA6crLQfHzlf8Y">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=40&added=%2B42%2C432&removed=-33%2C199&net=%2B9%2C233&lph=%2B55&theme=light&exp=1792418028&sig=SbspcfuAq3CP7T4NBL5sxe8SyN9vO5V0SnhcqJZ6l4s">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=40&added=%2B42%2C432&removed=-33%2C199&net=%2B9%2C233&lph=%2B55&theme=dark&exp=1792418028&sig=ksPGAr0M14Tm5yjiW2tKcWYVikPhqCA6crLQfHzlf8Y" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -42,7 +42,7 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(12 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 </ul>
