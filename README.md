@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=104&added=%2B72%2C198&removed=-31%2C285&net=%2B40%2C913&lph=%2B244&theme=dark&exp=1792528236&sig=N4NvB6ggyj_poeFIKxt9xz4zDkuIDR2muURMQMoc4mc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=104&added=%2B72%2C198&removed=-31%2C285&net=%2B40%2C913&lph=%2B244&theme=light&exp=1792528236&sig=ophqTiknNS1xHh16Ea41zo72lr-0TegZLJKyf2QeYH8">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=104&added=%2B72%2C198&removed=-31%2C285&net=%2B40%2C913&lph=%2B244&theme=dark&exp=1792528236&sig=N4NvB6ggyj_poeFIKxt9xz4zDkuIDR2muURMQMoc4mc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=107&added=%2B74%2C556&removed=-31%2C526&net=%2B43%2C030&lph=%2B256&theme=dark&exp=1792557276&sig=H2J5w1h-52-l5e3eOuyx0Sex2ENJ9W__90Rz-oy4kKA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=107&added=%2B74%2C556&removed=-31%2C526&net=%2B43%2C030&lph=%2B256&theme=light&exp=1792557276&sig=o6cDmPNVml5JqMp1HGkqksitIrdwkmYySiMvR3EBpwM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=107&added=%2B74%2C556&removed=-31%2C526&net=%2B43%2C030&lph=%2B256&theme=dark&exp=1792557276&sig=H2J5w1h-52-l5e3eOuyx0Sex2ENJ9W__90Rz-oy4kKA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(19 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(21 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(17 PRs)</em></li>
 
   <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(6 PRs)</em></li>
 
