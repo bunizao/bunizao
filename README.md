@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=115&added=%2B74%2C974&removed=-32%2C081&net=%2B42%2C893&lph=%2B255&theme=dark&exp=1792609646&sig=YfO9bxw7cA9A6G0JUgjEIMUknopSt4HXlUwXPqHsHTk">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=115&added=%2B74%2C974&removed=-32%2C081&net=%2B42%2C893&lph=%2B255&theme=light&exp=1792609646&sig=C6hJZ_EdXN-t5Rn5E8_zLBXcLAh-wAww6lM6rl9TdzI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=115&added=%2B74%2C974&removed=-32%2C081&net=%2B42%2C893&lph=%2B255&theme=dark&exp=1792609646&sig=YfO9bxw7cA9A6G0JUgjEIMUknopSt4HXlUwXPqHsHTk" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=115&added=%2B74%2C974&removed=-32%2C081&net=%2B42%2C893&lph=%2B255&theme=dark&exp=1792623929&sig=yCw04hal6MeqGwXAgF5PPfbrw_5Mj9of93MCBAJFNhg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=115&added=%2B74%2C974&removed=-32%2C081&net=%2B42%2C893&lph=%2B255&theme=light&exp=1792623929&sig=jlz9mvJdFJRlSOYUTY03wLrfgwMjfRHgnDHPAPJV0r0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=115&added=%2B74%2C974&removed=-32%2C081&net=%2B42%2C893&lph=%2B255&theme=dark&exp=1792623929&sig=yCw04hal6MeqGwXAgF5PPfbrw_5Mj9of93MCBAJFNhg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(19 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(19 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
 
