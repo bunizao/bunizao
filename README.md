@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=127&added=%2B77%2C940&removed=-32%2C743&net=%2B45%2C197&lph=%2B269&theme=dark&exp=1792710578&sig=V7N99DlqdEnaSApWEay5fn3F9qRaoRCv5gg5U9N9nPA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=127&added=%2B77%2C940&removed=-32%2C743&net=%2B45%2C197&lph=%2B269&theme=light&exp=1792710578&sig=eiUVmLINqLUTeQpcOT66jU2m-g7NNIHXaMtMOT06DLw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=5&commits=127&added=%2B77%2C940&removed=-32%2C743&net=%2B45%2C197&lph=%2B269&theme=dark&exp=1792710578&sig=V7N99DlqdEnaSApWEay5fn3F9qRaoRCv5gg5U9N9nPA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=147&added=%2B84%2C250&removed=-39%2C007&net=%2B45%2C243&lph=%2B269&theme=dark&exp=1792729546&sig=z1JQZNypPUXco0N4FilFLFKNVBG1kbH3B0GclQ9MDpo">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=147&added=%2B84%2C250&removed=-39%2C007&net=%2B45%2C243&lph=%2B269&theme=light&exp=1792729546&sig=n7dpWO6Q4eXYR5F3SC-4EqX_8zDk-yibuP-HALq3U-0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=147&added=%2B84%2C250&removed=-39%2C007&net=%2B45%2C243&lph=%2B269&theme=dark&exp=1792729546&sig=z1JQZNypPUXco0N4FilFLFKNVBG1kbH3B0GclQ9MDpo" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,12 +38,28 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(28 PRs, 15 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(29 PRs, 24 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
+
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
+
+  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+
+  <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — No public description.</li>
+
+  <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
+
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
+
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
