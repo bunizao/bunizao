@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=159&added=%2B86%2C566&removed=-40%2C172&net=%2B46%2C394&lph=%2B276&theme=dark&exp=1792749587&sig=QemHG3NbnQHtb-Ox7mZHzVAUrUHq-TJMDtWK3FLO9SM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=159&added=%2B86%2C566&removed=-40%2C172&net=%2B46%2C394&lph=%2B276&theme=light&exp=1792749587&sig=MiLcvdyADJFEe24h6qr83d8DyZ3X3y6r0YUWK4831SU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=159&added=%2B86%2C566&removed=-40%2C172&net=%2B46%2C394&lph=%2B276&theme=dark&exp=1792749587&sig=QemHG3NbnQHtb-Ox7mZHzVAUrUHq-TJMDtWK3FLO9SM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=dark&exp=1792768119&sig=49oDVc5bwVYgCbgURpFkONmem5g8yYYk18ozDKs9i94">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=light&exp=1792768119&sig=JB3mxDa_nSiOs4SuLl3OxoozQ2Cf_BafIRTRP2mRxRg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=dark&exp=1792768119&sig=49oDVc5bwVYgCbgURpFkONmem5g8yYYk18ozDKs9i94" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -40,7 +40,7 @@
 
   <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(29 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(10 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
@@ -52,7 +52,7 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -60,6 +60,6 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
