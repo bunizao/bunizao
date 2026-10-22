@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=dark&exp=1792768119&sig=49oDVc5bwVYgCbgURpFkONmem5g8yYYk18ozDKs9i94">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=light&exp=1792768119&sig=JB3mxDa_nSiOs4SuLl3OxoozQ2Cf_BafIRTRP2mRxRg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=dark&exp=1792768119&sig=49oDVc5bwVYgCbgURpFkONmem5g8yYYk18ozDKs9i94" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=dark&exp=1792797064&sig=SzSVxcOrX5ZDcawX6lODRFqXj93tx5rjI4ow3zuDLlk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=light&exp=1792797064&sig=8PmEiGD7UxWXi5WR60wpSZtHaMOmRA8OxLw_7B9PnXU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=157&added=%2B77%2C182&removed=-31%2C869&net=%2B45%2C313&lph=%2B270&theme=dark&exp=1792797064&sig=SzSVxcOrX5ZDcawX6lODRFqXj93tx5rjI4ow3zuDLlk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(29 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(29 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(10 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
@@ -60,6 +60,6 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
