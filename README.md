@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=147&added=%2B84%2C250&removed=-39%2C007&net=%2B45%2C243&lph=%2B269&theme=dark&exp=1792729546&sig=z1JQZNypPUXco0N4FilFLFKNVBG1kbH3B0GclQ9MDpo">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=147&added=%2B84%2C250&removed=-39%2C007&net=%2B45%2C243&lph=%2B269&theme=light&exp=1792729546&sig=n7dpWO6Q4eXYR5F3SC-4EqX_8zDk-yibuP-HALq3U-0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=147&added=%2B84%2C250&removed=-39%2C007&net=%2B45%2C243&lph=%2B269&theme=dark&exp=1792729546&sig=z1JQZNypPUXco0N4FilFLFKNVBG1kbH3B0GclQ9MDpo" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=159&added=%2B86%2C566&removed=-40%2C172&net=%2B46%2C394&lph=%2B276&theme=dark&exp=1792749587&sig=QemHG3NbnQHtb-Ox7mZHzVAUrUHq-TJMDtWK3FLO9SM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=159&added=%2B86%2C566&removed=-40%2C172&net=%2B46%2C394&lph=%2B276&theme=light&exp=1792749587&sig=MiLcvdyADJFEe24h6qr83d8DyZ3X3y6r0YUWK4831SU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=159&added=%2B86%2C566&removed=-40%2C172&net=%2B46%2C394&lph=%2B276&theme=dark&exp=1792749587&sig=QemHG3NbnQHtb-Ox7mZHzVAUrUHq-TJMDtWK3FLO9SM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,19 +38,21 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(29 PRs, 24 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(29 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(10 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
-
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
+
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -58,8 +60,6 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
-
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
