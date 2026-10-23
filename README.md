@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=158&added=%2B77%2C301&removed=-31%2C874&net=%2B45%2C427&lph=%2B270&theme=dark&exp=1792853571&sig=NVlRzOFfv18YQSj__ClpB0SLaU82oUKUMp1sZnu2SNg">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=158&added=%2B77%2C301&removed=-31%2C874&net=%2B45%2C427&lph=%2B270&theme=light&exp=1792853571&sig=vQiKvAArSnmrIwP9fXQKsROLA0uaS3vGgacOPfUS784">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=158&added=%2B77%2C301&removed=-31%2C874&net=%2B45%2C427&lph=%2B270&theme=dark&exp=1792853571&sig=NVlRzOFfv18YQSj__ClpB0SLaU82oUKUMp1sZnu2SNg" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=158&added=%2B77%2C301&removed=-31%2C874&net=%2B45%2C427&lph=%2B270&theme=dark&exp=1792868588&sig=dpZQHiEfK9mLHQolabXNOn0b5N704jzbfWGqMgohncQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=158&added=%2B77%2C301&removed=-31%2C874&net=%2B45%2C427&lph=%2B270&theme=light&exp=1792868588&sig=H7iKobtJTg1Du07szkjdAxQQVxM0jWzokvQyT7GWi-g">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=158&added=%2B77%2C301&removed=-31%2C874&net=%2B45%2C427&lph=%2B270&theme=dark&exp=1792868588&sig=dpZQHiEfK9mLHQolabXNOn0b5N704jzbfWGqMgohncQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(26 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(33 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(9 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
@@ -52,7 +52,7 @@
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
