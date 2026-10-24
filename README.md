@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=165&added=%2B76%2C797&removed=-32%2C698&net=%2B44%2C099&lph=%2B262&theme=dark&exp=1792902088&sig=w2TZTMpF3OqDTVSLGvMjiD9EaDQER_yWdNC1qxqtLDA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=165&added=%2B76%2C797&removed=-32%2C698&net=%2B44%2C099&lph=%2B262&theme=light&exp=1792902088&sig=p7_tS9vg2hDIG4_5bgWbX_tbEr5nMl7Qj0x0zR0U_ow">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=165&added=%2B76%2C797&removed=-32%2C698&net=%2B44%2C099&lph=%2B262&theme=dark&exp=1792902088&sig=w2TZTMpF3OqDTVSLGvMjiD9EaDQER_yWdNC1qxqtLDA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=154&added=%2B76%2C194&removed=-32%2C419&net=%2B43%2C775&lph=%2B261&theme=dark&exp=1792920248&sig=w45LCBsSXcImem03fDONtDKGzryeg1V6ha5xAXEj5pc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=154&added=%2B76%2C194&removed=-32%2C419&net=%2B43%2C775&lph=%2B261&theme=light&exp=1792920248&sig=b8dYctAxPfuWfbTCXbcwnaWppWzi1BzbwRvw9JmTk-E">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=13&commits=154&added=%2B76%2C194&removed=-32%2C419&net=%2B43%2C775&lph=%2B261&theme=dark&exp=1792920248&sig=w45LCBsSXcImem03fDONtDKGzryeg1V6ha5xAXEj5pc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,21 +38,21 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(35 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(38 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(8 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(8 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
-  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
-
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
+  <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
+
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -60,6 +60,6 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
