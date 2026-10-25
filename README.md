@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=206&added=%2B99%2C448&removed=-38%2C832&net=%2B60%2C616&lph=%2B361&theme=dark&exp=1792988726&sig=GgkFVndYGyt9e24OTxHJ_QlqH2cRcRJ4vhBPQiZGchs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=206&added=%2B99%2C448&removed=-38%2C832&net=%2B60%2C616&lph=%2B361&theme=light&exp=1792988726&sig=Y8Y55q4j8HfsXElEcqM9D2tml1zZPuVWSd4JPvsX4iQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=206&added=%2B99%2C448&removed=-38%2C832&net=%2B60%2C616&lph=%2B361&theme=dark&exp=1792988726&sig=GgkFVndYGyt9e24OTxHJ_QlqH2cRcRJ4vhBPQiZGchs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=209&added=%2B105%2C479&removed=-38%2C713&net=%2B66%2C766&lph=%2B397&theme=dark&exp=1793007771&sig=iCoxtn3gs70OvCKKsXxS2qPnUFvm8yzOtCQoohBMjlk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=209&added=%2B105%2C479&removed=-38%2C713&net=%2B66%2C766&lph=%2B397&theme=light&exp=1793007771&sig=vlmGlHyu1JiDdSKpN-veWqQeHVnlvA-Hus81HoXAYBk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=209&added=%2B105%2C479&removed=-38%2C713&net=%2B66%2C766&lph=%2B397&theme=dark&exp=1793007771&sig=iCoxtn3gs70OvCKKsXxS2qPnUFvm8yzOtCQoohBMjlk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(39 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(40 PRs, 25 issues)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(20 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(5 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(5 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
@@ -52,7 +52,7 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -60,8 +60,8 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
+  <li><strong>bunizao/private-repo</strong> — Shh.</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(2 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
