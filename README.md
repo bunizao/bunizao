@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=225&added=%2B98%2C443&removed=-57%2C520&net=%2B40%2C923&lph=%2B244&theme=dark&exp=1793098582&sig=Gj1Zm1vEl7nyO1_rJ--bH38305zKCBfXAdk6iZkAQz0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=225&added=%2B98%2C443&removed=-57%2C520&net=%2B40%2C923&lph=%2B244&theme=light&exp=1793098582&sig=2dgosPoTWH8h-sXqmCgX7yBBfnF7sPHiwO2NFqBotWo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=225&added=%2B98%2C443&removed=-57%2C520&net=%2B40%2C923&lph=%2B244&theme=dark&exp=1793098582&sig=Gj1Zm1vEl7nyO1_rJ--bH38305zKCBfXAdk6iZkAQz0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=235&added=%2B102%2C243&removed=-57%2C882&net=%2B44%2C361&lph=%2B264&theme=dark&exp=1793132662&sig=qJ9mM4i1mDQHrR7HLyIrQIzwEWpZY278bjP8elt-RDc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=235&added=%2B102%2C243&removed=-57%2C882&net=%2B44%2C361&lph=%2B264&theme=light&exp=1793132662&sig=zSTzZANq1ZENqtcZei3h-1WesbuEy92MMDBWAykGRqs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=235&added=%2B102%2C243&removed=-57%2C882&net=%2B44%2C361&lph=%2B264&theme=dark&exp=1793132662&sig=qJ9mM4i1mDQHrR7HLyIrQIzwEWpZY278bjP8elt-RDc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(50 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(53 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
@@ -60,8 +60,8 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(6 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
