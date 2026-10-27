@@ -28,23 +28,25 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=235&added=%2B102%2C243&removed=-57%2C882&net=%2B44%2C361&lph=%2B264&theme=dark&exp=1793132662&sig=qJ9mM4i1mDQHrR7HLyIrQIzwEWpZY278bjP8elt-RDc">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=235&added=%2B102%2C243&removed=-57%2C882&net=%2B44%2C361&lph=%2B264&theme=light&exp=1793132662&sig=zSTzZANq1ZENqtcZei3h-1WesbuEy92MMDBWAykGRqs">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=14&commits=235&added=%2B102%2C243&removed=-57%2C882&net=%2B44%2C361&lph=%2B264&theme=dark&exp=1793132662&sig=qJ9mM4i1mDQHrR7HLyIrQIzwEWpZY278bjP8elt-RDc" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=15&commits=292&added=%2B140%2C561&removed=-75%2C426&net=%2B65%2C135&lph=%2B388&theme=dark&exp=1793162852&sig=tDWFCtMbuu2tS4dLH8i1Cke3M-QdbwA_Err0MVoV9fg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=15&commits=292&added=%2B140%2C561&removed=-75%2C426&net=%2B65%2C135&lph=%2B388&theme=light&exp=1793162852&sig=KcOrQcvirBNcOinl5Dg54xfF3Ch9-fjFe29Nv-4uF5k">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=15&commits=292&added=%2B140%2C561&removed=-75%2C426&net=%2B65%2C135&lph=%2B388&theme=dark&exp=1793162852&sig=tDWFCtMbuu2tS4dLH8i1Cke3M-QdbwA_Err0MVoV9fg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(53 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(54 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(10 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(11 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(8 PRs)</em></li>
+  <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
@@ -52,7 +54,7 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -60,8 +62,8 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(6 PRs)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
