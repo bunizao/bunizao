@@ -28,17 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=16&commits=319&added=%2B152%2C141&removed=-77%2C502&net=%2B74%2C639&lph=%2B444&theme=dark&exp=1793231011&sig=tal8mPRX-Jpt_H0ZmG88PACm4MZmd8jK_e4El9AH3SA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=16&commits=319&added=%2B152%2C141&removed=-77%2C502&net=%2B74%2C639&lph=%2B444&theme=light&exp=1793231011&sig=CZHfb_v_8-7HeflhrVY_sQj8ZtFeHFZrSs8btaYnV6o">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=16&commits=319&added=%2B152%2C141&removed=-77%2C502&net=%2B74%2C639&lph=%2B444&theme=dark&exp=1793231011&sig=tal8mPRX-Jpt_H0ZmG88PACm4MZmd8jK_e4El9AH3SA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=16&commits=337&added=%2B161%2C271&removed=-78%2C071&net=%2B83%2C200&lph=%2B495&theme=dark&exp=1793251303&sig=DRhJzXm8y-ayQLGkmsZba8t__y_eOXDd85XYIwWlvCQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=16&commits=337&added=%2B161%2C271&removed=-78%2C071&net=%2B83%2C200&lph=%2B495&theme=light&exp=1793251303&sig=RLfzCjs4xW_QE8m3yho6_pzTGZsMHnagIFssItoLSrI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=16&commits=337&added=%2B161%2C271&removed=-78%2C071&net=%2B83%2C200&lph=%2B495&theme=dark&exp=1793251303&sig=DRhJzXm8y-ayQLGkmsZba8t__y_eOXDd85XYIwWlvCQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(57 PRs, 25 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(56 PRs, 25 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(16 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
 
@@ -46,7 +48,7 @@
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(1 PR)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle.</li>
 
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management</li>
 
@@ -54,7 +56,7 @@
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices.</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/bunizao">bunizao/bunizao</a></strong> — No public description.</li>
 
@@ -62,9 +64,7 @@
 
   <li><strong><a href="https://github.com/bunizao/mtproto-workers">bunizao/mtproto-workers</a></strong> — A real MTProto 2.0 client that runs inside a Cloudflare Worker, on the FREE tier.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret.</li>
-
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(2 PRs)</em></li>
 </ul>
