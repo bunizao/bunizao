@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=dark&exp=1793379029&sig=jXTdgZdA3cr0o8ambecsrKs_OsRdF_vzOJJgVYF8u6o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=light&exp=1793379029&sig=wupN95vL7fwSLbain-pkuXZc9vIfuBbAqTV9u94JI2w">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=dark&exp=1793379029&sig=jXTdgZdA3cr0o8ambecsrKs_OsRdF_vzOJJgVYF8u6o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=dark&exp=1793404421&sig=g0A3vnyGkbbGXF12w1pBc5SeFxSPAEr_v1W4j9X_HWE">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=light&exp=1793404421&sig=EoUqB_zcjPzj9DgPxpPubvk9baPMCPknhA4E0TUXYU0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=dark&exp=1793404421&sig=g0A3vnyGkbbGXF12w1pBc5SeFxSPAEr_v1W4j9X_HWE" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(54 PRs, 10 issues)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(54 PRs, 10 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(15 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(15 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(6 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(13 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
