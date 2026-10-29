@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=379&added=%2B241%2C003&removed=-79%2C898&net=%2B161%2C105&lph=%2B959&theme=dark&exp=1793338529&sig=BAunUol7ddLVNKvxWLDOkZMb2jkrJ0Oz7ARzLF2j5Ik">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=379&added=%2B241%2C003&removed=-79%2C898&net=%2B161%2C105&lph=%2B959&theme=light&exp=1793338529&sig=Ky5C5-BScUBGru9yUoVW6kQPKGhaORSqOk31q1gpks4">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=379&added=%2B241%2C003&removed=-79%2C898&net=%2B161%2C105&lph=%2B959&theme=dark&exp=1793338529&sig=BAunUol7ddLVNKvxWLDOkZMb2jkrJ0Oz7ARzLF2j5Ik" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=dark&exp=1793379029&sig=jXTdgZdA3cr0o8ambecsrKs_OsRdF_vzOJJgVYF8u6o">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=light&exp=1793379029&sig=wupN95vL7fwSLbain-pkuXZc9vIfuBbAqTV9u94JI2w">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=474&added=%2B274%2C745&removed=-94%2C926&net=%2B179%2C819&lph=%2B1%2C070&theme=dark&exp=1793379029&sig=jXTdgZdA3cr0o8ambecsrKs_OsRdF_vzOJJgVYF8u6o" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,22 +38,20 @@
 <ul>
   <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(54 PRs, 10 issues)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(15 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(15 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(12 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(6 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(13 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
+  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(2 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
+
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents.</li>
-
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(3 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
