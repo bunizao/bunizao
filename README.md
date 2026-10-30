@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=dark&exp=1793464741&sig=nwKZwrlpke9mhJdGI6EvZVQBkS3LcMMYOQzMod6pwBo">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=light&exp=1793464741&sig=EDja537r6NAcToO7a-r42xBmmUds37JNWed5uvnW2DU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=dark&exp=1793464741&sig=nwKZwrlpke9mhJdGI6EvZVQBkS3LcMMYOQzMod6pwBo" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=dark&exp=1793489804&sig=bsXvkT8Oo5rI7-6WdgQe8yEPhH2V-II1nDIblwbTV30">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=light&exp=1793489804&sig=WkerBl0zjYf1O-vvdKCOuj0_P6HYCClVr3DSdlNaCBw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=dark&exp=1793489804&sig=bsXvkT8Oo5rI7-6WdgQe8yEPhH2V-II1nDIblwbTV30" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(54 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(54 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(14 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(14 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(15 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(15 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(6 PRs)</em></li>
 
