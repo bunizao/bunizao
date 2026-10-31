@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=dark&exp=1793547674&sig=x-hWjR-MrozpQ7wKcvC2C9l6i6Pfr85o-l_UNugGRsM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=light&exp=1793547674&sig=PMatNz3C7hIV-cLtAQoPZujK7WWSpsVoAA5WeW8qcVQ">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=dark&exp=1793547674&sig=x-hWjR-MrozpQ7wKcvC2C9l6i6Pfr85o-l_UNugGRsM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=dark&exp=1793574999&sig=JyL8DKUJRICU_z-u3k1VGlR_Tsz9USsiW_zwbWA4gUs">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=light&exp=1793574999&sig=qCUq5pk-kzOL1-BmcgLdFgkaX1DTbpAOLDvycHyvcRA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=dark&exp=1793574999&sig=JyL8DKUJRICU_z-u3k1VGlR_Tsz9USsiW_zwbWA4gUs" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(47 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(47 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(14 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(14 PRs)</em></li>
 
   <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(15 PRs)</em></li>
 
