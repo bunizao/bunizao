@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=dark&exp=1793489804&sig=bsXvkT8Oo5rI7-6WdgQe8yEPhH2V-II1nDIblwbTV30">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=light&exp=1793489804&sig=WkerBl0zjYf1O-vvdKCOuj0_P6HYCClVr3DSdlNaCBw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=495&added=%2B276%2C441&removed=-95%2C610&net=%2B180%2C831&lph=%2B1%2C076&theme=dark&exp=1793489804&sig=bsXvkT8Oo5rI7-6WdgQe8yEPhH2V-II1nDIblwbTV30" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=483&added=%2B273%2C701&removed=-92%2C263&net=%2B181%2C438&lph=%2B1%2C080&theme=dark&exp=1793510270&sig=KNGcVEHxpdVplSKwtXj-_h-k8Lx7mRVxOxZdX8W8pq4">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=483&added=%2B273%2C701&removed=-92%2C263&net=%2B181%2C438&lph=%2B1%2C080&theme=light&exp=1793510270&sig=dy_QdNlladp3Te_Xt4LC9mYdTtJlN5EKRjFRYg9c_AQ">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=483&added=%2B273%2C701&removed=-92%2C263&net=%2B181%2C438&lph=%2B1%2C080&theme=dark&exp=1793510270&sig=KNGcVEHxpdVplSKwtXj-_h-k8Lx7mRVxOxZdX8W8pq4" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(54 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(46 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(14 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(14 PRs)</em></li>
 
   <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(15 PRs)</em></li>
 
