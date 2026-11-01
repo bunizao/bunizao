@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=dark&exp=1793574999&sig=JyL8DKUJRICU_z-u3k1VGlR_Tsz9USsiW_zwbWA4gUs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=light&exp=1793574999&sig=qCUq5pk-kzOL1-BmcgLdFgkaX1DTbpAOLDvycHyvcRA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=397&added=%2B232%2C924&removed=-75%2C721&net=%2B157%2C203&lph=%2B936&theme=dark&exp=1793574999&sig=JyL8DKUJRICU_z-u3k1VGlR_Tsz9USsiW_zwbWA4gUs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=367&added=%2B206%2C566&removed=-66%2C243&net=%2B140%2C323&lph=%2B835&theme=dark&exp=1793598396&sig=7aBAc3iCYBHpVUjMQFXtM-0ebZsT3qOB9QFu1yGyg4U">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=367&added=%2B206%2C566&removed=-66%2C243&net=%2B140%2C323&lph=%2B835&theme=light&exp=1793598396&sig=3vGmiEgpJ1MFYGnzyRI1H85tS2meMay0AbsqTUmZcDM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=367&added=%2B206%2C566&removed=-66%2C243&net=%2B140%2C323&lph=%2B835&theme=dark&exp=1793598396&sig=7aBAc3iCYBHpVUjMQFXtM-0ebZsT3qOB9QFu1yGyg4U" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(47 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(38 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(14 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(14 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(15 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(8 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(15 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
