@@ -28,19 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=387&added=%2B204%2C928&removed=-67%2C287&net=%2B137%2C641&lph=%2B819&theme=dark&exp=1793637801&sig=O8k_8pQdjFUR9iupe1RyCVLb8MVoXvbrm0hBi_GFRew">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=387&added=%2B204%2C928&removed=-67%2C287&net=%2B137%2C641&lph=%2B819&theme=light&exp=1793637801&sig=yY1H-W5riUvpiBM48kgbHUBLZUi6nQcZJyjIdnJL59Q">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=387&added=%2B204%2C928&removed=-67%2C287&net=%2B137%2C641&lph=%2B819&theme=dark&exp=1793637801&sig=O8k_8pQdjFUR9iupe1RyCVLb8MVoXvbrm0hBi_GFRew" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=389&added=%2B205%2C154&removed=-67%2C377&net=%2B137%2C777&lph=%2B820&theme=dark&exp=1793662127&sig=H2Io7zPhTJwMl1GWewUczFgGs9jMHKl0CP6jO5Zxauc">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=389&added=%2B205%2C154&removed=-67%2C377&net=%2B137%2C777&lph=%2B820&theme=light&exp=1793662127&sig=kSFVo7aTWew8h_rJ--hdV4_ogpAmjTe-Xx6h-MT_bwU">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=389&added=%2B205%2C154&removed=-67%2C377&net=%2B137%2C777&lph=%2B820&theme=dark&exp=1793662127&sig=H2Io7zPhTJwMl1GWewUczFgGs9jMHKl0CP6jO5Zxauc" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(48 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(48 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(16 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(16 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(15 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(15 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(8 PRs)</em></li>
 
