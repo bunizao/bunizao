@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=319&added=%2B332%2C096&removed=-68%2C957&net=%2B263%2C139&lph=%2B1%2C566&theme=dark&exp=1793736693&sig=iJFqhfxY186X7ViX1_iDyJrXdDE9ygz8lqrlsYvM1WQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=319&added=%2B332%2C096&removed=-68%2C957&net=%2B263%2C139&lph=%2B1%2C566&theme=light&exp=1793736693&sig=dBmntU2wCzkoYe103Brs6u8n-rVNrufjjbwP5pe_Aww">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=319&added=%2B332%2C096&removed=-68%2C957&net=%2B263%2C139&lph=%2B1%2C566&theme=dark&exp=1793736693&sig=iJFqhfxY186X7ViX1_iDyJrXdDE9ygz8lqrlsYvM1WQ" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=312&added=%2B313%2C194&removed=-64%2C413&net=%2B248%2C781&lph=%2B1%2C481&theme=dark&exp=1793773598&sig=x5c1CBiwE5x5fwC1j7FsoyT5JLwFwebmEsLgYShHIas">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=312&added=%2B313%2C194&removed=-64%2C413&net=%2B248%2C781&lph=%2B1%2C481&theme=light&exp=1793773598&sig=kOxsxbIug5uaRoefAk5dTPr1jdANjv7cCZI4cLYegOM">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=312&added=%2B313%2C194&removed=-64%2C413&net=%2B248%2C781&lph=%2B1%2C481&theme=dark&exp=1793773598&sig=x5c1CBiwE5x5fwC1j7FsoyT5JLwFwebmEsLgYShHIas" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(44 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(31 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(9 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(8 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(19 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(14 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
@@ -50,9 +50,11 @@
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(2 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(1 PR)</em></li>
 </ul>
