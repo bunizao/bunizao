@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=221&added=%2B235%2C861&removed=-55%2C971&net=%2B179%2C890&lph=%2B1%2C071&theme=dark&exp=1793883187&sig=3b5WRrOolHctNnBa9uU4T0zyux6TGwWvHxgsJdtRtkU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=221&added=%2B235%2C861&removed=-55%2C971&net=%2B179%2C890&lph=%2B1%2C071&theme=light&exp=1793883187&sig=Dk42P5MT995n0zOvYa9XUiHrPzXwtY5vqrvIeubCMnU">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=221&added=%2B235%2C861&removed=-55%2C971&net=%2B179%2C890&lph=%2B1%2C071&theme=dark&exp=1793883187&sig=3b5WRrOolHctNnBa9uU4T0zyux6TGwWvHxgsJdtRtkU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=219&added=%2B235%2C827&removed=-55%2C959&net=%2B179%2C868&lph=%2B1%2C071&theme=dark&exp=1793913217&sig=yv5x0tVww0YbjfGmQH3GisKpgVDauIkUYtBi3CPEN-s">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=219&added=%2B235%2C827&removed=-55%2C959&net=%2B179%2C868&lph=%2B1%2C071&theme=light&exp=1793913217&sig=a9Jag_b8KnjUy8KRsvAbjAFWOS9mIQ6d4eDxf5XwbWY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=219&added=%2B235%2C827&removed=-55%2C959&net=%2B179%2C868&lph=%2B1%2C071&theme=dark&exp=1793913217&sig=yv5x0tVww0YbjfGmQH3GisKpgVDauIkUYtBi3CPEN-s" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(27 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(27 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(9 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(9 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(6 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(10 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(10 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
@@ -56,6 +56,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
