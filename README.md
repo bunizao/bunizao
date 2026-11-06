@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=dark&exp=1794012921&sig=MJfdK5NdZkoY2Xd64NKOx2oscHqeE-ggr1uJxRKr4WA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=light&exp=1794012921&sig=QRN0QJaVGOKUlW4-02ZFLbyluDugL5QdMDxInxiRdLA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=dark&exp=1794012921&sig=MJfdK5NdZkoY2Xd64NKOx2oscHqeE-ggr1uJxRKr4WA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=107&added=%2B201%2C199&removed=-41%2C554&net=%2B159%2C645&lph=%2B950&theme=dark&exp=1794055790&sig=ANJl__a4Qb5XgByrl1T9gkFRk9SKEDdxxIfrVmvXLEQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=107&added=%2B201%2C199&removed=-41%2C554&net=%2B159%2C645&lph=%2B950&theme=light&exp=1794055790&sig=ppg1A5viAoMI6sdaGiN9h5NXsV1WkOntweAs5eTILFI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=107&added=%2B201%2C199&removed=-41%2C554&net=%2B159%2C645&lph=%2B950&theme=dark&exp=1794055790&sig=ANJl__a4Qb5XgByrl1T9gkFRk9SKEDdxxIfrVmvXLEQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,9 +38,9 @@
 <ul>
   <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(18 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(6 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(2 PRs)</em></li>
 
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
