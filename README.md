@@ -28,34 +28,28 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=dark&exp=1793987800&sig=0TnTkPHR6fwC5KGKoJNVtyQgyYT_SjpyzrX-46IjzF8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=light&exp=1793987800&sig=SKHUAHx3aF-mu4S2KOHZIv51bWVW01syuiYCDAMBKkw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=11&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=dark&exp=1793987800&sig=0TnTkPHR6fwC5KGKoJNVtyQgyYT_SjpyzrX-46IjzF8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=dark&exp=1794012921&sig=MJfdK5NdZkoY2Xd64NKOx2oscHqeE-ggr1uJxRKr4WA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=light&exp=1794012921&sig=QRN0QJaVGOKUlW4-02ZFLbyluDugL5QdMDxInxiRdLA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=129&added=%2B203%2C014&removed=-42%2C243&net=%2B160%2C771&lph=%2B957&theme=dark&exp=1794012921&sig=MJfdK5NdZkoY2Xd64NKOx2oscHqeE-ggr1uJxRKr4WA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(20 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(18 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(7 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(6 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(6 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(2 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
-  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(2 PRs)</em></li>
-
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
