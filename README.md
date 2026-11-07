@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B200%2C603&removed=-41%2C334&net=%2B159%2C269&lph=%2B948&theme=dark&exp=1794116645&sig=uSVykfeOXut3Ux1jXf3J8koqi2cXrDHGi1lSPZ14dA0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B200%2C603&removed=-41%2C334&net=%2B159%2C269&lph=%2B948&theme=light&exp=1794116645&sig=lVLIFy3E6DVwOzjTSOtLSNLEDQ1ZQsbh8fPoyd3GEcA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B200%2C603&removed=-41%2C334&net=%2B159%2C269&lph=%2B948&theme=dark&exp=1794116645&sig=uSVykfeOXut3Ux1jXf3J8koqi2cXrDHGi1lSPZ14dA0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=94&added=%2B198%2C487&removed=-41%2C053&net=%2B157%2C434&lph=%2B937&theme=dark&exp=1794154583&sig=dJYxGkoq7PyN6rreUGpAAa4ikJUFyLZ1LXLqmZ0CPdI">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=94&added=%2B198%2C487&removed=-41%2C053&net=%2B157%2C434&lph=%2B937&theme=light&exp=1794154583&sig=log-mBcjLP6JS7stp8JWRbwR8Cs9EJBWXBaFtCmlX7A">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=94&added=%2B198%2C487&removed=-41%2C053&net=%2B157%2C434&lph=%2B937&theme=dark&exp=1794154583&sig=dJYxGkoq7PyN6rreUGpAAa4ikJUFyLZ1LXLqmZ0CPdI" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(17 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(17 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(2 PRs)</em></li>
 
@@ -48,6 +48,8 @@
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(2 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
