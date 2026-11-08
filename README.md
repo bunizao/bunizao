@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=88&added=%2B198%2C227&removed=-40%2C911&net=%2B157%2C316&lph=%2B936&theme=dark&exp=1794203246&sig=q_2p6riX3Nb5MM0E-oISO3Xv1uJxOzes26CLKkemsV8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=88&added=%2B198%2C227&removed=-40%2C911&net=%2B157%2C316&lph=%2B936&theme=light&exp=1794203246&sig=EuxTzj_wdOg_Qwe9_zQBbJQf1xEJbnS32wxmyA51YQA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=88&added=%2B198%2C227&removed=-40%2C911&net=%2B157%2C316&lph=%2B936&theme=dark&exp=1794203246&sig=q_2p6riX3Nb5MM0E-oISO3Xv1uJxOzes26CLKkemsV8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=56&added=%2B195%2C059&removed=-38%2C920&net=%2B156%2C139&lph=%2B929&theme=dark&exp=1794242146&sig=6eH4MA1J_6W5DZSIsgk8R4SToPBsniDNUBr62g_UKys">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=56&added=%2B195%2C059&removed=-38%2C920&net=%2B156%2C139&lph=%2B929&theme=light&exp=1794242146&sig=KZKNR7oRxQrh5z-6pAx0K7GbegsJT3OxJxHf_aULNXw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=56&added=%2B195%2C059&removed=-38%2C920&net=%2B156%2C139&lph=%2B929&theme=dark&exp=1794242146&sig=6eH4MA1J_6W5DZSIsgk8R4SToPBsniDNUBr62g_UKys" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Shh. <em>(16 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(16 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
