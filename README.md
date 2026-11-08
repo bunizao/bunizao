@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=56&added=%2B195%2C059&removed=-38%2C920&net=%2B156%2C139&lph=%2B929&theme=dark&exp=1794242146&sig=6eH4MA1J_6W5DZSIsgk8R4SToPBsniDNUBr62g_UKys">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=56&added=%2B195%2C059&removed=-38%2C920&net=%2B156%2C139&lph=%2B929&theme=light&exp=1794242146&sig=KZKNR7oRxQrh5z-6pAx0K7GbegsJT3OxJxHf_aULNXw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=56&added=%2B195%2C059&removed=-38%2C920&net=%2B156%2C139&lph=%2B929&theme=dark&exp=1794242146&sig=6eH4MA1J_6W5DZSIsgk8R4SToPBsniDNUBr62g_UKys" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=55&added=%2B194%2C946&removed=-38%2C875&net=%2B156%2C071&lph=%2B929&theme=dark&exp=1794267377&sig=dhSYexgI9Fxqf-0jjFbxPa4sgrFAKzAoGqw23b51M18">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=55&added=%2B194%2C946&removed=-38%2C875&net=%2B156%2C071&lph=%2B929&theme=light&exp=1794267377&sig=jcybEnLlw834AYhztxbByUuaFAAkpH33m15_RSft0-M">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=55&added=%2B194%2C946&removed=-38%2C875&net=%2B156%2C071&lph=%2B929&theme=dark&exp=1794267377&sig=dhSYexgI9Fxqf-0jjFbxPa4sgrFAKzAoGqw23b51M18" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -50,6 +50,6 @@
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
