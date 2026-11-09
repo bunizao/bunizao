@@ -28,26 +28,30 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=11&added=%2B1%2C501&removed=-586&net=%2B915&lph=%2B5&theme=dark&exp=1794290245&sig=G7WznnSU4vSCmo4hBh9GM026VDKwb9aDGSpx4QwPNF0">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=11&added=%2B1%2C501&removed=-586&net=%2B915&lph=%2B5&theme=light&exp=1794290245&sig=Qq4fH06sN8D6vR1wTkRJoYtAaFuCJGEpHpqjqMXFklg">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=11&added=%2B1%2C501&removed=-586&net=%2B915&lph=%2B5&theme=dark&exp=1794290245&sig=G7WznnSU4vSCmo4hBh9GM026VDKwb9aDGSpx4QwPNF0" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=7&added=%2B540&removed=-61&net=%2B479&lph=%2B3&theme=dark&exp=1794343066&sig=Om7xCvKq8zdhAuQnHHdrPCsw6uaMViYffGsN7pOyqOk">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=7&added=%2B540&removed=-61&net=%2B479&lph=%2B3&theme=light&exp=1794343066&sig=fmQik2Fk4Sv_zLjSzdbyWiHXnGzsIwfQiVUCwgvlrRc">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=7&added=%2B540&removed=-61&net=%2B479&lph=%2B3&theme=dark&exp=1794343066&sig=Om7xCvKq8zdhAuQnHHdrPCsw6uaMViYffGsN7pOyqOk" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(6 PRs)</em></li>
-
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(6 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
