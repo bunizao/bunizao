@@ -28,17 +28,15 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=55&added=%2B194%2C946&removed=-38%2C875&net=%2B156%2C071&lph=%2B929&theme=dark&exp=1794267377&sig=dhSYexgI9Fxqf-0jjFbxPa4sgrFAKzAoGqw23b51M18">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=55&added=%2B194%2C946&removed=-38%2C875&net=%2B156%2C071&lph=%2B929&theme=light&exp=1794267377&sig=jcybEnLlw834AYhztxbByUuaFAAkpH33m15_RSft0-M">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=55&added=%2B194%2C946&removed=-38%2C875&net=%2B156%2C071&lph=%2B929&theme=dark&exp=1794267377&sig=dhSYexgI9Fxqf-0jjFbxPa4sgrFAKzAoGqw23b51M18" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=11&added=%2B1%2C501&removed=-586&net=%2B915&lph=%2B5&theme=dark&exp=1794290245&sig=G7WznnSU4vSCmo4hBh9GM026VDKwb9aDGSpx4QwPNF0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=11&added=%2B1%2C501&removed=-586&net=%2B915&lph=%2B5&theme=light&exp=1794290245&sig=Qq4fH06sN8D6vR1wTkRJoYtAaFuCJGEpHpqjqMXFklg">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=11&added=%2B1%2C501&removed=-586&net=%2B915&lph=%2B5&theme=dark&exp=1794290245&sig=G7WznnSU4vSCmo4hBh9GM026VDKwb9aDGSpx4QwPNF0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(16 PRs)</em></li>
-
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(6 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(6 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 
@@ -46,10 +44,10 @@
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
