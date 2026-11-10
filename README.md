@@ -28,15 +28,19 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=3&added=%2B181&removed=-47&net=%2B134&lph=%2B1&theme=dark&exp=1794380447&sig=EXv8IQelfSnNzWymP92Kz-OA2v73CSFN8VNGJwcgKBM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=3&added=%2B181&removed=-47&net=%2B134&lph=%2B1&theme=light&exp=1794380447&sig=UZBQ4cuaZFhvbpVjXYCnRJpQ4oG2AMmIGby37notNLM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=3&added=%2B181&removed=-47&net=%2B134&lph=%2B1&theme=dark&exp=1794380447&sig=EXv8IQelfSnNzWymP92Kz-OA2v73CSFN8VNGJwcgKBM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=91&added=%2B32%2C918&removed=-4%2C105&net=%2B28%2C813&lph=%2B172&theme=dark&exp=1794418700&sig=jIeSCtB_SH153_8E1NYlPu6xhMw3jvwVhc3WFyK8x7A">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=91&added=%2B32%2C918&removed=-4%2C105&net=%2B28%2C813&lph=%2B172&theme=light&exp=1794418700&sig=hSEj7UfxNo686iBOmAd3u79C4ii1tJ0PlT50fq50rD8">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=91&added=%2B32%2C918&removed=-4%2C105&net=%2B28%2C813&lph=%2B172&theme=dark&exp=1794418700&sig=jIeSCtB_SH153_8E1NYlPu6xhMw3jvwVhc3WFyK8x7A" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(1 PR)</em></li>
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(3 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(12 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
 
@@ -47,10 +51,6 @@
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 </ul>
