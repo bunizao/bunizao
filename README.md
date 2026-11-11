@@ -28,23 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=91&added=%2B32%2C918&removed=-4%2C105&net=%2B28%2C813&lph=%2B172&theme=dark&exp=1794443501&sig=5s6hMu1dN0CfiD538RMvCuJxsK8Xmz50p5Is1KAIgz8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=91&added=%2B32%2C918&removed=-4%2C105&net=%2B28%2C813&lph=%2B172&theme=light&exp=1794443501&sig=nTLpQi-yRT_yBp3Q1UWqG7eYw6IzVoD05zVGWivwAqI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=91&added=%2B32%2C918&removed=-4%2C105&net=%2B28%2C813&lph=%2B172&theme=dark&exp=1794443501&sig=5s6hMu1dN0CfiD538RMvCuJxsK8Xmz50p5Is1KAIgz8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794486882&sig=UcXuD4KFBEJgiHKo3-EkOBeWTwJeKk4jiDiwGV46CfA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=light&exp=1794486882&sig=BuYuQt9EDQvCP6K7xwfyLVuqy4Hw4W6YLxM42T8SsqI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794486882&sig=UcXuD4KFBEJgiHKo3-EkOBeWTwJeKk4jiDiwGV46CfA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(3 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(5 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(12 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(13 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/Mirrored">bunizao/Mirrored</a></strong> — 🪞 Script &amp; module mirror — for personal use only</li>
-
-  <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus — a self-deployed Cloudflare toolkit aggregating Ed Discussion and Moodle. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus. 🚧 WIP so... Stay tuned! <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
