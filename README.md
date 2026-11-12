@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794520196&sig=U_dfpdJgo-iKUvttYRvFO3B8pXklLKYXDImw_YNhUQI">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=light&exp=1794520196&sig=Ht1YbAmDPgROWSUuoCloGmBZMSd8dHnzsCvDjIQAR1Q">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794520196&sig=U_dfpdJgo-iKUvttYRvFO3B8pXklLKYXDImw_YNhUQI" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794553045&sig=71cf8kxd19nrBf5ihQmt1_-2zHfqxpwGoXkXcOWrv0E">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=light&exp=1794553045&sig=OEshC0-13162H8GQKZzRkN1-MbrkfrJIVHj2qXQZ5ao">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794553045&sig=71cf8kxd19nrBf5ihQmt1_-2zHfqxpwGoXkXcOWrv0E" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,7 +38,7 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(5 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(13 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
 
