@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794553045&sig=71cf8kxd19nrBf5ihQmt1_-2zHfqxpwGoXkXcOWrv0E">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=light&exp=1794553045&sig=OEshC0-13162H8GQKZzRkN1-MbrkfrJIVHj2qXQZ5ao">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=6&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794553045&sig=71cf8kxd19nrBf5ihQmt1_-2zHfqxpwGoXkXcOWrv0E" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794593178&sig=UT3VbUVCW5WP8cxsx0btLHCVfr1sxv3moaj4oMNHOR8">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=light&exp=1794593178&sig=it5ZAdTVEiHhvrOZ-3z6EnJG3ysf2WP_rChfknKoJKI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794593178&sig=UT3VbUVCW5WP8cxsx0btLHCVfr1sxv3moaj4oMNHOR8" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -47,5 +47,7 @@
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
