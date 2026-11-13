@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794593178&sig=UT3VbUVCW5WP8cxsx0btLHCVfr1sxv3moaj4oMNHOR8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=light&exp=1794593178&sig=it5ZAdTVEiHhvrOZ-3z6EnJG3ysf2WP_rChfknKoJKI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=96&added=%2B32%2C943&removed=-4%2C256&net=%2B28%2C687&lph=%2B171&theme=dark&exp=1794593178&sig=UT3VbUVCW5WP8cxsx0btLHCVfr1sxv3moaj4oMNHOR8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=98&added=%2B33%2C261&removed=-4%2C290&net=%2B28%2C971&lph=%2B172&theme=dark&exp=1794617944&sig=ZkRZP6AP0A3kwzXPgwG-mkX19ZJnjNW1TBpGfWxbztA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=98&added=%2B33%2C261&removed=-4%2C290&net=%2B28%2C971&lph=%2B172&theme=light&exp=1794617944&sig=YQkzS3ztT4uCmCNEczn89IvOqqt-_1lTL8OH0cAG-7M">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=98&added=%2B33%2C261&removed=-4%2C290&net=%2B28%2C971&lph=%2B172&theme=dark&exp=1794617944&sig=ZkRZP6AP0A3kwzXPgwG-mkX19ZJnjNW1TBpGfWxbztA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,16 +38,16 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(5 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(14 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus. 🚧 WIP so... Stay tuned! <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
-
-  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
