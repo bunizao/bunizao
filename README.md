@@ -28,9 +28,9 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=163&added=%2B54%2C803&removed=-6%2C706&net=%2B48%2C097&lph=%2B286&theme=dark&exp=1794809229&sig=wx8JzzQ5oBLzlly70RMIT-AlKbNKQRF9-YuWG0bBTSs">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=163&added=%2B54%2C803&removed=-6%2C706&net=%2B48%2C097&lph=%2B286&theme=light&exp=1794809229&sig=Hp1pzgrwIqMcCQTM9pbAyWLUIWrgfL72jLwbeBZ1Hw0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=163&added=%2B54%2C803&removed=-6%2C706&net=%2B48%2C097&lph=%2B286&theme=dark&exp=1794809229&sig=wx8JzzQ5oBLzlly70RMIT-AlKbNKQRF9-YuWG0bBTSs" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=161&added=%2B54%2C261&removed=-6%2C661&net=%2B47%2C600&lph=%2B283&theme=dark&exp=1794848171&sig=JMpHK1FwKLkeGjsiSg7-9Rp2NAzccKZFMSxq_MvyQ7Y">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=161&added=%2B54%2C261&removed=-6%2C661&net=%2B47%2C600&lph=%2B283&theme=light&exp=1794848171&sig=bMw9I_K833aBq5jhzl_ahvoFqHFDY4grbK7jcXsKmaE">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=161&added=%2B54%2C261&removed=-6%2C661&net=%2B47%2C600&lph=%2B283&theme=dark&exp=1794848171&sig=JMpHK1FwKLkeGjsiSg7-9Rp2NAzccKZFMSxq_MvyQ7Y" alt="Recent Activity Stats" />
 </picture>
 
 </div>
@@ -38,13 +38,13 @@
 <ul>
   <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(5 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(18 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(18 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know. <em>(3 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
 
