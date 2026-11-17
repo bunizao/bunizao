@@ -28,23 +28,23 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=190&added=%2B1%2C113%2C998&removed=-32%2C519&net=%2B1%2C081%2C479&lph=%2B6%2C437&theme=dark&exp=1794946525&sig=T0750BSzi65n8ROyyYqHn2p50IAyVKzMrwzNBJSBzcM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=190&added=%2B1%2C113%2C998&removed=-32%2C519&net=%2B1%2C081%2C479&lph=%2B6%2C437&theme=light&exp=1794946525&sig=tKuGahNiH99UjijPDYayU6S1lE5EEaxtG6HVaZfgmOo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=190&added=%2B1%2C113%2C998&removed=-32%2C519&net=%2B1%2C081%2C479&lph=%2B6%2C437&theme=dark&exp=1794946525&sig=T0750BSzi65n8ROyyYqHn2p50IAyVKzMrwzNBJSBzcM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=172&added=%2B1%2C098%2C488&removed=-30%2C434&net=%2B1%2C068%2C054&lph=%2B6%2C357&theme=dark&exp=1794987709&sig=C8EGCmmNGJIF1meAE19VmIJMn0dj_156VjO-xO5igwg">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=172&added=%2B1%2C098%2C488&removed=-30%2C434&net=%2B1%2C068%2C054&lph=%2B6%2C357&theme=light&exp=1794987709&sig=Fs36C2SQ9k-Q0vAKrJJJrGbHzgqOb3CsyOyAAV5dZNw">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=172&added=%2B1%2C098%2C488&removed=-30%2C434&net=%2B1%2C068%2C054&lph=%2B6%2C357&theme=dark&exp=1794987709&sig=C8EGCmmNGJIF1meAE19VmIJMn0dj_156VjO-xO5igwg" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(10 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(11 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(22 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(22 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(5 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see.</li>
+  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
 
   <li><strong><a href="https://github.com/bunizao/ogis">bunizao/ogis</a></strong> — A dynamic Open Graph image generation service with custom themes. Built on Next.js. <em>(1 PR)</em></li>
 
