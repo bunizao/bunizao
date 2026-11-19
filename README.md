@@ -28,26 +28,30 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=168&added=%2B1%2C170%2C115&removed=-31%2C926&net=%2B1%2C138%2C189&lph=%2B6%2C775&theme=dark&exp=1795095984&sig=_cQnN693OHj1aZ0OH6zS7WzqRsVRChkmjWEap3RFYwU">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=168&added=%2B1%2C170%2C115&removed=-31%2C926&net=%2B1%2C138%2C189&lph=%2B6%2C775&theme=light&exp=1795095984&sig=r7tABfkWrUtRpwWGzOLHThFFhwrLj3_opuEJF5MGjTw">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=7&commits=168&added=%2B1%2C170%2C115&removed=-31%2C926&net=%2B1%2C138%2C189&lph=%2B6%2C775&theme=dark&exp=1795095984&sig=_cQnN693OHj1aZ0OH6zS7WzqRsVRChkmjWEap3RFYwU" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=269&added=%2B1%2C258%2C167&removed=-53%2C138&net=%2B1%2C205%2C029&lph=%2B7%2C173&theme=dark&exp=1795158343&sig=BmsDXI8UUYhiHubyKzQj5FzmtsdadQWpWLMllMjSBeU">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=269&added=%2B1%2C258%2C167&removed=-53%2C138&net=%2B1%2C205%2C029&lph=%2B7%2C173&theme=light&exp=1795158343&sig=8rhQcL8Kl2ytFjxIoaQgKjOQG6zasl6F3R76K_puQv0">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=269&added=%2B1%2C258%2C167&removed=-53%2C138&net=%2B1%2C205%2C029&lph=%2B7%2C173&theme=dark&exp=1795158343&sig=BmsDXI8UUYhiHubyKzQj5FzmtsdadQWpWLMllMjSBeU" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(16 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(19 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(10 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(9 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session.</li>
+  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/okta-auth">bunizao/okta-auth</a></strong> — CLI and MCP server for Okta SSO authentication with persistent session management <em>(2 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
+
+  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(1 PR)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 </ul>
 <!-- RECENT_ACTIVITY:END -->
