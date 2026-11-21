@@ -28,19 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=254&added=%2B1%2C242%2C326&removed=-52%2C368&net=%2B1%2C189%2C958&lph=%2B7%2C083&theme=dark&exp=1795330350&sig=DdSwlnO497YGZiCcHDweQu7mgpo-XGv6-CSICkei40A">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=254&added=%2B1%2C242%2C326&removed=-52%2C368&net=%2B1%2C189%2C958&lph=%2B7%2C083&theme=light&exp=1795330350&sig=yyU000towlvNrg5RDg4AbqYbUqrpo20gZz9E_N-hyW0">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=254&added=%2B1%2C242%2C326&removed=-52%2C368&net=%2B1%2C189%2C958&lph=%2B7%2C083&theme=dark&exp=1795330350&sig=DdSwlnO497YGZiCcHDweQu7mgpo-XGv6-CSICkei40A" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=303&added=%2B1%2C251%2C563&removed=-65%2C757&net=%2B1%2C185%2C806&lph=%2B7%2C058&theme=dark&exp=1795367892&sig=jnXe49L2GPcKezX6YMWCjs55Goi-2EQhhx_OzpwJw88">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=303&added=%2B1%2C251%2C563&removed=-65%2C757&net=%2B1%2C185%2C806&lph=%2B7%2C058&theme=light&exp=1795367892&sig=SEYgeDFtxkvH6Ez9tXjgjOCDJWp92uW9-wH46l07kBI">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=303&added=%2B1%2C251%2C563&removed=-65%2C757&net=%2B1%2C185%2C806&lph=%2B7%2C058&theme=dark&exp=1795367892&sig=jnXe49L2GPcKezX6YMWCjs55Goi-2EQhhx_OzpwJw88" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(21 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this. <em>(23 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(2 PRs)</em></li>
 
@@ -48,9 +50,9 @@
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(2 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 </ul>
