@@ -28,21 +28,21 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=310&added=%2B1%2C247%2C206&removed=-66%2C471&net=%2B1%2C180%2C735&lph=%2B7%2C028&theme=dark&exp=1795439557&sig=CsQmHtjXC5sPTKhNQegTIwsD5tAS8Ta8OgQR7327V6o">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=310&added=%2B1%2C247%2C206&removed=-66%2C471&net=%2B1%2C180%2C735&lph=%2B7%2C028&theme=light&exp=1795439557&sig=xC00hV5NW4pA8t087dM4GCF61ubVWwj4-_u6Zswr0IA">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=310&added=%2B1%2C247%2C206&removed=-66%2C471&net=%2B1%2C180%2C735&lph=%2B7%2C028&theme=dark&exp=1795439557&sig=CsQmHtjXC5sPTKhNQegTIwsD5tAS8Ta8OgQR7327V6o" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=310&added=%2B1%2C247%2C206&removed=-66%2C471&net=%2B1%2C180%2C735&lph=%2B7%2C028&theme=dark&exp=1795467537&sig=SYhYIDrr2fG2PFQLxLN7WtSxBOKC2v9M6lSywMjs2E0">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=310&added=%2B1%2C247%2C206&removed=-66%2C471&net=%2B1%2C180%2C735&lph=%2B7%2C028&theme=light&exp=1795467537&sig=xn6gm6jKWlYpDWVId2JB0zgSZH6t5QRXT9MRPF7hlzs">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=310&added=%2B1%2C247%2C206&removed=-66%2C471&net=%2B1%2C180%2C735&lph=%2B7%2C028&theme=dark&exp=1795467537&sig=SYhYIDrr2fG2PFQLxLN7WtSxBOKC2v9M6lSywMjs2E0" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is. <em>(23 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(23 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid.</li>
+  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(4 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(2 PRs)</em></li>
 
@@ -50,7 +50,7 @@
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 </ul>
