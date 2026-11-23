@@ -28,29 +28,29 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=286&added=%2B1%2C065%2C326&removed=-60%2C799&net=%2B1%2C004%2C527&lph=%2B5%2C979&theme=dark&exp=1795504647&sig=3swZxZxdvuAnWWFrpE4E6HO1J81zjEO-Y_S2l87eKx8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=286&added=%2B1%2C065%2C326&removed=-60%2C799&net=%2B1%2C004%2C527&lph=%2B5%2C979&theme=light&exp=1795504647&sig=ahIlJ2PCyF9INdwyTcwGHLw6NEcbCEeTOsSayeP1XyY">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=286&added=%2B1%2C065%2C326&removed=-60%2C799&net=%2B1%2C004%2C527&lph=%2B5%2C979&theme=dark&exp=1795504647&sig=3swZxZxdvuAnWWFrpE4E6HO1J81zjEO-Y_S2l87eKx8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=246&added=%2B177%2C584&removed=-39%2C159&net=%2B138%2C425&lph=%2B824&theme=dark&exp=1795557523&sig=D6xEcn2lsTDPAqPnwg-piN5mNA95WpUDcbVBYI7e1jA">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=246&added=%2B177%2C584&removed=-39%2C159&net=%2B138%2C425&lph=%2B824&theme=light&exp=1795557523&sig=20itEsyK21ODcXBxU9-VAstU8pAXgOcU5lPxvuzYWFk">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=246&added=%2B177%2C584&removed=-39%2C159&net=%2B138%2C425&lph=%2B824&theme=dark&exp=1795557523&sig=D6xEcn2lsTDPAqPnwg-piN5mNA95WpUDcbVBYI7e1jA" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only. <em>(22 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Under construction - or maybe just secret. <em>(23 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
+  <li><strong>bunizao/private-repo</strong> — Classified. Eyes only.</li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(4 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(4 PRs)</em></li>
-
   <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(2 PRs)</em></li>
+
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(3 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
+  <li><strong>bunizao/private-repo</strong> — Nothing to see here. Move along.</li>
 
   <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 </ul>
