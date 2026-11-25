@@ -28,23 +28,23 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=209&added=%2B68%2C307&removed=-38%2C332&net=%2B29%2C975&lph=%2B178&theme=dark&exp=1795680720&sig=SQ5UBnGbIF6MPtBWqTiMyb36nJzYZ0F9K71wrB9D0cw">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=209&added=%2B68%2C307&removed=-38%2C332&net=%2B29%2C975&lph=%2B178&theme=light&exp=1795680720&sig=t1sngJ0djpY3UtTmvXoWUmkT7yTAeUD_qO51u7yqsuI">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=209&added=%2B68%2C307&removed=-38%2C332&net=%2B29%2C975&lph=%2B178&theme=dark&exp=1795680720&sig=SQ5UBnGbIF6MPtBWqTiMyb36nJzYZ0F9K71wrB9D0cw" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=159&added=%2B48%2C984&removed=-27%2C786&net=%2B21%2C198&lph=%2B126&theme=dark&exp=1795722720&sig=wYDvt9Qef9U6_WDP-YZ_VzwfrEpqU8uRzh7be6Zic3E">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=159&added=%2B48%2C984&removed=-27%2C786&net=%2B21%2C198&lph=%2B126&theme=light&exp=1795722720&sig=AdpaumBw6FMkeGm4TF-Yzn94rkNvqLd6OesvZy0c6ls">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=159&added=%2B48%2C984&removed=-27%2C786&net=%2B21%2C198&lph=%2B126&theme=dark&exp=1795722720&sig=wYDvt9Qef9U6_WDP-YZ_VzwfrEpqU8uRzh7be6Zic3E" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — 404: description not found. Intentionally. <em>(17 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Shh.</li>
+  <li><strong>bunizao/private-repo</strong> — What lies hidden here? Just wait and see. <em>(17 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(4 PRs)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
-
   <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(3 PRs)</em></li>
+
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(4 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(3 PRs)</em></li>
 
