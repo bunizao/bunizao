@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=159&added=%2B48%2C984&removed=-27%2C786&net=%2B21%2C198&lph=%2B126&theme=dark&exp=1795747434&sig=RmmrEkgsCqYFmJCdYr9_ZDKZkN3C4tZSEieu7CC2sL8">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=159&added=%2B48%2C984&removed=-27%2C786&net=%2B21%2C198&lph=%2B126&theme=light&exp=1795747435&sig=bu6z9dWIpRDShjYf0IK9XEga7PNd6Sy-daj2pWTmZpo">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=159&added=%2B48%2C984&removed=-27%2C786&net=%2B21%2C198&lph=%2B126&theme=dark&exp=1795747434&sig=RmmrEkgsCqYFmJCdYr9_ZDKZkN3C4tZSEieu7CC2sL8" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=112&added=%2B22%2C816&removed=-21%2C274&net=%2B1%2C542&lph=%2B9&theme=dark&exp=1795791388&sig=A280p4q-Gv18JkqW8-0LskVO0N3FjxrQ5SlRQR-Te2M">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=112&added=%2B22%2C816&removed=-21%2C274&net=%2B1%2C542&lph=%2B9&theme=light&exp=1795791388&sig=34P-J4gtL02bLuGwzioSoihOnLM6qFyLcZXYp9mmREY">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=9&commits=112&added=%2B22%2C816&removed=-21%2C274&net=%2B1%2C542&lph=%2B9&theme=dark&exp=1795791388&sig=A280p4q-Gv18JkqW8-0LskVO0N3FjxrQ5SlRQR-Te2M" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — Not all secrets are meant to be kept. This one is.</li>
+  <li><strong>bunizao/private-repo</strong> — You weren't supposed to find this.</li>
 
-  <li><strong>bunizao/private-repo</strong> — This repo does not exist. Probably. <em>(13 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(16 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(4 PRs)</em></li>
 
