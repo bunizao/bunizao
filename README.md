@@ -28,31 +28,27 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=135&added=%2B26%2C456&removed=-27%2C175&net=-719&lph=-4&theme=dark&exp=1795822923&sig=fXuHazW78e2OMk-E0s1GvYq_DZizOjEfyMjsP3RjzgM">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=135&added=%2B26%2C456&removed=-27%2C175&net=-719&lph=-4&theme=light&exp=1795822923&sig=MQpPd2rBkuVdAXThxgp3j9rmKIVa7KqygO7Lr13pxUM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=10&commits=135&added=%2B26%2C456&removed=-27%2C175&net=-719&lph=-4&theme=dark&exp=1795822923&sig=fXuHazW78e2OMk-E0s1GvYq_DZizOjEfyMjsP3RjzgM" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=134&added=%2B26%2C318&removed=-27%2C131&net=-813&lph=-5&theme=dark&exp=1795852869&sig=M1GAMUDd6P3WrRVgnJRdAzKS1HMeCwmdRuYkowYLxlM">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=134&added=%2B26%2C318&removed=-27%2C131&net=-813&lph=-5&theme=light&exp=1795852869&sig=fmFI3njrDN3Dd-VbpfYeWjI0siGWZPFx8gzwaNg2x9I">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=134&added=%2B26%2C318&removed=-27%2C131&net=-813&lph=-5&theme=dark&exp=1795852869&sig=M1GAMUDd6P3WrRVgnJRdAzKS1HMeCwmdRuYkowYLxlM" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — This looked like a good idea at 2am.</li>
+  <li><strong>bunizao/private-repo</strong> — The less you know, the better.</li>
 
-  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.) <em>(16 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Some things are better left unsaid. <em>(16 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/douyin-ember">bunizao/douyin-ember</a></strong> — hmm im just a janitor 🧹. better now, or still a mess?</li>
 
-  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(4 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(1 PR)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/cli-kit">bunizao/cli-kit</a></strong> — CLI contracts for unicorn <em>(3 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/ontrack-cli">bunizao/ontrack-cli</a></strong> — Terminal-first CLI for OnTrack that reuses your authenticated browser session. <em>(1 PR)</em></li>
 
-  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(3 PRs)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/edstem-cli">bunizao/edstem-cli</a></strong> — CLI and MCP access to Ed Discussion for human, scripts, and AI agents. <em>(2 PRs)</em></li>
+  <li><strong><a href="https://github.com/bunizao/moodle-cli">bunizao/moodle-cli</a></strong> — A tool for students to use, calling an agent to operate your Moodle. <em>(2 PRs)</em></li>
 
   <li><strong><a href="https://github.com/bunizao/Attegi">bunizao/Attegi</a></strong> — Attegi is an elegant and dynamic Ghost theme, with a modern design, deep support for Ghost, and specially optimized for mobile devices. <em>(1 PR)</em></li>
-
-  <li><strong><a href="https://github.com/bunizao/cli-kit-docs">bunizao/cli-kit-docs</a></strong> — Guides, command references, and MCP setup for Moodle, Ed Discussion, and OnTrack CLIs. <em>(1 PR)</em></li>
 
   <li><strong><a href="https://github.com/TuuHub/unicorn">TuuHub/unicorn</a></strong> — One creature that watches your whole campus. 🚧 WIP so... Stay tuned! <em>(1 PR)</em></li>
 </ul>
