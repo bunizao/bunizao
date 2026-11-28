@@ -28,17 +28,17 @@
 </picture>
 <!-- RECENT_ACTIVITY:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=166&added=%2B39%2C023&removed=-29%2C085&net=%2B9%2C938&lph=%2B59&theme=dark&exp=1795893902&sig=1v8hTpfi0a6t40_Z7a0dz_FtnzKn4TCN3fBBCNeNSVA">
-  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=166&added=%2B39%2C023&removed=-29%2C085&net=%2B9%2C938&lph=%2B59&theme=light&exp=1795893902&sig=NWf_i7QqGsHUSAjj5r50AaNFRrtqyvlEVcTG4b4eucM">
-  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=166&added=%2B39%2C023&removed=-29%2C085&net=%2B9%2C938&lph=%2B59&theme=dark&exp=1795893902&sig=1v8hTpfi0a6t40_Z7a0dz_FtnzKn4TCN3fBBCNeNSVA" alt="Recent Activity Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=166&added=%2B39%2C023&removed=-29%2C085&net=%2B9%2C938&lph=%2B59&theme=dark&exp=1795919678&sig=cnUefqzAPDp4-eltupuANhgwjQDykapg8WyNK4Mi4nQ">
+  <source media="(prefers-color-scheme: light)" srcset="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=166&added=%2B39%2C023&removed=-29%2C085&net=%2B9%2C938&lph=%2B59&theme=light&exp=1795919678&sig=2ttNgxAliQBIImP0sHEaZqpov-szKy4Fy05IrLtDFaA">
+  <img height="155" src="https://buxx.me/api/activity-panel.svg?days=7&projects=8&commits=166&added=%2B39%2C023&removed=-29%2C085&net=%2B9%2C938&lph=%2B59&theme=dark&exp=1795919678&sig=cnUefqzAPDp4-eltupuANhgwjQDykapg8WyNK4Mi4nQ" alt="Recent Activity Stats" />
 </picture>
 
 </div>
 
 <ul>
-  <li><strong>bunizao/private-repo</strong> — The less you know, the better. <em>(19 PRs)</em></li>
+  <li><strong>bunizao/private-repo</strong> — Shh. <em>(18 PRs)</em></li>
 
-  <li><strong>bunizao/private-repo</strong> — If you know, you know.</li>
+  <li><strong>bunizao/private-repo</strong> — Access denied. (For now.)</li>
 
   <li><strong><a href="https://github.com/bunizao/douyin-ember">bunizao/douyin-ember</a></strong> — hmm im just a janitor 🧹. better now, or still a mess?</li>
 
